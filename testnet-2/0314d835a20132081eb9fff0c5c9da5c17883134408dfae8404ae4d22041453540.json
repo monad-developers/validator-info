@@ -1,0 +1,9 @@
+{
+  "name": "Staker Space",
+  "secp": "0314d835a20132081eb9fff0c5c9da5c17883134408dfae8404ae4d22041453540",
+  "bls": "8c8f299dc547c0dd9b83ccb3c933206884fb18b4bf8123f56b9dd9fbd3f7ddc9f5031f165756169cec2e7abbed606027",
+  "website": "https://staker.space",
+  "description": "Independent node-operator that supports open networks to secure the future of the decentralized infrastructure",
+  "logo": "https://staker.space/ss_logo.svg",
+  "x": "https://x.com/stakerspace"
+}
