@@ -1,0 +1,9 @@
+{
+    "name": "aPriori",
+    "secp": "0274387058c65eb27d9e28d1df501ccabae92ab4693c47e13b0bb48bfb82b0bef8",
+    "bls": "b4cf0e18c9d08033e3b78812b42162ce3bea7d0bc455e9556ed148d353108ea29a05e58acf2f86314cfe268217dcefb7",
+    "website": "https://apr.io/",
+    "description": "MEV Powered Liquid Staking with aprMON",
+    "logo": "https://www.apr.io/logo-with-name.svg",
+    "x": "https://x.com/apr_labs"
+}
