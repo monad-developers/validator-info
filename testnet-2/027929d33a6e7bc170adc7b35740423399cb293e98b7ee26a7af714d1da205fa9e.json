@@ -1,0 +1,9 @@
+{
+  "name": "chainup.net",
+  "secp": "027929d33a6e7bc170adc7b35740423399cb293e98b7ee26a7af714d1da205fa9e",
+  "bls": "8541b07d2be86ff7e43c6100835a988feaae259b31ff2b0cf95da18a2a707b0946cf94470f8c373863737da977a21cf6",
+  "website": "https://cloud.chainup.com",
+  "description": "ChainUp Cloud",
+  "logo": "https://cloud.chainup.com/images/logo_h5.svg",
+  "x": "https://x.com/chainupcloud"
+}
