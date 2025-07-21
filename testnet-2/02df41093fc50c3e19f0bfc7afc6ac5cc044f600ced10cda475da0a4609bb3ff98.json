@@ -1,0 +1,9 @@
+{
+  "name": "P2P.org Testnet Validator 2 APAC",
+  "secp": "02df41093fc50c3e19f0bfc7afc6ac5cc044f600ced10cda475da0a4609bb3ff98",
+  "bls": "a46e6dbd89a7ddc201e206b1c08c3a6481b872c3a3ee9d8a2c418c43e686a4478290341bb340eae1bdb25fee3246e9a7",
+  "website": "http://p2p.org/",
+  "description": "P2P.org",
+  "logo": "https://cdn.p2p.org/p2p360_logo.png",
+  "x": "https://x.com/P2Pvalidator"
+}

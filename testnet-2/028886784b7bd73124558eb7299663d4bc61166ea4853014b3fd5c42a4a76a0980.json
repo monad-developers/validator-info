@@ -1,0 +1,9 @@
+{
+  "name": "Coinage x DAIC",
+  "secp": "028886784b7bd73124558eb7299663d4bc61166ea4853014b3fd5c42a4a76a0980",
+  "bls": "b132c9ddd7971e4871ae8240450e3b12de4b28050fc7144fee59f859cbb17c9cc2c424999f48f8e67cb6e5d071c9a589",
+  "website": "https://daic.capital/",
+  "description": "Coinage x DAIC Validator",
+  "logo": "https://raw.githubusercontent.com/DAICers/coinage_x_daic/refs/heads/main/files/images/DAIC-CNG-Ape_360_moniker.png",
+  "x": "https://x.com/coinage_x_daic"
+}
