@@ -1,0 +1,9 @@
+{
+  "name": "Staking Facilties - testnet-monad.stakingfacilities.com",
+  "secp": "03130ed6d4938480d4e271640998959c6ac9b47d0649dbb968e460ebfe39ce25de",
+  "bls": "b5351538881d84b0cbe88005402439ab60137bdd94781997f7234384403b2bdcc728988bd449da29b7798ab67df9b10d",
+  "website": "https://stakingfacilities.com/",
+  "description": "Staking Facilities",
+  "logo": "https://cdn.prod.website-files.com/5f699e8d6a7c1154451f214a/6840576566a3373a84dbfec2_Icon_White.png",
+  "x": "https://x.com/StakingFac"
+}
