@@ -1,0 +1,9 @@
+{
+  "name": "Hashkey",
+  "secp": "0350c65b72c4281d9b5dc78a5ea1eeb1661a357ac23ecb8d723daebcf8bbd0b494",
+  "bls": "8fa476ccbba131468f91c8ebb14253b7e007967209fef2ae4caa11fa8b1ea3860318eaa5459c973ef41550610e5b03c7",
+  "website": "https://www.hashkey.cloud/",
+  "description": "HashKey Cloud, as a leading provider of global Web3 infrastructure and a core member of the HashKey Group, focuses on delivering professional, stable, and secure blockchain services to clients worldwide. Since 2018, we have been deeply committed to blockchain infrastructure technologies, with our staking services covering over 80 mainstream public chains and continuous exploration into Ethereum Layer2 and Bitcoin Lightning Network technologies.",
+  "logo": "https://raw.githubusercontent.com/HashKeyCloud/HashKey-Cloud-Logo/main/hashkey-cloud-white.png",
+  "x": "https://x.com/HashKeyCloud"
+}
