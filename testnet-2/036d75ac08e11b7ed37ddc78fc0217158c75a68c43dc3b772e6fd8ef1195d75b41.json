@@ -1,0 +1,9 @@
+{
+  "name": "Nodeinfra",
+  "secp": "036d75ac08e11b7ed37ddc78fc0217158c75a68c43dc3b772e6fd8ef1195d75b41",
+  "bls": "ac5d697ead13c5507574b56ae1db8d5f976faa0cb69d9cfbe1894f32f53e470e136e62e7ac4ab23ec6984da5315315fa",
+  "website": "https://nodeinfra.com/",
+  "description": "Korean validator focused on reliability and security",
+  "logo": "https://nodeinfra.com/niLogo.png",
+  "x": "https://x.com/nodeinfra"
+}

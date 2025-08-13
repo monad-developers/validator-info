@@ -1,0 +1,9 @@
+{
+  "name": "DTEAM",
+  "secp": "02ba7d03b0fc23f4db9b9d173980e327d65ea1a1391e1ee5513196a64ce5bc7eef",
+  "bls": "88854513102479fd51b810454de64e1e461185d182abaa34a3fc8bc52052d9238e1f2d2a8a5b9f8ba4859c9e2f7796de",
+  "website": "https://dteam.tech/",
+  "description": "dteam.tech provides reliable infrastructure to support and scale projects effectively, along with building essential tools tailored for project communities, node operators and developers.",
+  "logo": "https://raw.githubusercontent.com/DTEAMTECH/identity/refs/heads/main/logo.png",
+  "x": "https://x.com/dteamtech"
+}
