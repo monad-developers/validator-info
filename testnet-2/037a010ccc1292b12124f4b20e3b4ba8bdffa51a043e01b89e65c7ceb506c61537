@@ -1,0 +1,9 @@
+{
+  "name": "A41",
+  "secp": "037a010ccc1292b12124f4b20e3b4ba8bdffa51a043e01b89e65c7ceb506c61537",
+  "bls": "b683001fb3d092a88dd5fcc983590a8ac550e34fab59a4f5cbd7f8b9ccf99ca133fcebcba0ecffa7cd134dd4f8f5cbb8",
+  "website": "https://a41.io/,
+  "description": "A41 is a blockchain infrastructure company. We provide staking service on multichain.",
+  "logo": "https://raw.githubusercontent.com/a41-official/metadata/refs/heads/main/logo-white.png",
+  "x": "https://x.com/a41_allforone"
+}
