@@ -1,0 +1,9 @@
+{
+  "name": "Asymmetric Research",
+  "secp": "025005c888d9a58d0e65bc7e0c69652a7c89a27aa4aeb159040ecae17ee516e4dc",
+  "bls": "923fe02ecd6db5478aeff84ccef9a3a6404676a38b43b584a262d60d250751d67aa84e949a41b50197a70cdcbbf7e844",
+  "website": "https://asymmetric.re",
+  "description": "High integrity validation and infrastructure services for web3 ecosystems",
+  "logo": "https://asymmetric-research-web-assets.s3.eu-west-1.amazonaws.com/AR-Logo.png",
+  "x": "https://x.com/asymmetric_re"
+}
