@@ -1,0 +1,9 @@
+{
+  "name": "Liquify",
+  "secp": "0268adc7c666e36a7deb4581ac401079e921f774b64d67918fdc2e03c50319fbea",
+  "bls": "98bb839ffc72c7c795491e4f35a846c0e7bc2e41fe0a4bdd40776a71ada4f15c451238f7fef06595405f53ee618570bf",
+  "website": "https://www.liquify.com/",
+  "description": "Liquify is an institutional bare metal infrastructure as a service company. Currently supporting 90+ chains with 3 billion RPC calls daily and $250+ million AUM",
+  "logo": "https://www.liquify.com/_next/static/media/logo.cec891b8.svg",
+  "x": "https://x.com/liquify_ltd"
+}
