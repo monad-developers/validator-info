@@ -1,0 +1,9 @@
+{
+  "name": "Binary Builders",
+  "secp": "025b7968c142f1f6c4adc48a484073bdc25541e4c2c9cd3da5163a8c2e731ed75f",
+  "bls": "8418e7f5cc695658638ba0e9d5b4ab4332833a92cc34f4b139a51aa228257eaf9a5791849f1cb71433f78a1edf66b2e9",
+  "website": "https://binary.builders/",
+  "description": "Operating secure validators and building new pathways across the world of blockchain.",
+  "logo": "https://raw.githubusercontent.com/01builders/binary.builders/refs/heads/main/static/images/logos/binary-icon.svg",
+  "x": "https://x.com/binary_builders"
+}
