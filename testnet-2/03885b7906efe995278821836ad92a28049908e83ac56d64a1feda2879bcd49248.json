@@ -1,7 +1,7 @@
 {
   "name": "Coinage x DAIC",
-  "secp": "028886784b7bd73124558eb7299663d4bc61166ea4853014b3fd5c42a4a76a0980",
-  "bls": "b132c9ddd7971e4871ae8240450e3b12de4b28050fc7144fee59f859cbb17c9cc2c424999f48f8e67cb6e5d071c9a589",
+  "secp": "03885b7906efe995278821836ad92a28049908e83ac56d64a1feda2879bcd49248",
+  "bls": "b68cfbcd08f711db028e9c93581b4345a0cfc32779585d74783a307fd96b3fb88dc50589fc77a714ea0fe34e9b520161",
   "website": "https://daic.capital/",
   "description": "Coinage x DAIC Validator",
   "logo": "https://raw.githubusercontent.com/DAICers/coinage_x_daic/refs/heads/main/files/images/DAIC-CNG-Ape_360_moniker.png",
