@@ -1,7 +1,7 @@
 {
   "name": "A41",
-  "secp": "037a010ccc1292b12124f4b20e3b4ba8bdffa51a043e01b89e65c7ceb506c61537",
-  "bls": "b683001fb3d092a88dd5fcc983590a8ac550e34fab59a4f5cbd7f8b9ccf99ca133fcebcba0ecffa7cd134dd4f8f5cbb8",
+  "secp": "020eeaa69df408726c596e1c5b5f64cc009a99fa71ddd053baf90b29f2764f15db",
+  "bls": "8d86cafa8936e3b34020876175969f295f4a2d6aa4635ac029a0e95d919813e431246a2d6f58c8b25c5193e96db04541",
   "website": "https://a41.io/,
   "description": "A41 is a blockchain infrastructure company. We provide staking service on multichain.",
   "logo": "https://raw.githubusercontent.com/a41-official/metadata/refs/heads/main/logo-white.png",
