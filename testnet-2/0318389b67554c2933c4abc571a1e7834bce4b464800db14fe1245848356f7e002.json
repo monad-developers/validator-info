@@ -1,7 +1,7 @@
 {
   "name": "0xHub", 
-  "secp": "03ef75eb13268aa8bdd828db1e6e599f82daa798d75d0eddbd2d0e2e8e5a72a827",
-  "bls": "83ffe0baff08c39fc1ad47dd3cd3de67b567a7d3a0d89faaaa8e7bff18f9134d59865d3e65ef745a933ed849f40a0305",
+  "secp": "0318389b67554c2933c4abc571a1e7834bce4b464800db14fe1245848356f7e002",
+  "bls": "92680056b7f4b58156d84479bae40ccb183221a9816ceb77f473fe2b6ebbddef2e7359428ed3fbe0c26e978228fd99ba",
   "website": "https://www.0xhub.xyz/",
   "description": "Innovative and scalable solutions for blockchain projects.",
   "logo": "https://raw.githubusercontent.com/Mutu-s/metadata/6224f136a8a8400bfca5ce5cf57bf701e4412a3f/0xhub.png",
