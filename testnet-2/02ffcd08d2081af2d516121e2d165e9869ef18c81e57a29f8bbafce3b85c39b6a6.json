@@ -1,7 +1,7 @@
 {
   "name": "OpenBuild",
-  "secp": "036e512c40fbf5b6adbd3a072adac2b75b811650f40f60643da25f37d82c98f007",
-  "bls": "a046cf1f9229a807c8c33ec1322b106cf435a8f016e31e9b92f497509dca28436018860e6a5a4699ace013fe188096bc",
+  "secp": "02ffcd08d2081af2d516121e2d165e9869ef18c81e57a29f8bbafce3b85c39b6a6",
+  "bls": "b48305a016a2b292e876f4a39df1ff583bf643b96b166ab7a381595fcbe430eb254e52039a7d70aa2cb70f3b9531573b",
   "website": "https://openbuild.xyz/",
   "description": "The Biggest Web3 Open-Source Community and Education Platform in Asia.",
   "logo": "https://file-cdn.openbuild.xyz/logo1.png",
