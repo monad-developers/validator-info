@@ -1,7 +1,8 @@
 {
+  "id": 64,
   "name": "Gdainfra",
   "secp": "03079de92d6b7c4b55d3522dedd7e139c95c336a3f43a426e41d79e5c36bd4a271",
-  "bls": "82ecc06ad68412f940e21f7765e8ad105cb0dc0d02d1ea11a56852256df595c0f90928cd8f18dfa53a8dbf0a0c",
+  "bls": "82ecc60da6d8421f9a0e2127f765ebad105cbd0dc10d23ed11a156a1852256df595c9f90928cd8c1f8daf53a8dbf0a0c",
   "website": "https://gdainfra.com",
   "description": "GDA Infra – Infrastructure for the Digital Asset Economy.",
   "logo": "https://i.ibb.co/d4jsNvD2/GULF-VC-logo.png",

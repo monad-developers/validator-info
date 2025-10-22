@@ -1,9 +1,10 @@
 {
-    "name": "monstaker",
-    "secp": "02d1afacb9ddebed2725bd7f37eaded44d4a35130952ab6a8d0c5610f3221de032",
-    "bls": "b691f1ef49ff78890568fa8410212a511daf8fff016181636fc8254abb66e328a971b40c1daffbaf9ea8cd38b384d493",
-    "website": "https://superx.odoo.com/",
-    "description": "a nad, and an independent validator",
-    "logo": "https://raw.githubusercontent.com/SuperX-X/images/refs/heads/main/pfp.png",
-    "x": "https://x.com/0xSuper_X"
+  "id": 73,
+  "name": "monstaker",
+  "secp": "02d1afacb9ddebed2725bd7f37eaded44d4a35130952ab6a8d0c5610f3221de032",
+  "bls": "b691f1ef49ff78890568fa8410212a511daf8fff016181636fc8254abb66e328a971b40c1daffbaf9ea8cd38b384d493",
+  "website": "https://superx.odoo.com/",
+  "description": "a nad, and an independent validator",
+  "logo": "https://raw.githubusercontent.com/SuperX-X/images/refs/heads/main/pfp.png",
+  "x": "https://x.com/0xSuper_X"
 }
