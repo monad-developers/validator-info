@@ -1,9 +1,0 @@
-{
-  "name": "Cassini",
-  "secp": "03d217bd965c06f2a6d367c19903e1d575f5f251051a57a782a75499160dfeb07d",
-  "bls": "86556f9c2195a231cbd60ee63942437fa58823e1d8cb5cc712569c360d588dc7a6c4aa767a384f7fc4e4991f1ab4560f",
-  "website": "https://cassini.living/",
-  "description": "Monad community validator for testnet-2",
-  "logo": "https://raw.githubusercontent.com/ccassini/tesnet-2/main/cassini-logo.png",
-  "x": "https://x.com/Cassini0x"
-} 
