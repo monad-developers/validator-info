@@ -1,7 +1,8 @@
 {
+  "id": 71,
   "name": "P2P.org Testnet Validator 1 EU",
   "secp": "02c9cf93d4df1f5c8eba74fead4e252f987d5b8d56b9618b3ef1ce23ae4daa40d9",
-  "bls": "ab376db274ef48443c707a649c801a600886b50869fc0f155dbb7eac62949d4ea8a1306a2c834d7a58eea291c6b29958",
+  "bls": "adbf6064cadfdd686d91f18d6006a18eb6273765f81c9003714201c15f9d197cc1807a43479dfb7b6277ace4dd2fd35c",
   "website": "http://p2p.org/",
   "description": "P2P.org",
   "logo": "https://cdn.p2p.org/p2p360_logo.png",
