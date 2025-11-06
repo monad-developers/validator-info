@@ -1,0 +1,10 @@
+{
+  "id": 97,
+  "name": "Blockdaemon",
+  "secp": "02c34fa55bf2b2a80e3d562afb02710d19119ae02e5f079a2940bde57dadc3029f",
+  "bls": "b682fab82d24250bd9a0ff6fc7d02fedf2258701efa0f8e890284f4a5c9a7d42bc7344ac13a8b140c7f804a41cbc8467",
+  "website": "https://www.blockdaemon.com/",
+  "description": "Blockdaemon is the most battle-tested node provider for 70+ protocols allowing for an easy way to receive optimized rewards while minimizing risk and supporting the network.",
+  "logo": "https://raw.githubusercontent.com/Blockdaemon/media-kit/main/images/Blockdaemon-Source-Forge.png",
+  "x": "https://x.com/BlockdaemonHQ"
+}
