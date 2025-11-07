@@ -1,10 +1,10 @@
 {
   "id": 131,
-  "name": "",
+  "name": "kjnodes",
   "secp": "032dc859f9223fb99fd5e8b6c07f87e43d74eb1e34a718e92c5339f297b096cd1f",
   "bls": "8422a18af75a4344d9026ef618ed373f5e8c9443b3ef305dd4f06f43eac8f2caa7d838cb72c0487b83f8073804368d83",
-  "website": "",
-  "description": "",
-  "logo": "",
-  "x": ""
+  "website": "https://kjnodes.com",
+  "description": "kjnodes is trusted Proof of Stake validator and web3 infrastructure provider since 2021 we deliver top-notch secure and reliable infrastructure for crypto projects",
+  "logo": "https://services.kjnodes.com/assets/images/logos/kjnodes.png",
+  "x": "https://x.com/kjnodes"
 }
