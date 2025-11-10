@@ -1,0 +1,10 @@
+{
+  "id": 210,
+  "name": "AltLayer-validator-1",
+  "secp": "0221d8e0d7437272b180774cc69ea5573eae87746aecc332aeff026ef1e56744d7",
+  "bls": "ad6559209849366415663cbfc339a682ed940e91b8ab8e13f27337e07bfc32477354d0602cd54bfd145086e797c310e0",
+  "website": "https://altlayer.io/",
+  "description": "AltLayer is a Rollups-as-a-Service (RaaS) provider operating 20+ rollups and validator infrastructure across multiple networks.",
+  "logo": "https://drive.google.com/file/d/1bQqAG5IjisEqxyFSFdujU_016GbeULw5/view",
+  "x": "https://x.com/alt_layer"
+}
