@@ -1,9 +1,0 @@
-{
-  "name": "QuantNode",
-  "secp": "03d115b861e0675a0f25ca48720d24ad5e6615a3bdfa2ce8c11b26cf22c32286aa",
-  "bls": "80bacb8435eb1f4e92698e912ec5e859faa05c8c2a44187d7e28f59df7e1f9825ecf2084796697157072d2e5caed354a",
-  "website": "https://quantnode.tech",
-  "description": "Non-Custodial Staking Provider with an in-house Web3 development arm. Support over 20 mainnets, including Aptos, Avail, Axelar, dYdX, Graph Network, and Sui with assets under delegation exceeding $170M",
-  "logo": "https://s3.amazonaws.com/keybase_processed_uploads/2fbc53bbb70fd61975bd33ae6e495605_360_360.jpg",
-  "x": "https://x.com/quantnodetech"
-}

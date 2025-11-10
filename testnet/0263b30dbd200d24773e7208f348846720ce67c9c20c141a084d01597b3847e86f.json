@@ -1,0 +1,10 @@
+{
+  "id": 180,
+  "name": "BlockPI",
+  "secp": "0263b30dbd200d24773e7208f348846720ce67c9c20c141a084d01597b3847e86f",
+  "bls": "b0b5d123a9084329990bc9587415216d21ed3d9495fad9318599807d062b3b6e811d706cb6d6dee83a40cdb1dbd2edcd",
+  "website": "https://blockpi.io/",
+  "description": "Distributed multi-chain acceleration layer.",
+  "logo": "https://static.blockpi.io/blockpi-logo-mini.png",
+  "x": "https://x.com/RealBlockPI"
+}

@@ -1,0 +1,10 @@
+{
+  "id": 166,
+  "name": "MCF",
+  "secp": "02acf0b145102e64e93939b3ee904f8df50d87acc2252d8d49c24285b49b42c33b",
+  "bls": "826519e9fe24a2b434f0e990acb8fa7e284466ea2cdc0bbf6e2ceca30d6c788bd2a32236b409a00b6651c3d4514c367c",
+  "website": "https://mcf.rocks/",
+  "description": "We operate nodes and infra for next-generation blockchain",
+  "logo": "https://mcf.rocks/images/assets/mcf-text-blue.png",
+  "x": "https://x.com/MCFvalidator "
+}

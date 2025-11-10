@@ -1,0 +1,10 @@
+{
+  "id": 190,
+  "name": "d10s",
+  "secp": "0209ca34a0469e8bfc88de9e05953bb26cd518401c4382491793f3318c7c25c033",
+  "bls": "871260fbbae3112d292ec4d0b28b05870c1c55269723b80780596f9bc98cca93b9345db373bbe439eb676a1a32dc34ad",
+  "website": "https://d10s.fi/",
+  "description": "d10s operates bare-metal validators committed to reliability, uptime, and stability.",
+  "logo": "https://d10s.fi/wp-content/uploads/2025/11/Black-logo-no-background-1.png",
+  "x": ""
+}

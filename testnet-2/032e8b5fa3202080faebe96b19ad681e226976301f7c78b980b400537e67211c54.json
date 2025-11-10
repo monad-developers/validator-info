@@ -1,9 +1,0 @@
-{
-    "name": "Nansen",
-    "secp": "032e8b5fa3202080faebe96b19ad681e226976301f7c78b980b400537e67211c54",
-    "bls": "b75139323d463739115aba7a30e4e3f686e156531d28d31f9adc96bd80be041b4e8638df84fce2f1c453d0fbdef834dd",
-    "website": "https://nansen.ai",
-    "description": "Nansen is a leading on-chain analytics platform founded in 2020, and is now one of the most trusted names in crypto, serving individual traders to large institutions. Our mission is to surface the signal and create winners. Disclaimer: delegating comes with slashing risks",
-    "logo": "https://raw.githubusercontent.com/nansen-ai/staking-brand-assets/main/nansen_logo.svg",
-    "x": "https://x.com/nansen_ai"
-  }

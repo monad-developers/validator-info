@@ -1,9 +1,0 @@
-{
-  "name": "Ghost",
-  "secp": "023780d7010a70d0b86d47d0f5e0134ea7517b8959ea228efc280fccbceba4e45e",
-  "bls": "a6c9bae910651eef3421f7e9ecc1a8b05bbb2d1f6d9d1af292d278a16c08f1234653e7cebab2c1ea781633ac5bb6255c",
-  "website": "https://tryghost.xyz",
-  "description": "Ghost is a research-and-development firm focused on infrastructure and data. We built GhostGraph, the first indexer that lets you write your handlers in Solidity.",
-  "logo": "https://pub-e803df4321b2451e8a9a7c0807d6da11.r2.dev/ghost_logo.png",
-  "x": "https://x.com/0xGhostLogs"
-}

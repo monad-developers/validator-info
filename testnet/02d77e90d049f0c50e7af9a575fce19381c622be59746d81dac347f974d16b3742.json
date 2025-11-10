@@ -1,0 +1,10 @@
+{
+  "id": 5,
+  "name": "Category Lab - testnet-002",
+  "secp": "02d77e90d049f0c50e7af9a575fce19381c622be59746d81dac347f974d16b3742",
+  "bls": "a72956a77cec770d5295e2a501cb303adbaf1898579e6ed63adf12921cf926770d9f5783c136fee2d40a42d3e3547372",
+  "website": "https://www.category.xyz/",
+  "description": "We build high-performance decentralized systems.",
+  "logo": "https://pbs.twimg.com/profile_images/1868681220516696065/LFhFcEhc_400x400.jpg",
+  "x": "https://x.com/category_xyz"
+}

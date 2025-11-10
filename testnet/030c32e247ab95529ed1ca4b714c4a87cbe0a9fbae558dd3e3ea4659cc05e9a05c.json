@@ -1,0 +1,10 @@
+{
+  "id": 136,
+  "name": "CroutonDigital",
+  "secp": "030c32e247ab95529ed1ca4b714c4a87cbe0a9fbae558dd3e3ea4659cc05e9a05c",
+  "bls": "99767cfa78d0f3a49e8bda08a43ea1ef1ea17c01183376be8c7f60dd564f331df18b1e56b238d9dc400667bbcb7c03e8",
+  "website": "https://crouton.digital",
+  "description": "Crouton Digital is a distributed infrastructure company providing validator, RPC, and node management services across 45 Proof-of-Stake ecosystems. Our focus is on technological reliability, transparency, and building the core infrastructure layer of Web3.",
+  "logo": "https://raw.githubusercontent.com/Crouton-Digital/Eigenlayer/refs/heads/main/logo.png",
+  "x": "hhttps://x.com/CroutonDigital"
+}
