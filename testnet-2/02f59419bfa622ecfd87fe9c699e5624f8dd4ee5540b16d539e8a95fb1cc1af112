@@ -1,8 +1,0 @@
-{
-  "name": "d10s.fi",
-  "secp": "02f59419bfa622ecfd87fe9c699e5624f8dd4ee5540b16d539e8a95fb1cc1af112",
-  "bls": "a98636e83879687640da708d073243f39e4ec262912d857a8faf0afb8684066f57e9fee93aa49b0cb24f3e31289c440b",
-  "website": "https://d10s.fi/",
-  "description": "At d10s.fi, we operate boutique bare-metal validators committed to reliability, uptime, and stability. Our goal is to deliver a solid and transparent service you can depend on.",
-  "logo": "https://drive.google.com/file/d/1isIxQ-4QNC9Fv8ONNmBHOo29bGySysNC/view?usp=drive_link",
- }

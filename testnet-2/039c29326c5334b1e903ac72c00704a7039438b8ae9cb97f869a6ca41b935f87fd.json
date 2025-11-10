@@ -1,9 +1,0 @@
-{
-  "name": "Swyke",
-  "secp": "039c29326c5334b1e903ac72c00704a7039438b8ae9cb97f869a6ca41b935f87fd",
-  "bls": "a3784a3b384a5571fc7a240802a3dc302975321bc6181daf70a67aff54a086e4cd9b9a47b173a38065b68a56ad10c258",
-  "website": "https://swyke.ai/",
-  "description": "Swyke is an ISO-27001 certified institutional grade validator registered with VARA (Virtual Asset Regulatory Authority) and AAA rated by Staking Rewards",
-  "logo": "https://raw.githubusercontent.com/swykeai/assets/refs/heads/master/logos/swyke_blue.png",
-  "x": "https://x.com/swyke_ai"
-}

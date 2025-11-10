@@ -1,9 +1,0 @@
-{
-  "name": "TrustedPoint",
-  "secp": "03c8f771f991a807ef3657e921cbc9ed0f3c5daa2a14575a637e2fa4bcfe7ee0cb",
-  "bls": "9936ee4b3a769d803f9082422d2d42a2fca32165e7792e2d05cf1428895ab3c175ba23d458a23fa0bcb648a01ff491f7",
-  "website": "https://trusted-point.com",
-  "description": "Stake with confidence. TrustedPoint brings top-tier reliability, decentralization, and security to PoS blockchains.",
-  "logo": "https://trusted-point.s3.amazonaws.com/logo/TrustedPointGoldAndRed.png",
-  "x": "https://x.com/Trusted_Point"
-}
