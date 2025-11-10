@@ -1,0 +1,10 @@
+{
+  "id": 12,
+  "name": "Chorus One",
+  "secp": "0367c93236ecdda5c02d47f054009bae8f20df8de23ab5bc7e09ef74594d6b6f04",
+  "bls": "b3aa1cf6684c660356a74c34798680a9f8108e0c49f14b5ee5749c8b199a65414d0cf8d6ead6b97393004c78449cbd7e",
+  "website": "https://chorus.one/",
+  "description": "Secure Monad and shape its future by delegating to Chorus One, a highly secure and stable validator. By delegating, you agree to the terms of service at: https://chorus.one/tos",
+  "logo": "https://mirror.chorus.one/c1-logo-original-360x360.png",
+  "x": "https://x.com/ChorusOne"
+}
