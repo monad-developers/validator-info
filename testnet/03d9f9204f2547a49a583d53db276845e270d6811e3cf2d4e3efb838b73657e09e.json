@@ -1,0 +1,10 @@
+{
+  "id": 99,
+  "name": "Hex Trust",
+  "secp": "03d9f9204f2547a49a583d53db276845e270d6811e3cf2d4e3efb838b73657e09e",
+  "bls": "9596ea50321e2a19a75948e396df393581cf55908de98d5ced4af251a014ca51888abf4a68b19ebe2c713690f439aeb6",
+  "website": "https://www.hextrust.com/",
+  "description": "Hex Trust is a fully licensed digital asset custodian dedicated to providing solutions for protocols, foundations, financial institutions, and the Web3 ecosystem.",
+  "logo": "https://raw.githubusercontent.com/BCWResearch/bcw-logo/refs/heads/main/trust.jpg",
+  "x": "https://x.com/Hex_Trust"
+}
