@@ -48,13 +48,13 @@ def main():
     # Process mainnet validators
     mainnet_dir = os.path.join(project_root, "mainnet")
     mainnet_validators = read_validators(mainnet_dir)
-    mainnet_json = os.path.join(project_root, "mainnet_validators.json")
+    mainnet_json = "mainnet_validators.json"
     write_json(mainnet_validators, mainnet_json)
     
     # Process testnet validators
     testnet_dir = os.path.join(project_root, "testnet")
     testnet_validators = read_validators(testnet_dir)
-    testnet_json = os.path.join(project_root, "testnet_validators.json")
+    testnet_json = "testnet_validators.json"
     write_json(testnet_validators, testnet_json)
 
 
