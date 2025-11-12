@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import csv
 import json
 import os
 import glob
@@ -40,6 +41,18 @@ def write_json(validators_dict, output_file):
     print(f"✅ Generated {output_file} with {len(validators_dict)} validators")
 
 
+def write_csv(validators_dict, output_file):
+    """Write validators to CSV file with secp and name columns."""
+    with open(output_file, "w", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(["secp", "name"])
+        
+        for secp, name in validators_dict.items():
+            writer.writerow([secp, name])
+    
+    print(f"✅ Generated {output_file} with {len(validators_dict)} validators")
+
+
 def main():
     # Get the project root directory (parent of scripts/)
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -48,14 +61,14 @@ def main():
     # Process mainnet validators
     mainnet_dir = os.path.join(project_root, "mainnet")
     mainnet_validators = read_validators(mainnet_dir)
-    mainnet_json = "mainnet_validators.json"
-    write_json(mainnet_validators, mainnet_json)
+    write_json(mainnet_validators, "mainnet_validators.json")
+    write_csv(mainnet_validators, "mainnet_validators.csv")
     
     # Process testnet validators
     testnet_dir = os.path.join(project_root, "testnet")
     testnet_validators = read_validators(testnet_dir)
-    testnet_json = "testnet_validators.json"
-    write_json(testnet_validators, testnet_json)
+    write_json(testnet_validators, "testnet_validators.json")
+    write_csv(testnet_validators, "testnet_validators.csv")
 
 
 if __name__ == "__main__":
