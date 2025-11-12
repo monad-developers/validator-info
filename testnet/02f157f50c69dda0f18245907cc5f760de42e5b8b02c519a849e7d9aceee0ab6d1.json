@@ -1,0 +1,10 @@
+{
+  "id": 173,
+  "name": "vldtr",
+  "secp": "02f157f50c69dda0f18245907cc5f760de42e5b8b02c519a849e7d9aceee0ab6d1",
+  "bls": "93b1df7372c3f474364ad6ab71f4d1d890a77d31ed978806cdf33efebeb02cf62db1e135a591a4d3133efb75ac81a216",
+  "website": "bbs.vldtr.xyz",
+  "description": "Solo validator! Supporting Monad block by block",
+  "logo": "https://avatars.githubusercontent.com/u/226050113",
+  "x": "https://x.com/ShavetheMFwhale"
+}
