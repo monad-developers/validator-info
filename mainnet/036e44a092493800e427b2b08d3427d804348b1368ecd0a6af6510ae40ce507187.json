@@ -1,0 +1,10 @@
+{
+  "id": 16,
+  "name": "MonVision",
+  "secp": "036e44a092493800e427b2b08d3427d804348b1368ecd0a6af6510ae40ce507187",
+  "bls": "8ce8df797d2f4b5ff7c0a7cb0b26bcca19492490fa2cd4771462a7d6635a557747623a0fdec2cdc91467e35d4e1fe968",
+  "website": "https://blockvision.org",
+  "description": "BlockVision is a leading provider of Web3 data and node services, specializing in explorer solutions, RPC nodes, indexing APIs, and validator services.",
+  "logo": "https://blockvision.org/logo-purple.svg",
+  "x": "https://x.com/blockvisionhq"
+}
