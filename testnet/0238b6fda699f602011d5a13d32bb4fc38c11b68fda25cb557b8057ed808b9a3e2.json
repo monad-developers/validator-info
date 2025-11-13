@@ -3,8 +3,8 @@
   "name": "Informal Systems",
   "secp": "0238b6fda699f602011d5a13d32bb4fc38c11b68fda25cb557b8057ed808b9a3e2",
   "bls": "b5aa5c0297414c8034f5fbee095644b8f5539a1ac65830655e03a0f03c1ed2934609e155dcafcc041b9fdeabe4d4960d",
-  "website": "https://informal.systems/",
-  "description": "Informal Systems",
-  "logo": "https://github.com/cephalopodequipment/config/blob/main/logos/informal.jpg",
+  "website": "https://informal.systems",
+  "description": "Infrastructure for decentralized intelligence",
+  "logo": "https://raw.githubusercontent.com/cephalopodequipment/config/main/media/informal-systems-logo.png",
   "x": "https://x.com/informalinc"
 }
