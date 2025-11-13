@@ -42,10 +42,10 @@ def write_json(validators_dict, output_file):
 
 
 def write_csv(validators_dict, output_file):
-    """Write validators to CSV file with secp and name columns."""
+    """Write validators to CSV file with secp_key and name columns."""
     with open(output_file, "w", newline="") as f:
         writer = csv.writer(f)
-        writer.writerow(["secp", "name"])
+        writer.writerow(["secp_key", "name"])
         
         for secp, name in validators_dict.items():
             writer.writerow([secp, name])
