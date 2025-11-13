@@ -1,0 +1,10 @@
+{
+  "id": 42,
+  "name": "PathrockNetwork",
+  "secp": "025435f996de6f542f59dff45a575096122094d3f9a4b0a626d2535782d94670ca",
+  "bls": "995683164e889dd6a2e5b764a75fbf5f42b6a413a64a9493faadacc691e644ec6008b110faffe9c6a39dae1afc6caf59",
+  "website": "https://pathrocknetwork.org/",
+  "description": "Secure Non-Custodial Staking for PoS Blockchain Projects. We run reliable and secure validators and nodes for different blockchain protocols. Come stake with us!",
+  "logo": "https://pathrocknetwork.org/images/logo/prn.png",
+  "x": "https://x.com/pathrock2"
+}

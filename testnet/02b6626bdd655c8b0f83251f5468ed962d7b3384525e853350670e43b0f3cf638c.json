@@ -1,10 +1,10 @@
 {
   "id": 129,
-  "name": "",
+  "name": "Spectrum Staking",
   "secp": "02b6626bdd655c8b0f83251f5468ed962d7b3384525e853350670e43b0f3cf638c",
   "bls": "8b88636ded6149206eca937c54c204a97fea5204ae92b7ef290927890d888f4da95caac6c64d57034894c0815eb9bb92",
-  "website": "",
-  "description": "",
-  "logo": "",
-  "x": ""
+  "website": "https://spectrumstaking.net/",
+  "description": "Secure and reliable high-performance staking services.",
+  "logo": "https://spectrumstaking.net/images/Spst_white_512x512.png",
+  "x": "https://x.com/SpectrumStaking"
 }

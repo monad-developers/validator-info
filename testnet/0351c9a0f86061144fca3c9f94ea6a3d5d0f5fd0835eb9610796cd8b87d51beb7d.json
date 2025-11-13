@@ -1,0 +1,10 @@
+{
+  "id": 209,
+  "name": "Tessellated",
+  "secp": "0351c9a0f86061144fca3c9f94ea6a3d5d0f5fd0835eb9610796cd8b87d51beb7d",
+  "bls": "82cc1039bc6867c8e76057d12406f7f811b3efce0d349273d1820db7b9bceee3f19f61aeb08c360cb92e3674fce007b7",
+  "website": "https://tessellated.io",
+  "description": "Tessellated builds and validates on proof of stake networks",
+  "logo": "https://tessellated-misc.s3.us-west-2.amazonaws.com/tessellated-logo.png",
+  "x": "https://x.com/tessellated_io"
+}

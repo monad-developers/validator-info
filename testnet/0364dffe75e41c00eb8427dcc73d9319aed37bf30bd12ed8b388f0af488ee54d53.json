@@ -1,10 +1,10 @@
 {
   "id": 132,
-  "name": "",
+  "name": "NodesHub",
   "secp": "0364dffe75e41c00eb8427dcc73d9319aed37bf30bd12ed8b388f0af488ee54d53",
   "bls": "a4eb9a7a48a4d9c07950da9d229ab03d18399c5b4b39e4a5727bffb1a6c0e5d1341d941c675c9b33724b8a7253151a0a",
-  "website": "",
-  "description": "",
-  "logo": "",
-  "x": ""
+  "website": "https://nodeshub.online",
+  "description": "Empowering Decentralization, Ensuring Security",
+  "logo": "https://files.nodeshub.online/brand/n-color.png",
+  "x": "https://x.com/Nodes_Hub"
 }
