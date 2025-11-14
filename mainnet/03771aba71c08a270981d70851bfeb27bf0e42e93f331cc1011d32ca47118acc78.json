@@ -1,0 +1,10 @@
+{
+  "id": 60,
+  "name": "STAKEME",
+  "secp": "03771aba71c08a270981d70851bfeb27bf0e42e93f331cc1011d32ca47118acc78",
+  "bls": "894256018f79c8c716d8d960b0fa0dbdd8b4d23d65c4f63c580407f65f3380e24f8146fc0a061b4302f59ce13241284e",
+  "website": "https://stakeme.pro",
+  "description": "STAKEME helps web 3.0 projects to test their product, and provide the most efficient development support",
+  "logo": "https://raw.githubusercontent.com/stakeme-team/monad-metadata/master/logo/stakeme-logo.png",
+  "x": "https://x.com/stakeme_pro"
+}
