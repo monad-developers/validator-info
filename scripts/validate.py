@@ -2,10 +2,14 @@
 import json
 import os
 import sys
+import glob
+import argparse
 
 import requests
 from staking_sdk_py.callGetters import call_getter
 from web3 import Web3
+
+BASE_DIR = os.path.split(os.path.dirname(os.path.abspath(__file__)))[0]
 
 
 def get_rpc_url(network):
@@ -77,17 +81,11 @@ def check_logo(logo_url):
     return ok
 
 
-def main():
-    if len(sys.argv) < 2:
-        print("Usage: validate.py <file_path>")
-        sys.exit(1)
-
-    file = sys.argv[1]
-    basename = os.path.basename(file)
-    directory = os.path.dirname(os.path.abspath(file))
-
-    data = {}
-
+# filename ends with .json
+def check_filename(network, filename):
+    file = os.path.join(BASE_DIR, network, filename)
+    basename = os.path.basename(filename)
+ 
     # --- Check 0: ensure JSON is loadable ---
     try:
         with open(file, "r") as f:
@@ -95,12 +93,11 @@ def main():
         data = json.loads(content)
     except json.JSONDecodeError as e:
         print(f"❌ Invalid JSON format: {e}")
-        sys.exit(1)
+        return False
     except Exception as e:
         print(f"❌ Failed to read file: {e}")
-        sys.exit(1)
+        return False
 
-    network = os.path.basename(directory)
     validator_id = data.get("id")
     secp_local = data.get("secp")
     bls_local = data.get("bls")
@@ -114,7 +111,7 @@ def main():
     # --- Check: Schema check ---
     if not check_schema(data):
         print("❌ Schema check failed")
-        sys.exit(1)
+        return False
     else:
         print("✅ Schema and types match")
 
@@ -122,7 +119,7 @@ def main():
     name_value = data.get("name", "")
     if not isinstance(name_value, str) or not name_value.strip():
         print("❌ Invalid 'name': field is empty or missing")
-        sys.exit(1)
+        return False
     else:
         print(f"✅ Name is valid: '{name_value.strip()}'")
 
@@ -132,18 +129,18 @@ def main():
         print("✅ Logo is valid")
     else:
         print(f"❌ Logo {logo} check failed")
-        sys.exit(1)
+        return False
 
     # --- Check: on-chain keys must match payload keys
     secp_chain, bls_chain = get_validator_keys(validator_id, network)
     if secp_chain != secp_local:
         print(f"❌ SECP mismatch:\n   local={secp_local}\n   chain={secp_chain}")
-        sys.exit(1)
+        return False
     else:
         print("✅ SECP key matches on-chain value")
     if bls_chain != bls_local:
         print(f"❌ BLS mismatch:\n   local={bls_local}\n   chain={bls_chain}")
-        sys.exit(1)
+        return False
     else:
         print("✅ BLS key matches on-chain value")
 
@@ -151,11 +148,43 @@ def main():
     expected_filename = f"{secp_local}.json"
     if basename != expected_filename:
         print(f"❌ Filename mismatch: expected '{expected_filename}', got '{basename}'")
-        sys.exit(1)
+        return False
     else:
         print("✅ Filename matches secp key")
 
     print("\n🎉 Validation successful!")
+
+
+def get_all_filenames(network):
+    network_folder = os.path.join(BASE_DIR, network)
+    filenames = sorted(os.listdir(network_folder))
+    return [x for x in filenames if x.endswith('.json')]
+
+
+def main():
+    parser = argparse.ArgumentParser(description='Validate a validator JSON file')
+    parser.add_argument('--filenames', '-f', type=str, nargs='+')
+    parser.add_argument('--network', '-n', type=str, default='mainnet')
+    args = parser.parse_args()
+    network = args.network
+
+    if args.filenames is None:
+        filenames = get_all_filenames(network)
+    else:
+        filenames = args.filenames
+        filenames = [f + '.json' if not f.endswith('.json') else f for f in filenames]
+
+    problems = []
+    for filename in filenames:
+        result = check_filename(network, filename)
+        if result is False:
+            problems.append(filename)
+
+    if len(problems) > 0:
+        print(f"❌ Validation failed for {len(problems)} files: {' '.join(problems)}")
+    else:
+        print("✅ Validation successful!")
+
 
 
 if __name__ == "__main__":
