@@ -26,6 +26,8 @@ jobs:
         pip install -r scripts/requirements.txt
 
     - name: Run script (mainnet)
+      env:
+        MAINNET_RPC_URL: ${{ secrets.MAINNET_RPC_URL }}
       run: |
         source venv/bin/activate
         python scripts/validate.py --network mainnet
