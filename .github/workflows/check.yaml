@@ -1,0 +1,26 @@
+name: Validate JSON files
+
+on:
+  pull_request:
+    paths:
+      - "testnet/*.json"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r scripts/requirements.txt
+      - name: Validating changed files
+        run: |
+          git fetch origin ${{ github.base_ref }}
+          FILES="$(git diff --name-only origin/${{ github.base_ref }}...HEAD | grep -E '^(testnet)/' || true)"
+
+          for FILE in $FILES; do
+            python scripts/validate.py "$FILE"
+          done
