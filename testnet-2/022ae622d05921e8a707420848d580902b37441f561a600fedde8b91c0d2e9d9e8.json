@@ -1,9 +1,0 @@
-{
-  "name": "Finoa Consensus Services",
-  "secp": "022ae622d05921e8a707420848d580902b37441f561a600fedde8b91c0d2e9d9e8",
-  "bls": "8525a712bf10ca3a75b26ab6055c20b00c6e0efc4d271a7c7ca3cf6992357679b69b983eeec635a416a3a3a9f650e6eb",
-  "website": "https://finoa-fcs.io/",
-  "description": "Stake and grow your assets using Finoa Consensus Services's institutional-grade infrastructure.",
-  "logo": "https://raw.githubusercontent.com/Finoa-Consensus-Services/fcs-metadata/e915eb11f19af52e6ca3e73d12e0f069f734671d/logos/fcs-logo.png",
-  "x": "https://x.com/FinoaConsensus"
-}

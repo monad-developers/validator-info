@@ -1,9 +1,0 @@
-{
-  "name": "Nodeshub",
-  "secp": "02e8f52d37c70f155cf74611bba838ae8df12cccebc5aba0564bc69cef23b6ea67",
-  "bls": "a55f1a25431c37b64adafa64ff5b63ec7aaca6cd176dfc39d7e08dfba8efa13283c64e9caa46065294aaae24e5c3cd9d",
-  "website": "https://nodeshub.online/",
-  "description": "Your Trusted Crypto Validator and RPC Service Provider",
-  "logo": "https://files.nodeshub.online/brand/n-color.png",
-  "x": "https://x.com/Nodes_Hub"
-}

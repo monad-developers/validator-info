@@ -1,0 +1,10 @@
+{
+  "id": 100,
+  "name": "NTT Digital",
+  "secp": "03a5815dd7d2b31fc96a7bf4903744941cb436420f8647a0d64d0e2324ae75e967",
+  "bls": "893e748124d57d064da8e242ae67f58cee076b0a90221753c0190efc10a7dc9afada014a351d482d7d6ac1771c112a66",
+  "website": "https://nttdigital.io/",
+  "description": "As a web3 enabler, NTT Digital, Inc. will promote the creation of an environment in which individuals and companies can easily and safely use blockchain technology toward the social implementation of cutting-edge digital technologies.",
+  "logo": "https://figment-logo.s3.ca-central-1.amazonaws.com/NTTDigital.jpg",
+  "x": "https://x.com/nttdigital_io"
+}

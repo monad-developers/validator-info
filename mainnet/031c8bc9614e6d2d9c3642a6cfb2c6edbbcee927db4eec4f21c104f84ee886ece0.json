@@ -1,0 +1,10 @@
+{
+  "id": 4,
+  "name": "B-Harvest",
+  "secp": "031c8bc9614e6d2d9c3642a6cfb2c6edbbcee927db4eec4f21c104f84ee886ece0",
+  "bls": "8e2293ee11161b537de05c7f2f0348e7ddabcbea5a5ffc1c11e5e0432edc0e5a499929173e3f59006ae99a6845405d7d",
+  "website": "https://bharvest.io",
+  "description": "Provides secure validation services for dPoS networks",
+  "logo": "https://s3.ap-northeast-2.amazonaws.com/bharvest.io/logo/B-Harvest-Logo-x256.png",
+  "x": "https://x.com/B__Harvest"
+}
