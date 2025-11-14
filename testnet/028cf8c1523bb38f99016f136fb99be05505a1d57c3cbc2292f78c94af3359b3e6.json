@@ -1,10 +1,10 @@
 {
   "id": 117,
-  "name": "",
+  "name": "TTT VN",
   "secp": "028cf8c1523bb38f99016f136fb99be05505a1d57c3cbc2292f78c94af3359b3e6",
   "bls": "a70bcfe3c7230995ac8580b004a38b7f25bf620b1cc62baa2173703267ee2ea3640026ab65201edfafb1408f189de47a",
-  "website": "",
-  "description": "",
-  "logo": "",
-  "x": ""
+  "website": "https://tienthuattoan.com",
+  "description": "Vietnam's largest community validator, offering validation services, educational resources, and market penetration in the Vietnamese crypto market.",
+  "logo": "https://insights.tienthuattoan.com/assets/logo/TTT-1024.png",
+  "x": "https://x.com/ttt_lab"
 }
