@@ -33,31 +33,44 @@ python3 scripts/generate_validators_json.py
 
 ### Output
 
-The script generates four files in the current directory:
+The script generates four files in their respective network folders:
 
 **JSON files:**
-- `mainnet_validators.json` - All mainnet validators
-- `testnet_validators.json` - All testnet validators
+- `mainnet/mainnet_validators.json` - All mainnet validators with full validator data
+- `testnet/testnet_validators.json` - All testnet validators with full validator data
 
 **CSV files:**
-- `mainnet_validators.csv` - All mainnet validators
-- `testnet_validators.csv` - All testnet validators
+- `mainnet/mainnet_validator_key_name_map.csv` - Simple SECP key to name mapping for mainnet
+- `testnet/testnet_validator_key_name_map.csv` - Simple SECP key to name mapping for testnet
 
 ### Format
 
-**JSON format** - Maps validator SECP keys to their names:
+**JSON format** - Maps validator SECP keys to complete validator objects:
 
 ```json
 {
-  "secp_key_1": "Validator Name 1",
-  "secp_key_2": "Validator Name 2"
+  "secp_key_1": {
+    "id": 1,
+    "name": "Validator Name 1",
+    "secp": "secp_key_1",
+    "bls": "bls_key_1",
+    "website": "https://example.com",
+    "description": "Validator description",
+    "logo": "https://example.com/logo.png",
+    "x": "https://x.com/validator"
+  },
+  "secp_key_2": {
+    "id": 2,
+    "name": "Validator Name 2",
+    ...
+  }
 }
 ```
 
 **CSV format** - Two columns with SECP keys and names:
 
 ```csv
-secp,name
+secp_key,name
 secp_key_1,Validator Name 1
 secp_key_2,Validator Name 2
 ```
