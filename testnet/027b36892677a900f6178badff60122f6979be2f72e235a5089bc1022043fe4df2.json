@@ -1,10 +1,10 @@
 {
   "id": 116,
-  "name": "",
+  "name": "Staketab",
   "secp": "027b36892677a900f6178badff60122f6979be2f72e235a5089bc1022043fe4df2",
   "bls": "812e833f8e5c2b186b89245c0521203ca2ca9892c23a0d639698c815ba517130f8f78932e594b326cdd080e39642017e",
-  "website": "",
-  "description": "",
-  "logo": "",
-  "x": ""
+  "website": "https://staketab.com",
+  "description": "Staketab is engaged in professional validation in various blockchain networks. We develop fast and high-quality explorers and other ecosystem tools.",
+  "logo": "https://brand-staketab.s3.eu-north-1.amazonaws.com/staketab/validator.png",
+  "x": "https://x.com/staketab"
 }
