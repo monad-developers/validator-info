@@ -20,7 +20,7 @@ jobs:
       - name: Validating changed files
         run: |
           git fetch origin ${{ github.base_ref }}
-          FILES="$(git diff --name-only origin/${{ github.base_ref }}...HEAD | grep -E '^(testnet)/' || true)"
+          FILES="$(git diff --name-only origin/${{ github.base_ref }}...HEAD | grep -E '^(testnet|mainnet)/' || true)"
 
           for FILE in $FILES; do
             python scripts/validate.py "$FILE"
