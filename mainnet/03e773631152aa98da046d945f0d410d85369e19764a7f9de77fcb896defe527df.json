@@ -1,0 +1,10 @@
+{
+  "id": 81,
+  "name": "Silk Nodes",
+  "secp": "03e773631152aa98da046d945f0d410d85369e19764a7f9de77fcb896defe527df",
+  "bls": "837283c67ac33a9332c4d17657fd80d756817a4cd1e244a6b4f4a73809c3a159f4c22a53bba1a793c3ed9729fdb54c5c",
+  "website": "https://silknodes.io/",
+  "description": "Providers of enterprise grade blockchain infrastructure services.",
+  "logo": "https://raw.githubusercontent.com/Silk-Nodes/brand-assests/refs/heads/main/icon/Silk_Nodes180.jpg",
+  "x": "https://twitter.com/silk_nodes"
+}

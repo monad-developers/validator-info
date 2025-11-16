@@ -1,0 +1,10 @@
+{
+  "id": 22,
+  "name": "Enigma",
+  "secp": "038d8e900b0ce8a7f30550a643726bfc09243ea08d4f1094bffd1e948948558fed",
+  "bls": "95c6cd503348791f7272e294887f2c5535bfc08880f1bf864f574d1178ade18204b51d3013ddfc3c3a35fb73fad73f40",
+  "website": "https://enigma-validator.com/",
+  "description": "Highly secure professional validator across 50+ chains - offering a full refund for any downtime slashing - Reach out to us at contact@enigma-validator.com",
+  "logo": "https://raw.githubusercontent.com/Enigma-Validator/enigma-assets/refs/heads/main/enigma-logo.png",
+  "x": "https://x.com/enigmavalidator"
+}
