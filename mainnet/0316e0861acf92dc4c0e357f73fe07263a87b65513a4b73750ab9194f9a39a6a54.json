@@ -1,0 +1,10 @@
+{
+  "id": 3,
+  "name": "gmonads.com",
+  "secp": "0316e0861acf92dc4c0e357f73fe07263a87b65513a4b73750ab9194f9a39a6a54",
+  "bls": "a5861cf9bf42aee127f027efdcd21b5f68b55a28329949baaf057d2810a6d4f977ad58f588833cf3266b192c7417c908",
+  "website": "https://www.gmonads.com/",
+  "description": "High-performance validator built for the Monad community, reinvesting into open data.",
+  "logo": "https://www.gmonads.com/logo.png",
+  "x": "https://x.com/gmonads"
+}

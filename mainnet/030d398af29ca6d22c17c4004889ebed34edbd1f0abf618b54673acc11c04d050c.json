@@ -1,0 +1,10 @@
+{
+  "id": 99,
+  "name": "Qubelabs",
+  "secp": "030d398af29ca6d22c17c4004889ebed34edbd1f0abf618b54673acc11c04d050c",
+  "bls": "a10270430743932debb85a2410ebc589812627d73e55105d5a490927906c5ade0c2457172fa8681ec51ccb974901af0a",
+  "website": "https://www.qubelabs.io",
+  "description": "Independent organization of validators, builders, network contributors and community builders.",
+  "logo": "https://www.qubelabs.io/images/qubelabs-logo.png",
+  "x": "https://x.com/qubelabs"
+}
