@@ -1,10 +1,10 @@
 {
   "id": 208,
-  "name": "03b27dc84a49cbb86b1c8a8cc89d88bc8ca61944dc74789b550c224771b177cb4a",
+  "name": "HoodRun",
   "secp": "03b27dc84a49cbb86b1c8a8cc89d88bc8ca61944dc74789b550c224771b177cb4a",
   "bls": "b359fe754b40b530f2f88fe5e39acbecf520d77703f9f298ac52d3219317d03145ca8cb135c6cbccbcf7db41051e5693",
-  "website": "",
-  "description": "",
-  "logo": "",
-  "x": ""
+  "website": "https://hoodrun.io/",
+  "description": "Professional blockchain infrastructure and validator services. Securing networks, building tools, and empowering the decentralized future.",
+  "logo": "https://s3.amazonaws.com/keybase_processed_uploads/a1600c5650b26f850982dac401912305_360_360.jpg",
+  "x": "https://x.com/hoodrunio"
 }

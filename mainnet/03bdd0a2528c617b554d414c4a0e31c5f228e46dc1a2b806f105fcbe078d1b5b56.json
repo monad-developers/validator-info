@@ -1,0 +1,10 @@
+{
+  "id": 23,
+  "name": "Nansen | Stake to Stack Points",
+  "secp": "03bdd0a2528c617b554d414c4a0e31c5f228e46dc1a2b806f105fcbe078d1b5b56",
+  "bls": "a4af34403cf9aab951b76ed0aa8712ee3d5753082e967c9f4c276e9b042fe7261cfb780728f45fb85db43a545a0f5e07",
+  "website": "https://www.nansen.ai",
+  "description": "Nansen is a leading on-chain analytics platform founded in 2020, and is now one of the most trusted names in crypto, serving traders and institutions.Disclaimer: delegating comes with slashing risks",
+  "logo": "https://raw.githubusercontent.com/nansen-ai/staking-brand-assets/main/nansen_logo.svg",
+  "x": "https://x.com/nansen_ai"
+}
