@@ -1,8 +1,8 @@
 {
-  "id": 178,
+  "id": 117,
   "name": "Coinage x DAIC",
-  "secp": "027eaa37853a918fb3bac4f4cb3580460cd46a46c8ea89318be192b53137b600ab",
-  "bls": "91fa8660b34e3b5263f9e59e9afe31c24b29355866f4655ec73c12ac227e25ee852a526776f32885559546f688bc5c4f",
+  "secp": "02e76d2234a9cd9f25bac7ef946fc71a3102e95e5c4498c559d0127b06a5c63eff",
+  "bls": "95f17f36fd5cdd933a618d9a3bf3e3a7a05bd70179a4b07d4d3397ac511baada21bdcbb87dc4e129f7429bddc5d40df8",
   "website": "https://daic.capital/",
   "description": "The official validator node from Coinage (Coinage.Media) and DAIC (https://daic.capital/telegram)",
   "logo": "https://raw.githubusercontent.com/DAICers/coinage_x_daic/refs/heads/main/files/images/DAIC-CNG-Ape_360_moniker.png",
