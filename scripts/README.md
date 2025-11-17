@@ -36,10 +36,12 @@ python3 scripts/generate_validators_json.py
 The script generates four files in the current directory:
 
 **JSON files:**
+
 - `mainnet_validators.json` - All mainnet validators
 - `testnet_validators.json` - All testnet validators
 
 **CSV files:**
+
 - `mainnet_validators.csv` - All mainnet validators
 - `testnet_validators.csv` - All testnet validators
 
