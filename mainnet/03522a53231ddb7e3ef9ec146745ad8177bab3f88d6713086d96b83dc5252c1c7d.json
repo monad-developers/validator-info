@@ -1,8 +1,8 @@
 {
-  "id": 105,
+  "id": 120,
   "name": "Validatrium",
-  "secp": "03798eecb0dd97e9110546b286728b49170726e9d8c1c60b7abad386f7025e095a",
-  "bls": "8e3ddb496a14f5e360ad01105da00874f8256798267d86f4a8165ff3d87eb32506686af4e7bb98d674f8daf58d075d7a",
+  "secp": "03522a53231ddb7e3ef9ec146745ad8177bab3f88d6713086d96b83dc5252c1c7d",
+  "bls": "b76dcd1ed65544535a9c106dee88c3f93ea6ff29cd4dcb8f65fab0478bb1101cbfe63ef7b49c5c20b697eea1fe67c210",
   "website": "https://validatrium.com/",
   "description": "Stake with us!",
   "logo": "https://raw.githubusercontent.com/Validatrium/public-uploads/main/validatrium1-1.png",
