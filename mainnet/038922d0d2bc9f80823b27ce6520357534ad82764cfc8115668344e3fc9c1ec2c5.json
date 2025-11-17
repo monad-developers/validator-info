@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "Monad Foundation - mf-mainnet-val-tsw-fra-001",
+  "secp": "038922d0d2bc9f80823b27ce6520357534ad82764cfc8115668344e3fc9c1ec2c5",
+  "bls": "b8a540a4f28f9247e6a3589229487f443b5c8bb4ac918a777bd518853ebc405057a17ebf4af5724a0004df89f88d14d9",
+  "website": "https://www.monad.foundation/",
+  "description": "Monad Foundation",
+  "logo": "https://bucket.monadinfra.com/monad.png",
+  "x": "https://x.com/monad_xyz"
+}

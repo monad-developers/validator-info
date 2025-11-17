@@ -1,0 +1,10 @@
+{
+  "id": 101,
+  "name": "Swissstarnode",
+  "secp": "035c93d470471aea2f68fc7016491bf5a2f38a084bfa0412e1960dae14ac2338e3",
+  "bls": "b37d204d103428a1c5b079820234eee97fbc9e4b139daea8cd11d455fff47408a4bf38a08aab0a6bff8c135058d949ea",
+  "website": "https://swissstarnode.tech/",
+  "description": "An independent validator from Switzerland",
+  "logo": "https://swissstarnode.tech/images/http___swissstarnode.png",
+  "x": "https://x.com/swissstar_node"
+}
