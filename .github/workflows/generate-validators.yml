@@ -48,10 +48,10 @@ jobs:
           R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
         run: |
           # Upload mainnet validators JSON
-          aws s3 cp mainnet/mainnet_validators.json s3://${R2_BUCKET_NAME}/${R2_PATH_PREFIX}mainnet/mainnet_validators.json --endpoint-url $R2_ENDPOINT
+          aws s3 cp mainnet/mainnet_validators.json s3://${R2_BUCKET_NAME}/validator-info/mainnet/validators.json --endpoint-url $R2_ENDPOINT
           
           # Upload testnet validators JSON
-          aws s3 cp testnet/testnet_validators.json s3://${R2_BUCKET_NAME}/${R2_PATH_PREFIX}testnet/testnet_validators.json --endpoint-url $R2_ENDPOINT
+          aws s3 cp testnet/testnet_validators.json s3://${R2_BUCKET_NAME}/validator-info/testnet/validators.json --endpoint-url $R2_ENDPOINT
           
           echo "✅ Successfully uploaded validator JSON files to R2"
 
