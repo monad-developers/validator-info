@@ -1,0 +1,10 @@
+{
+  "id": 48,
+  "name": "Nodes.Guru",
+  "secp": "0246a4697342f9701b39edf6faf7fb8ea31c45aed660a6520e2fc46843b76aed5b",
+  "bls": "ace2d76433d796ff5c3bf6cbb8e735e29ad52e6d5931ec2c266f62bebaea2dea1d059a3dee44dcb351e3f4bbab2b0ba5",
+  "website": "https://nodes.guru",
+  "description": "Guru of non-custodial staking. Professional node running, low fees, best uptime and 24/7 customer support.",
+  "logo": "https://nodes.guru/kit/mascot-light.svg",
+  "x": "https://x.com/NodesGuru"
+}
