@@ -1,0 +1,10 @@
+{
+  "id": 108,
+  "name": "CosmosSpaces",
+  "secp": "03b7a11a3db7468c975a3e5b63193b8e5c695804c38e8695423295a7bb12289736",
+  "bls": "925b877ba07d57856ed5e65a5cff2fbd3bae444afa6049858dd81723b15f3a3595a148415f4ea6708c1b1fae90ac2358",
+  "website": "https://cosmosspaces.zone/",
+  "description": "Bare Metal Validators, Relayers, and RPC providers. Top tier infrastructure providers rooted in the Cosmos community.",
+  "logo": "https://blob.cosmosspaces.zone/logo.png",
+  "x": "https://x.com/cosmos_spaces"
+}
