@@ -1,0 +1,13 @@
+{
+  "name": "forthenads",
+  "description": "for • the • nads",
+  "website": "https://forthenads.xyz",
+  "location": "Costa Rica",
+  "contact": {
+    "twitter": "@forthenads"
+  },
+  "validator_id": 154,
+  "secp_public_key": "022243e2310b7e32303e190bba153c372bc7d26cd8a31069accecc91998f2b3d65",
+  "commission_rate": "10",
+  "logo_url": "https://raw.githubusercontent.com/vasdie/validator-info/main/mainnet/logos/forthenads-logo.png"
+}
