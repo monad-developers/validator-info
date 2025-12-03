@@ -1,1 +1,11 @@
 
+{
+  "name": "SpeedyNodes",
+  "description": "High-performance Monad validator run by SpeedyNodes",
+  "website": "https://speedynodes.net",
+  "logo": "https://www.speedynodes.com/images/logo.png",
+  "contact": {
+    "email": "support@speedynodes.net",
+    "twitter": "https://twitter.com/speedynodes"
+  }
+}
