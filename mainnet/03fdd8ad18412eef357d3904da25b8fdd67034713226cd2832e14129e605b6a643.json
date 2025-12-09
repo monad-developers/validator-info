@@ -1,0 +1,10 @@
+{
+  "id": 165,
+  "name": "Kraken",
+  "secp": "03fdd8ad18412eef357d3904da25b8fdd67034713226cd2832e14129e605b6a643",
+  "bls": "95107753164fbcd353021e4615140165e8a2e5b5cbd67b9b8bf7af12fe40cc7140d29b5b1f2f5104c3204a631cd57954",
+  "website": "https://www.kraken.com",
+  "description": "Kraken Exchange validator",
+  "logo": "https://s3.amazonaws.com/keybase_processed_uploads/9d5ddb4ba450ba6793592fef2d263b05_360_360.jpg",
+  "x": "https://x.com/krakenfx/"
+}
