@@ -1,8 +1,8 @@
 {
-  "id": 88,
+  "id": 79,
   "name": "DSRV",
-  "secp": "029f23d854832a7d8f1b3c3dd17ee2eaea3cffad24cbeb8ac6dad9f0ccfcc2067f",
-  "bls": "ad7698f0c963bb98982b9264550260d7497703c9c47000f7dacbd92edc1db50f37b8985278613e2aae9d005dd309b703",
+  "secp": "03acd1bff6bcf0c9d556a90d351de217f2b5dd4174348ba54333e38c66ca5e92a8",
+  "bls": "acbdda9e854edd81abaef98081369fc16ef9f9d39fd0bd37c8ec84a18653ea0f7539edfca28e330c532d069025d79392",
   "website": "https://dsrvlabs.com",
   "description": "DSRV is an integrated blockchain solutions company with the mission of enriching the crypto ecosystem via stronger connectivity. We strive to be your gateway to a suite of all-comprehensive blockchain services. Everything distributed, served complete.",
   "logo": "https://s3.amazonaws.com/keybase_processed_uploads/8349f3ab6852a8419c1987ad9096c605_360_360.jpg",
