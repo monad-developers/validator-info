@@ -1,0 +1,10 @@
+{
+  "id": 71,
+  "name": "Parsec X Firstset",
+  "secp": "03c9c18a64fbc3908b4a49b74dea1cd2c0363943c88fa70a32ab12facd80db4f79",
+  "bls": "a7443fabc9cad89ea72cf910358c492d867dda616f25ea2e3da496a33d6903c53064f73c9ee577640b384945d70ccaed",
+  "website": "https://x.com/parsec_finance",
+  "description": "Community validator for Monad Mainnet by Parsec and Firstset",
+  "logo": "https://www.firstset.xyz/parsec.png",
+  "x": "https://x.com/parsec_finance"
+}
