@@ -1,8 +1,8 @@
 {
-  "id": 147,
+  "id": 33,
   "name": "Node3Tech",
-  "secp": "036241c81bc4f2a9c496fc2e22fad81e4a8708d84a0bf8433eace50d55518fd31d",
-  "bls": "b97c2af602be8706f5146791c8345c9c413a9174d2c9b93b7906083a7c5d0dd21dfdc89b46aaee7b4ae9c3ba963823f7",
+  "secp": "03f0a7333da1144cc7fdf2f683cf0e94b8a71e02486d34b3d4606373c2be7f2fe6",
+  "bls": "b1eb3fdec196f48655dc5ef7c51f3a2afec126b1ec1bbd4f2c29623e725f731bad34413c89bff192a20505188bacf318",
   "website": "https://www.node3tech.io",
   "description": "Node3Tech is a leading company specializing in blockchain infrastructure and decentralized validator technology, dedicated to providing high-performance and secure node operation and staking services. We actively participate in multiple mainstream network testnets and mainnet deployments, continuously driving the development and adoption of blockchain technology.",
   "logo": "https://node3tech.io/wp-content/uploads/2025/06/logo2-2048x2048.png",
