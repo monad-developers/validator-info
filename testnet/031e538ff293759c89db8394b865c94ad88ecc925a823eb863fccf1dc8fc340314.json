@@ -1,8 +1,8 @@
 {
-  "id": 207,
+  "id": 55,
   "name": "Stakeware",
-  "secp": "03704bf1cb1614f624c2c36af8efbfffa3524aadf89b59e0099c37a34f3a9c9566",
-  "bls": "a1972bcb6bd6966aa1bf54167b72fc9a54a70085d9caf7e58691e87faacadeae80cf542bc154c339a2ddf3e609f83c69",
+  "secp": "031e538ff293759c89db8394b865c94ad88ecc925a823eb863fccf1dc8fc340314",
+  "bls": "aaa3a2c298c652f32b2269e1730e25afe6eb856b880fdf8e24ad87643ff0ac9112031d667d2237372e8060f0142e6d2d",
   "website": "https://stakeware.xyz",
   "description": "An institutional-grade staking provider delivering secure operations and superior performance for PoS networks",
   "logo": "https://stakeware.xyz/logo.png",
