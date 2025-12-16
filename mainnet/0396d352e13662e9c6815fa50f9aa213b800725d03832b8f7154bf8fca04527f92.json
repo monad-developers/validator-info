@@ -1,0 +1,10 @@
+{
+  "id": 107,
+  "name": "EmberStake",
+  "secp": "0396d352e13662e9c6815fa50f9aa213b800725d03832b8f7154bf8fca04527f92",
+  "bls": "b33d8aa02ac00107e6b220c4fe398dd20e8f00d6c78a6d82715cd8323b398ef3ccc2caf357e0f3751643849044ebbb0c",
+  "website": "https://emberstake.xyz/",
+  "description": "Highly Available Cloud-Native Validator Nodes with Remote Signing and Distributed Monitoring for Enhanced Security and Reliability",
+  "logo": "https://emberstake.xyz/logo.png",
+  "x": "https://x.com/Ember_Stake"
+}

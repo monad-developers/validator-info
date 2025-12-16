@@ -1,0 +1,10 @@
+{
+  "id": 77,
+  "name": "Omakase",
+  "secp": "02af7c2bafc190d4d841a27d7716ef52fccba7b4893415287cfe8f579371117b79",
+  "bls": "b5697e4151a5bc929eec5a74ef20125950037740f3f0a9bd22b330056d2b7963994952f0c024dfd85448ffab91cf48ba",
+  "website": "https://0xmakase.co.jp/",
+  "description": "KudasaiJP/Omakase is a professional staking and validation service. We also contribute to innovative projects via marketing and development support.",
+  "logo": "https://raw.githubusercontent.com/0xmakase/monad-validator-info/master/config/logo.png",
+  "x": "https://x.com/0xmakase_jp"
+}

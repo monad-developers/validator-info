@@ -1,0 +1,10 @@
+{
+    "id": 145,
+    "name": "FP Validated",
+    "secp": "03b8aea4bde62774f18b0d80de4ce03bcfa55de6e4fc310b0803a0bb7eaffbb562",
+    "bls": "a7c6c92a3e958cca24b6b25962e8fbff90556c3763c8823a46ac8a42053f554f7a5be5db846546e112b58b1cbf5b5833",
+    "website": "https://4pillars.io/en/fp-validated",
+    "description": "FP Validated goes beyond infrastructure. We embed into ecosystems with conviction — shaping narratives, strengthening communities, and amplifying projects as much as producing blocks.",
+    "logo": "https://raw.githubusercontent.com/fpvalidator/felix/main/FPValidated.png",
+    "x": "https://x.com/FPvalidated"
+  }
