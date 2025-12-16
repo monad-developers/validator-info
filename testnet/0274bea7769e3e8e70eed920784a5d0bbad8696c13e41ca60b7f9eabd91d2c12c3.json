@@ -1,8 +1,8 @@
 {
-  "id": 102,
+  "id": 74,
   "name": "Redundex",
-  "secp": "02cf129e6a6751af767fe40768869791dfb531d0344a78635f025fd7e247a227b7",
-  "bls": "a9e02c2fde05f9928ff9fd872bba848d707e330dd2aebca3f38e234068251a4a8a0df3275d494a13a99ccd6012535509",
+  "secp": "0274bea7769e3e8e70eed920784a5d0bbad8696c13e41ca60b7f9eabd91d2c12c3",
+  "bls": "9296f295fef50226bc6836e9109918b966f5e02a731fdfdaf9788b2b6dcc400559908a5c7602b3fc338df9f13971deff",
   "website": "https://www.redundex.com",
   "description": "We empower Web3 projects to build and scale innovative decentralized solutions.",
   "logo": "https://storage.googleapis.com/redundex.com/logo/compact-logo.png",
