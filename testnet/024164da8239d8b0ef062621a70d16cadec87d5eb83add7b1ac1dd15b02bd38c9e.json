@@ -1,8 +1,8 @@
 {
-  "id": 172,
+  "id": 63,
   "name": "StarlightNode",
-  "secp": "03ac37ec7203f7159d569b79addc594a9b412a59239da225fac5c6a64614620a23",
-  "bls": "b0c479551193f2b27078be85d6b0c10f55238edc3be127fa921a55a3c893686906d380f257009c1cbf64515ca3654452",
+  "secp": "024164da8239d8b0ef062621a70d16cadec87d5eb83add7b1ac1dd15b02bd38c9e",
+  "bls": "b04aff5963680500c75d8ec9ea999a2f6c3e91d5258797c0359c17abd749e0d3f68539b48ca6ba55a64b2d48b838728c",
   "website": "https://starlightnode.com/",
   "description": "Blockchain infra-services provider, committed to support project from their early development stage to mainnet.",
   "logo": "https://starlightnode.com/wp-content/uploads/2025/11/starlighticon.png",
