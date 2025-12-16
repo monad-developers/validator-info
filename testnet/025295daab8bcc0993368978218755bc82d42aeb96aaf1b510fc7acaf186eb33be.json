@@ -1,8 +1,8 @@
 {
-  "id": 171,
+  "id": 42,
   "name": "CMS Holdings",
-  "secp": "0271204c6b4275c80ea13ce0428ab0fdfffb8ca39c885ba7535487f9f473add956",
-  "bls": "86dbdb75af11a58497d2f77d133392630bad7d2b773a4486b151b38e76d67fdd1880ec7dd9f5ea4f4fbdfb650fa8a059",
+  "secp": "025295daab8bcc0993368978218755bc82d42aeb96aaf1b510fc7acaf186eb33be",
+  "bls": "ab4485197b00d711ac2aeaf33c4135d63fc8a30b6a9cf5ae198b9144113f148630a79dc7557cd300ba0442806382cc7e",
   "website": "http://cmsholdings.io/",
   "description": "CMS Holdings is a principal investment firm focusing on digital assets and blockchain technology",
   "logo": "https://raw.githubusercontent.com/DaveWK/general_repo/refs/heads/main/cms-logo-only.png",
