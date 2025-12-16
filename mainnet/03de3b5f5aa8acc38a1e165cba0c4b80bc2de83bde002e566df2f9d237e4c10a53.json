@@ -1,10 +1,10 @@
 {
-    "id": 21,
-    "name": "Redundex",
-    "secp": "03de3b5f5aa8acc38a1e165cba0c4b80bc2de83bde002e566df2f9d237e4c10a53",
-    "bls": "b6cdbf9b6311ce17d63488fad7f98b202fab3fa12c9a986330e730b0c5d065d37b7181e672b0c1997b3caccce4a22867",
-    "website": "https://www.redundex.com",
-    "description": "We empower Web3 projects to build and scale innovative decentralized solutions.",
-    "logo": "https://storage.googleapis.com/redundex.com/logo/compact-logo.png",
-    "x": "https://x.com/RedundexHQ"
+  "id": 21,
+  "name": "Redundex",
+  "secp": "03de3b5f5aa8acc38a1e165cba0c4b80bc2de83bde002e566df2f9d237e4c10a53",
+  "bls": "b6cdbf9b6311ce17d63488fad7f98b202fab3fa12c9a986330e730b0c5d065d37b7181e672b0c1997b3caccce4a22867",
+  "website": "https://www.redundex.com",
+  "description": "We empower Web3 projects to build and scale innovative decentralized solutions.",
+  "logo": "https://storage.googleapis.com/redundex.com/logo/compact-logo.png",
+  "x": "https://x.com/RedundexHQ"
 }

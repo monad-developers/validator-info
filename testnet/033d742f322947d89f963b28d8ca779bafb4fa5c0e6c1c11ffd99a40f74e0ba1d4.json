@@ -1,10 +1,10 @@
 {
   "id": 216,
-  "name": "033d742f322947d89f963b28d8ca779bafb4fa5c0e6c1c11ffd99a40f74e0ba1d4",
+  "name": "Simply Staking",
   "secp": "033d742f322947d89f963b28d8ca779bafb4fa5c0e6c1c11ffd99a40f74e0ba1d4",
   "bls": "9030c032996a5f70ac152d51a1d433afc7b1ffd44371bd2889cddaa4926cb581ac15cbce9b741a8781acbffce1717b14",
-  "website": "",
-  "description": "",
-  "logo": "",
-  "x": ""
+  "website": "https://www.simplystaking.com",
+  "description": "Simply Staking is a trusted blockchain infrastructure provider offering secure staking services across multiple networks. With $1B+ TVL, we empower delegators with uptime reliability, seamless tools, and a commitment to innovation in the blockchain ecosystem.",
+  "logo": "https://simplystaking.com/wp-content/uploads/2025/07/Asset-1.webp",
+  "x": "https://x.com/SimplyStaking"
 }
