@@ -1,8 +1,8 @@
 {
-  "id": 176,
+  "id": 134,
   "name": "Swissstarnode",
-  "secp": "032b611753ce9e0f7e66385dc602c93d6f7f9eb7f47223593a0e5f6c0bbdc7b7e6",
-  "bls": "878060814e4586b901f57df83fc6f75f4e466603649c3ff1fa9b7b3e53d042e7464504320f7692b154f640d041f0b408",
+  "secp": "038a536cf9770fef59869ee27873b046601570b90ca04a3677647320e8873c062e",
+  "bls": "8cc99a5e6081e352e34c10d5d0952d921aa4c535d0eed30df0f3472e55990ca4d83920681afb9a1bec952bb1e575ad9e",
   "website": "https://swissstarnode.tech/",
   "description": "An independent validator from Switzerland",
   "logo": "https://swissstarnode.tech/images/http___swissstarnode.png",
