@@ -1,10 +1,10 @@
 {
   "id": 207,
-  "name": "03704bf1cb1614f624c2c36af8efbfffa3524aadf89b59e0099c37a34f3a9c9566",
+  "name": "Stakeware",
   "secp": "03704bf1cb1614f624c2c36af8efbfffa3524aadf89b59e0099c37a34f3a9c9566",
   "bls": "a1972bcb6bd6966aa1bf54167b72fc9a54a70085d9caf7e58691e87faacadeae80cf542bc154c339a2ddf3e609f83c69",
-  "website": "",
-  "description": "",
-  "logo": "",
-  "x": ""
+  "website": "https://stakeware.xyz",
+  "description": "An institutional-grade staking provider delivering secure operations and superior performance for PoS networks",
+  "logo": "https://stakeware.xyz/logo.png",
+  "x": "https://x.com/stakeware_xyz"
 }
