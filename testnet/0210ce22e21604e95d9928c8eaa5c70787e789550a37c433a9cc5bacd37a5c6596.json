@@ -1,10 +1,10 @@
 {
   "id": 199,
-  "name": "0210ce22e21604e95d9928c8eaa5c70787e789550a37c433a9cc5bacd37a5c6596",
+  "name": "xLabs",
   "secp": "0210ce22e21604e95d9928c8eaa5c70787e789550a37c433a9cc5bacd37a5c6596",
   "bls": "8bcc75321e5a2defd5b393ed41bb68dad2b03d68895c76af3cf54a39349b2167a39b891dabb3e2e4af6cecb714d57164",
-  "website": "",
-  "description": "",
-  "logo": "",
-  "x": ""
+  "website": "https://xlabs.xyz",
+  "description": "Core infrastructure for the internet of value",
+  "logo": "https://xlabs.xyz/xlabs.png",
+  "x": "https://x.com/xLabsxyz"
 }

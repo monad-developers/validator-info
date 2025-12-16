@@ -1,0 +1,10 @@
+{
+  "id": 141,
+  "name": "Artifact",
+  "secp": "03603d312e88271d935cab54a8c407ab06fabd44716f655e3f7bba60672eb6c174",
+  "bls": "9879ac42bffcaf874552055d589a8d1ee8e30347025cdf2b51a3ab9b16032e17bfaee8ba81aba93f1340d4ceafe95a8b",
+  "website": "https://artifact-systems.io",
+  "description": "High-performance Web3 infrastructure company that provides enterprise-grade RPC, validation, zkProver, and managed GPU compute services",
+  "logo": "https://raw.githubusercontent.com/artifactstaking/brand-assets/refs/heads/main/logos/ArtifactSystems_Logo.png",
+  "x": "https://x.com/artifactstaking"
+}
