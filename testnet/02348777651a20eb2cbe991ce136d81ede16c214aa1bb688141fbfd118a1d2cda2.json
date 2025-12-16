@@ -1,8 +1,8 @@
 {
-  "id": 120,
+  "id": 34,
   "name": "Kukis Global",
-  "secp": "03759cd2d06899f79c5b8f9c3120b5039e569543eb7255c0497ed59bc048276c26",
-  "bls": "a686eade1aa3b14564637711c7fce7f594fb3921267a1c9fc051a32cb32c16e7dde14ba9b730e63c19f23ac098caf816",
+  "secp": "02348777651a20eb2cbe991ce136d81ede16c214aa1bb688141fbfd118a1d2cda2",
+  "bls": "b2bb521fff049a68539ca28334a7bc52b6b145f37f16e33353584f14809acff32edeb2294a8762a0c2e53b4a5534fe3e",
   "website": "https://kukis-global.com",
   "description": "Web3.0 infrastructure and service provider. Reliable validator securing over $2B.",
   "logo": "https://www.kukis-global.com/assets/img/kg-logo.png",
