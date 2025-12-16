@@ -1,8 +1,8 @@
 {
-  "id": 212,
+  "id": 115,
   "name": "RHINO 🦏",
-  "secp": "02b8767f5598e1d1576946825e3766dd651b5cb1ab1e3a47f9c4d30d93cd0f3eb2",
-  "bls": "b07eb3305e692b752d972489e798fd97b8c517effeecbdd2263882c537fd141df11319b9fa018c4c8b4e02af225b3caa",
+  "secp": "0242b021c193c06e8d35a352be91f0ed77b03e72c29306a7f40a1a14339a297764",
+  "bls": "b3216a8f93cb4e51ea269e50e29a0a856958d8e55c2dd263827e920d5831ef2bf7ea9f0097eb0fa1ddefd27cce0ef1bb",
   "website": "https://rhinostake.com",
   "description": "Blockchain infrastructure at institutional standards. Multi-region reliability, enterprise SLAs, and slash protection insurance. We build trust into every block.",
   "logo": "https://snapshots.rhinostake.com/rhinoshare/RhinoLogoFilled.Dark.png",
