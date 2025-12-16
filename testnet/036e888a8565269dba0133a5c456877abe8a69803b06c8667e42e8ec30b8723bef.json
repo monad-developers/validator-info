@@ -1,8 +1,8 @@
 {
-  "id": 91,
+  "id": 127,
   "name": "Triton One",
-  "secp": "023b08ac1681859d28645951a0addeb44a5a38696ccdf0af007f2b9279b537b04d",
-  "bls": "84900d7d77948f1c45c36da2d9d52403b7715cc02be47019a98ca9a925ccb02ab589b39715a9860d037e8bbc2b67ff48",
+  "secp": "036e888a8565269dba0133a5c456877abe8a69803b06c8667e42e8ec30b8723bef",
+  "bls": "af7d66e019b37d5a07708835d3d1ade31c07e03482791488d6072f9ed9b4f799d60660a2bea9757407353af06b836741",
   "website": "https://triton.one/",
   "description": "We provide the most reliable, high-performance blockchain infrastructure so that you can build with confidence.",
   "logo": "https://triton-public-us.s3.amazonaws.com/logonew.svg",
