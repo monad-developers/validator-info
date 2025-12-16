@@ -1,8 +1,8 @@
 {
   "id": 124,
   "name": "StakingCabin",
-  "secp": "02b80141f523136a80804c47fc5b07201be9615f34bcd50e9e95195832fab9c78f",
-  "bls": "b5a648032eea0136b20b9469bb94d9af4fd69dab5842495eaeebabb03f8d90139de06d05b8c681c6b78aaf4b59d4bcfc",
+  "secp": "022a730b1ce8c182b2cfae8e652342d9677a9c47396643c747aa236d29b8657b02",
+  "bls": "88488ff7786cb869d08da8e6a3417d84b52e7a5843d4de30a477e44d561c228612ff725a29736bead1767be413e90e50",
   "website": "https://www.stakingcabin.com",
   "description": "StakingCabin offer enterprise-level, highly secure infrastructure services for public blockchain protocols.",
   "logo": "https://cdn.jsdelivr.net/gh/stakingcabin/stakingcabin@main/assets/logo512.png",
