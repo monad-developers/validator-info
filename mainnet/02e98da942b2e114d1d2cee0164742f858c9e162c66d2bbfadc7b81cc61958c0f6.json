@@ -1,0 +1,10 @@
+{
+  "id": 144,
+  "name": "Informal Systems",
+  "secp": "02e98da942b2e114d1d2cee0164742f858c9e162c66d2bbfadc7b81cc61958c0f6",
+  "bls": "aea3a3348cdfe683c7f8c261148fe2b848e94670b1119c736d469c82ae880cd8906b3d29e78fc0cf7ab03b232ff2e9ac",
+  "website": "https://informal.systems",
+  "description": "Infrastructure for decentralized intelligence",
+  "logo": "https://raw.githubusercontent.com/cephalopodequipment/config/main/media/informal-systems-logo.png",
+  "x": "https://x.com/informalinc"
+}
