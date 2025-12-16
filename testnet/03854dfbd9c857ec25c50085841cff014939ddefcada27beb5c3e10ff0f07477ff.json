@@ -1,0 +1,10 @@
+{
+  "id": 220,
+  "name": "Goldsky",
+  "secp": "03854dfbd9c857ec25c50085841cff014939ddefcada27beb5c3e10ff0f07477ff",
+  "bls": "8a4d9009f41353fdd1759442f80f9247b85dc84792b6b8a6b5b06a21f39db4204c9b700f28d3f3854e253ee3c74438bc",
+  "website": "https://goldsky.com/",
+  "description": "Goldsky Testnet Validator",
+  "logo": "https://goldsky.com/images/favicon.svg",
+  "x": "https://x.com/goldskyio"
+}
