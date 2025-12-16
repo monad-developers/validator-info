@@ -1,10 +1,10 @@
 {
   "id": 36,
-  "name": "02201bdea9fd814cd14f725209c18c685f88676deb29d55b3f968da7ae8aff7084",
+  "name": "Kairos Research X Firstset",
   "secp": "02201bdea9fd814cd14f725209c18c685f88676deb29d55b3f968da7ae8aff7084",
   "bls": "8cc0c10fa0938107f980776c967c6dd4b298dff9b76c6250f4afa178b24ca71087f4047442aab0a5788e3ccce8495ec9",
-  "website": "",
-  "description": "",
-  "logo": "",
-  "x": ""
+  "website": "https://kairoscrypto.substack.com/",
+  "description": "A joint validator by Kairos Research and Firstset",
+  "logo": "https://s3.amazonaws.com/keybase_processed_uploads/f386785ed2c920380e549cdb164c6805_360_360.jpg",
+  "x": "https://x.com/Kairos_Res"
 }
