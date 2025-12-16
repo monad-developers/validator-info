@@ -1,8 +1,8 @@
 {
-  "id": 23,
+  "id": 75,
   "name": "ProStaking",
-  "secp": "037f1cf0c9c0216c04e4a88429b7c5491d5b1787ca1db7ba270da6d1b2cdc836ce",
-  "bls": "b75e137506549eac287691aa9f34520d5b3eb0b2b2c9105abd9f6c86a8c0f8193c29535b69b7279dfeea6e682db0e994",
+  "secp": "03b99b0a62ef3bad2c018a726e59174bf9a9c008a36d35b30c5bd085d7ada60496",
+  "bls": "8b442fd3595e58acded6b0f964f690058917bb41d4997cad8784d00f285ae67125366816c978ccabb04d",
   "website": "https://prostaking.com/",
   "description": "Pro Staking for Pro Stakers on the Monad blockchain",
   "logo": "https://bafybeigaa3mbr4qe4hgc55e6srfliawtzdebrs3lrieas63dfc4vdyhiii.ipfs.w3s.link/ProStaking-CircleMark-360px.png",
