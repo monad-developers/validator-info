@@ -1,8 +1,8 @@
 {
-  "id": 77,
+  "id": 15,
   "name": "Lemniscap",
-  "secp": "03aa8392343830367b4f23692a27f1f9e6052b8c3b0e8bfb312f05b4edbbec1111",
-  "bls": "9948f411336aa4422eddbdb7d240796b84d1629130db61d44415c2a7240eced8b5abefd7a166a980c09833e16ae6e56e",
+  "secp": "03c9ac0b53e3808d31e6587f79c95139ef34823c4564881ef316f57f22704af513",
+  "bls": "a5bf912e353cf6d2015595131f275f7e2f976a09dbc0f19f0c8dd05a1b1386e3f6739d2075bc31e1a1fabc4b8c7cbef4",
   "website": "https://lemniscap.com/",
   "description": "Lemniscap is an investment firm specialising in investments in emerging cryptoassets and blockchain startups.",
   "logo": "https://static.lemniscap.com/assets/icon.png",
