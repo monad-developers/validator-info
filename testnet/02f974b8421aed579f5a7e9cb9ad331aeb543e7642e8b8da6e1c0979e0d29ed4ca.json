@@ -1,8 +1,8 @@
 {
-  "id": 211,
+  "id": 52,
   "name": "SenseiNode",
-  "secp": "036720ad34fc8bbe97fbec5344866f1a7fecb08fbcd73e9e9a3518dd477a9c3c33",
-  "bls": "9299c91ed84b3921c2344f792fa98a42f2297f692ee4dfed2a1bb39ba53cab3a70226817696b73f5b32633f0d0e47372",
+  "secp": "02f974b8421aed579f5a7e9cb9ad331aeb543e7642e8b8da6e1c0979e0d29ed4ca",
+  "bls": "92727073a086cf4ea96ded6eaba34af0dd978c5d0443083a74106b7063f17b02285ccd3cae6a79c75ec07bcd56b2e780",
   "website": "https://www.senseinode.com/",
   "description": "SenseiNode is the first institutional-level blockchain infrastructure provider in Latin America",
   "logo": "https://s3.amazonaws.com/keybase_processed_uploads/426bcc7584e6acccf6db02517ea87905_360_360.jpg",
