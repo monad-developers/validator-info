@@ -1,8 +1,8 @@
 {
   "id": 149,
   "name": "The Workshop",
-  "secp": "0344271aa2dfc8d7f703999024a8a8a416c94c4621fd2a3e512852b13ede90b122",
-  "bls": "8c719f2d2e3aeb46afe2ec086869bee7c3cd9f191a94fafaa56f233cdc526ba1e06af6d85647d33a766fa9eeb829fb56",
+  "secp": "0369bac9917d1e0955f243cee66a13a5da7dc85c3f6b02dfb520ec08e42325866a",
+  "bls": "b302045af86d21c36599a1c87eab85f51a64e8a6efca1b995c430a071a6e4e8bf2c8e5efae68d10b3e3c1942bd3db123",
   "website": "https://theworkshop.sh",
   "description": "We run high-performance and transparent validators.",
   "logo": "https://theworkshop.sh/logo-dark.svg",
