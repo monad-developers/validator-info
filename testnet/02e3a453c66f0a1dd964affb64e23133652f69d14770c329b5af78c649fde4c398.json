@@ -1,8 +1,8 @@
 {
-  "id": 114,
+  "id": 40,
   "name": "Huginn",
-  "secp": "027ef2fcb75fe590f2aa3be5caf20c741e257138c62f9dce1ba20c9d614e3d8664",
-  "bls": "924bbf15c35b14ce21a19eb95985c35e7b4021dd39cdb975a432b8a6dd074817d1dbf2c56a1863346954252f120ff1d9",
+  "secp": "02e3a453c66f0a1dd964affb64e23133652f69d14770c329b5af78c649fde4c398",
+  "bls": "a292cf32353d246199def75d3c4d8a24119eec63a3d0064f7bd42c35eb8c7b0dfedaffcfd964d13475100fe24269affd",
   "website": "https://huginn.tech",
   "description": "Huginn is a trusted infrastructure provider and active validator across multiple modular and app-specific chains. We focus on reliability, deep ecosystem research, and long-term alignment with the communities we support.",
   "logo": "https://huginn.tech/assets/logos/huginn-logo.png",
