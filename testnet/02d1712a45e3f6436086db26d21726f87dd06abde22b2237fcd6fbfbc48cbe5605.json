@@ -1,8 +1,8 @@
 {
-  "id": 213,
+  "id": 70,
   "name": "Proof Group",
-  "secp": "021ed41e670f1103b504b07a035cf7b17a814214aa31b47d437c002798832d1e02",
-  "bls": "b7f5bd48541fa3470e152ca88c4004bfd7c88dea7d5ff25c868dc8636a567db1000f2a9a86322c8eef5ebac643ce7e35",
+  "secp": "02d1712a45e3f6436086db26d21726f87dd06abde22b2237fcd6fbfbc48cbe5605",
+  "bls": "b4f31f3f59d1fd1fbcd2013b4059cd87a533c9f71281b1572b0840c750ad3fb67f4c632c6aff5c0a678331baba50da41",
   "website": "https://proofgroup.xyz",
   "description": "Proof Group is a web3 investment firm that has backed leading projects like Sui, Aptos, Farcaster, Ondo, and many others.  Our approach extends beyond just capital investment where we actively support ecosystems on the infrastructure side",
   "logo": "https://raw.githubusercontent.com/proofgp/static/refs/heads/main/monad/logo-red.png",
