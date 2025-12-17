@@ -1,0 +1,10 @@
+{
+  "id": 114,
+  "name": "nadradar",
+  "secp": "03621a38c847c28363182b0df77a4840c6842c06bb5e23609ce01864c47430d392",
+  "bls": "960993eaf7792909cf35cec835470b2188eb5709ba5883d923744088e720ec3d0660780bdd53801eb4774eb93ff14650",
+  "website": "https://nadradar.com",
+  "description": "Community-driven onchain analytics for nads, powered by Nodeinfra",
+  "logo": "https://raw.githubusercontent.com/nodeinfra/publicinfo/refs/heads/main/nadradar.png",
+  "x": "https://x.com/nad_radar"
+}

@@ -1,0 +1,10 @@
+{
+  "id": 132,
+  "name": "Ankr",
+  "secp": "02e00cbcb0d6f26ab34c9e3d4caca248156a2b0acea9504190fcd0e489eedc5bef",
+  "bls": "b8d53d1c99146915729a4aa18ce9f1390976b5b0c9f9817f2f32b9110377b9f69b8412a36eb7ea61cec518e493d6efa7",
+  "website": "https://www.ankr.com",
+  "description": "Ankr | The Fastest Web3 Infrastructure",
+  "logo": "https://www.ankr.com/_next/static/images/ankr-blue-logo-9cb21287573aa404ab083c44faee3db4.png",
+  "x": "https://x.com/ankr"
+}
