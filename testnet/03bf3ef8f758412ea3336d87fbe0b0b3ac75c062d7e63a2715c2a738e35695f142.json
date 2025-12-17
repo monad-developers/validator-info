@@ -1,8 +1,8 @@
 {
-  "id": 141,
+  "id": 139,
   "name": "StakeCraft",
-  "secp": "02d09f65a9c2e0f0f7f8b37774d4f840ff5584b4ac165875b4e010b4db8fa569f6",
-  "bls": "826e0c8491aff7db95c28362e7e84c4b9083fdecc45d3fefd23b562ded04b5a6cb153a7f7830b44282eef88348ae72ad",
+  "secp": "03bf3ef8f758412ea3336d87fbe0b0b3ac75c062d7e63a2715c2a738e35695f142",
+  "bls": "959c27e1b352cd378b772980dc55d57690ac1a39ec3e321c66d4932ec2ce80b6f6116b65c32132a7fc6bcbf0af905e17",
   "website": "https://stakecraft.com",
   "description": "Trustworthy Validator",
   "logo": "https://pbs.twimg.com/profile_images/1661349922988326912/84iOjM9W_400x400.jpg",
