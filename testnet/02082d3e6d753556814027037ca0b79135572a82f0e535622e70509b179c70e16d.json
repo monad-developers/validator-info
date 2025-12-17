@@ -1,0 +1,10 @@
+{
+  "id": 18,
+  "name": "DeSpread",
+  "secp": "02082d3e6d753556814027037ca0b79135572a82f0e535622e70509b179c70e16d",
+  "bls": "91c4c350d919ffafadea01d2a7ef0fe2e23f3e3f5605f3e23279d9b2d0de41e531ad8b33a6ac26f2cf413d6dba465736",
+  "website": "https://despread.io/",
+  "description": "We provide refined perspective for Web3 pioneers. Founded in 2019, DeSpread is a consulting firm specializing in Web3 & blockchain. It actively contributes to Web3’s mass adoption by supporting the growth of various startups and protocols.",
+  "logo": "https://raw.githubusercontent.com/DeSpread/despread-assets/main/logo.png",
+  "x": "https://x.com/despreadlabs"
+}

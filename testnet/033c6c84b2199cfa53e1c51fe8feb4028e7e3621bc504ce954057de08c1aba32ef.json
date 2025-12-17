@@ -1,0 +1,10 @@
+{
+  "id": 225,
+  "name": "Kiln",
+  "secp": "033c6c84b2199cfa53e1c51fe8feb4028e7e3621bc504ce954057de08c1aba32ef",
+  "bls": "82f7e0746f56dbf3ef5c89220f28f31525e6bedad063dfd5e98c61602ee136588a1838da3e046e1dd78b0946eedb3f45",
+  "website": "https://www.kiln.fi/",
+  "description": "Kiln - The institutional layer for onchain assets",
+  "logo": "https://public.kiln.fi/icon.png",
+  "x": "https://twitter.com/Kiln_finance"
+}
