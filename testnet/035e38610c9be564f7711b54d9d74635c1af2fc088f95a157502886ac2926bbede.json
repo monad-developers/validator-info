@@ -1,8 +1,8 @@
 {
-  "id": 170,
+  "id": 159,
   "name": "StakeUs",
-  "secp": "035e38610c9be564f7711b54d9d74635c1af2fc088f95a157502886ac2926bbede",
-  "bls": "87f21f82408bd13634b19e55a690cc1e36ebdca95323a288f7c5652b0ee93745342c9317e8bf077c1226e880527de338",
+  "secp": "02151326669ec050aaa48c7effd9da02cac831182fff58f319a4e2a892e78818fe",
+  "bls": "8fb0de322b1482c09c7060624860ddec4b8e1342df9ad944102dd664a736cfa7d335571a5f404ce20c567bb4a8bd486e",
   "website": "https://stakeus.xyz",
   "description": "Trust Us Stake Us",
   "logo": "https://raw.githubusercontent.com/StakeUs/Stakeus_LOGO/refs/heads/main/logo-no-background.png",
