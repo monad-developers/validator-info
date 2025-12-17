@@ -1,0 +1,11 @@
+{
+  "id": 166,
+  "name": "Goldsky",
+  "secp": "02e64ecc7ae9b79eddf987aea68b5439f34a6fc4d1d04c665671666a7ee2d4eedc",
+  "bls": "b204c25f438754c863983f92b8f151bd6a2936f672659be02b3713b214f05f0bbbbb7099ba7e90465abb2c9b8654fb79",
+  "website": "https://goldsky.com/",
+  "description": "Goldsky Mainnet Validator",
+  "logo": "https://goldsky.com/images/favicon.svg",
+  "x": "https://x.com/goldskyio"
+}
+

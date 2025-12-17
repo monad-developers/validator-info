@@ -4,6 +4,7 @@ on:
   pull_request:
     paths:
       - "testnet/*.json"
+      - "mainnet/*.json"
 
 jobs:
   validate:
@@ -17,9 +18,11 @@ jobs:
           python-version: "3.11"
       - run: pip install -r scripts/requirements.txt
       - name: Validating changed files
+        env:
+          MAINNET_RPC_URL: ${{ secrets.MAINNET_RPC_URL }}
         run: |
           git fetch origin ${{ github.base_ref }}
-          FILES="$(git diff --name-only origin/${{ github.base_ref }}...HEAD | grep -E '^(testnet)/' || true)"
+          FILES="$(git diff --name-only origin/${{ github.base_ref }}...HEAD | grep -E '^(testnet|mainnet)/' || true)"
 
           for FILE in $FILES; do
             python scripts/validate.py "$FILE"
