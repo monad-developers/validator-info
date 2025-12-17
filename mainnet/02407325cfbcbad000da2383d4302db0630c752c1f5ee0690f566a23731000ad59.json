@@ -1,0 +1,10 @@
+{
+  "id": 157,
+  "name": "rskl",
+  "secp": "02407325cfbcbad000da2383d4302db0630c752c1f5ee0690f566a23731000ad59",
+  "bls": "b3e86d36b4b34d8219a7d8db0ad7f0877588b23524ae17ea2798e2b4fdbe66fc59e4b2ce28c333688fdbdb6debb0216e",
+  "website": "https://rskl.xyz/",
+  "description": "rskl is a long term monad contributor and part of synclab.team (this node maintained w/ snoopfear from synclab.team)",
+  "logo": "https://raw.githubusercontent.com/legalov/goldfinch-bot-fetcher/b7153c9d633121859f0b2abaf7374622444ee9e3/rskl.svg",
+  "x": "https://x.com/rsklwtf"
+}

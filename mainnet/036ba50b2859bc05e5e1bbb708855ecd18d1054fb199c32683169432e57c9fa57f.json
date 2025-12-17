@@ -1,0 +1,10 @@
+{
+  "id": 129,
+  "name": "Figment",
+  "secp": "036ba50b2859bc05e5e1bbb708855ecd18d1054fb199c32683169432e57c9fa57f",
+  "bls": "8a61d958a0b2113d28bdbe2ab50b0ee74e3ed009a1db0f74e8e1fe89f2bb70bdf69deb8686d101541e6fd7677f1e9cb7",
+  "website": "https://figment.io",
+  "description": "Figment is the leading institutional staking provider serving more than 700 institutional clients with enterprise-grade validators on 40+ Proof of Stake protocols. We offer seamless staking integrations, audited infrastructure, robust rewards data, and more.",
+  "logo": "https://figment-logo.s3.ca-central-1.amazonaws.com/Figment-logo.png",
+  "x": "https://x.com/Figment_io"
+}
