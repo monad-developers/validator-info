@@ -1,0 +1,57 @@
+name: Generate and Upload Validator Files
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'mainnet/**.json'
+      - 'testnet/**.json'
+      - '!mainnet/mainnet_validators.json'
+      - '!testnet/testnet_validators.json'
+
+env:
+  R2_PATH_PREFIX: ''  # Set to a path like 'validators/' if you want files under a subdirectory
+
+jobs:
+  generate-and-upload:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      
+      - name: Run validator generation script
+        run: python3 scripts/generate_validators_json.py
+      
+      - name: Install AWS CLI (for S3-compatible upload)
+        run: |
+          pip install awscli
+      
+      - name: Configure AWS CLI for R2
+        env:
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        run: |
+          aws configure set aws_access_key_id $R2_ACCESS_KEY_ID
+          aws configure set aws_secret_access_key $R2_SECRET_ACCESS_KEY
+          aws configure set default.region auto
+      
+      - name: Upload files to R2
+        env:
+          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+          R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
+        run: |
+          # Upload mainnet validators JSON
+          aws s3 cp mainnet/mainnet_validators.json s3://${R2_BUCKET_NAME}/validator-info/mainnet/validators.json --endpoint-url $R2_ENDPOINT
+          
+          # Upload testnet validators JSON
+          aws s3 cp testnet/testnet_validators.json s3://${R2_BUCKET_NAME}/validator-info/testnet/validators.json --endpoint-url $R2_ENDPOINT
+          
+          echo "✅ Successfully uploaded validator JSON files to R2"
+
