@@ -1,8 +1,8 @@
 {
-  "id": 143,
+  "id": 123,
   "name": "Parsec x Firstset Community Validator",
-  "secp": "02a591ca35bb41cef65e49853f83e9364b55629bce5adb541a0b60709555249a81",
-  "bls": "89a25908a3028a555f2f7075b6bccc24b562b15d972118ef3c055dd252a9f611a0b05da48c502bb1d238f7fed812deb3",
+  "secp": "035894f6ab3cf70823277071e72e735ae061b0ec429bcc8b89903a16481be534a4",
+  "bls": "90ac56f9c443b3b344ed03a280fbca451b827008509eaa37c51581727a192964a1c6455bf37ed07540a0644a9f5c610d",
   "website": "https://x.com/parsec_finance",
   "description": "Community validator for the Monad Testnet by Parsec and Firstset",
   "logo": "https://www.firstset.xyz/parsec.png",
