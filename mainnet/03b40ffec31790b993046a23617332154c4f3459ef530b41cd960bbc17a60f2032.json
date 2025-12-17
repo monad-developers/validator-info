@@ -1,0 +1,10 @@
+{
+  "id": 164,
+  "name": "DIN",
+  "secp": "03b40ffec31790b993046a23617332154c4f3459ef530b41cd960bbc17a60f2032",
+  "bls": "af668e62c5f475d80ba4d4b176e39421e98d59f21e80534a7de186632ed968d77b6ec2cb613eec64dc06ff1099e0b4fe",
+  "website": "https://www.din.build/",
+  "description": "Decentralized Infrastructure Network (DIN) is a marketplace protocol for web3 and AI infrastructure. Our AVS is now live on EigenCloud.",
+  "logo": "https://qluoylkpykklajrjkfdh.supabase.co/storage/v1/object/public/operator-logos/DIN_Logo-Circ_Orange.png",
+  "x": "https://x.com/DINBuild"
+}
