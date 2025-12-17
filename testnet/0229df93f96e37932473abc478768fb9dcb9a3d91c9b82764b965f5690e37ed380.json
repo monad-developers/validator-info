@@ -1,8 +1,8 @@
 {
-  "id": 73,
+  "id": 41,
   "name": "Allnodes",
-  "secp": "02a3e67b9a8876f1a549f9105c5d9c2b5438ccca21295288943328ae607985d89c",
-  "bls": "9012f401891b31273e5c81078f5c83f72e957579430e109bdacceb2c902bb8462182e10b348d9516a688269ea49afd38",
+  "secp": "0229df93f96e37932473abc478768fb9dcb9a3d91c9b82764b965f5690e37ed380",
+  "bls": "aa3e7b6c015293b702354ee84b56edc50684d5aec8ae1eabde7d65f93f294174e9ddf2fb8231016b2e3dd8eb65c18b57",
   "website": "https://www.allnodes.com/",
   "description": "Reliable non-custodial Validator run by the industry leader - Allnodes",
   "logo": "https://www.allnodes.com/assets/logo.png",
