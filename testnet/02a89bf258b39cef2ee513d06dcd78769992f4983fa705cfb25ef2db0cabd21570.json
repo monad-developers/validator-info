@@ -1,8 +1,8 @@
 {
-  "id": 123,
+  "id": 140,
   "name": "[NODERS]",
-  "secp": "02450373c2a207a69d300f6f8287f46f9370b38efb2894f428ce54add5d8cc70d3",
-  "bls": "8d0b9db9e41958c62b1711212063ee01cfbc8465ef4faec5a848f5a9ab20bfd250f6a93027efb3aa5bb57faa3f6f8312",
+  "secp": "02a89bf258b39cef2ee513d06dcd78769992f4983fa705cfb25ef2db0cabd21570",
+  "bls": "b5895b84b42adc380b023c0c55a6f3866e946639c61fc6c8eecef712d6583b30de20096fb2b40efef6136508e66d9f1e",
   "website": "https://noders.team",
   "description": "Noders LLC is a premier provider of institutional-grade Validator Services and cutting-edge Web3 Development.",
   "logo": "https://raw.githubusercontent.com/noders-team/brand-kit/refs/heads/main/logo/noders_logo_256.png",
