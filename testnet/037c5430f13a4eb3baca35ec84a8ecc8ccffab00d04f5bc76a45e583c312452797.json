@@ -1,8 +1,8 @@
 {
-  "id": 72,
+  "id": 66,
   "name": "Chainode Tech",
-  "secp": "034ae296273e37d1c3a315b50d9d5d296f0bc7ff9b0b564aa31aeed07b3664c951",
-  "bls": "aac1f379115e2d74ca8cf2983da70f16972b74220ba4af3c70de5820b0edc63e16965da3a87f39d2fa7599bc6e76b985",
+  "secp": "037c5430f13a4eb3baca35ec84a8ecc8ccffab00d04f5bc76a45e583c312452797",
+  "bls": "991c68aed71025193be3bbf2e67e7d609a901b439d13427e2ab6df44655682925cdab45eda9123b905feb86e9c3527f5",
   "website": "https://chainode.tech/",
   "description": "Chainode Tech is your reliable Swiss-based partner for Distributed Ledger Technology (DLT) staking and validation services",
   "logo": "https://chainode.tech/img/logo.svg",
