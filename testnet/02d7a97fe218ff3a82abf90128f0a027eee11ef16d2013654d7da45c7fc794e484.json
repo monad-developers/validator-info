@@ -1,8 +1,8 @@
 {
-  "id": 82,
+  "id": 57,
   "name": "ContributionDAO",
-  "secp": "0231b40d2092a9be085f3fabb3c37aaf2aa480dd646a15711be06f9f88bbd194ae",
-  "bls": "86055f3772e837fd66155f9b367b70d25ec6b089a1c92ef567d1ca6cb940722a36b6725ef58b21ccc1d3ca5f20d595fa",
+  "secp": "02d7a97fe218ff3a82abf90128f0a027eee11ef16d2013654d7da45c7fc794e484",
+  "bls": "b051678785ff2d7f468be4a7b9bd1d8f6178210c40d9795b5e1363da4a5bbc993c1e658416479173ab807b5801b99261",
   "website": "https://staking.contributiondao.com/",
   "description": "Secure Network With Institutional Grade Solution.Leading in South East Asia, ContributionDAO seamlessly blend innovation with stringent security, offering an unrivaled staking experience through seamless Institutional-grade solutions.",
   "logo": "https://raw.githubusercontent.com/Contribution-DAO/contributiondao/main/brand-assets/cdao-logo-white.png",
