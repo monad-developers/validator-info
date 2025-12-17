@@ -1,8 +1,8 @@
 {
-  "id": 206,
+  "id": 76,
   "name": "StakeSquid",
-  "secp": "02e1ff2a7d32b5b67b21251e64e726584509a02a4def6a0f4a3466fa34fd6c2510",
-  "bls": "b5e62d0c54cec1729aaf7b5afd05d070437cd26541ad3874aa156e5a013c90bf7b5e25ba290802da0ea19a098c767f91",
+  "secp": "02e3ed7ca400eee8a706f5fe520e83473f0dbf993b970d96d7f3f9472ff3328e45",
+  "bls": "85e5664acf770be68b638d7c512b11857ec2a6a5beae2bdd91ee261fa5f053fb075ffab322a7da9c3d8dc21e7ead7f62",
   "website": "https://stakesquid.com/",
   "description": "We provide enterprise-grade, secure, high availability non-custodial staking services and developer tools",
   "logo": "https://stakesquid.com/assets/stakesquid-logo.png",
