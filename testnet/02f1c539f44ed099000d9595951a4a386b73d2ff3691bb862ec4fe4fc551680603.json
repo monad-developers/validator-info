@@ -1,8 +1,8 @@
 {
-  "id": 133,
+  "id": 148,
   "name": "Meria",
-  "secp": "03d233c1dc7ee5441c3fb700201c2a39e9ecdd731379c6ef8c78cfb5f357352cd0",
-  "bls": "afc2aa21da6dfaf3ff3a28e2de9aadc5577084f23c5ee145fbaccd4abe01305963c2101f0e8bb64a82ea807aa2035adc",
+  "secp": "02f1c539f44ed099000d9595951a4a386b73d2ff3691bb862ec4fe4fc551680603",
+  "bls": "8a91bcca89413cd3cdfd647cd3cda8316417bc94c4119c43e10322286b9d3463ff242e491f4c78b6805db796159713bd",
   "website": "https://www.meria.com/",
   "description": "French Crypto Investment Provider",
   "logo": "https://s3.amazonaws.com/keybase_processed_uploads/3fcc4caebb2c8e949829a7b090be3805_360_360.jpg",
