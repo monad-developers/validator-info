@@ -1,0 +1,10 @@
+{
+  "id": 37,
+  "name": "Laminated Labs",
+  "secp": "025c6b722b4f9a7ff79cbfbc82afd6030b9eeabb4af41af4822c6f1a781134a1a3",
+  "bls": "8dadb38c8c01968d91d86a3a3c9430894d72315451dd7e97c1a09f4b4ba04d51c89ea951e9698bc36a397eb2e1cf8fef",
+  "website": "https://laminatedlabs.com/",
+  "description": "Laminated Labs is a boutique software and infrastructure collective built by four friends with deep technical chops and a shared love of laminated dough.",
+  "logo": "https://laminated-labs-assets.s3.us-east-2.amazonaws.com/public/logo.png",
+  "x": "https://x.com/LaminatedLabs"
+}

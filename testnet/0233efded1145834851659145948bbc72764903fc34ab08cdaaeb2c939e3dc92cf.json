@@ -1,0 +1,10 @@
+{
+  "id": 25,
+  "name": "xLabs",
+  "secp": "0233efded1145834851659145948bbc72764903fc34ab08cdaaeb2c939e3dc92cf",
+  "bls": "928fda61d282a1ab8ccba688e7ae7723d03db5bb45cebc6741ed265909f3ed1890a3d17e3fc3d245f550806c1ce54ed3",
+  "website": "https://xlabs.xyz",
+  "description": "Core infrastructure for the internet of value",
+  "logo": "https://xlabs.xyz/xlabs.png",
+  "x": "https://x.com/xLabsxyz"
+}
