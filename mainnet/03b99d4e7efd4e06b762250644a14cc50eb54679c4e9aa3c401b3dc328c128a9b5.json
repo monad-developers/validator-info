@@ -1,0 +1,10 @@
+{
+  "id": 116,
+  "name": "Flipside Crypto",
+  "secp": "03b99d4e7efd4e06b762250644a14cc50eb54679c4e9aa3c401b3dc328c128a9b5",
+  "bls": "b796ece334331e20f795298ec1ba2dfe0771b7da35527efe81b7cf2e1969df661806ab53b134b2196fcf15f9997f3dd5",
+  "website": "https://flipsidecrypto.xyz",
+  "description": "Flipside helps protocols grow intelligently--using AI agents and data science.",
+  "logo": "https://raw.githubusercontent.com/fsc-platform/blockchain-logos/main/flipside_icon.png",
+  "x": "https://x.com/flipsidecrypto"
+}
