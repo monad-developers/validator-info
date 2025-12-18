@@ -1,8 +1,8 @@
 {
-  "id": 152,
+  "id": 89,
   "name": "Chainlayer",
-  "secp": "02cab1ebe44298d1d27d404b8358463fa1128e366817d8d6ab3ff53daf5bdd014d",
-  "bls": "a8e8d6d2db75b30b91087e1629064160a5c4c9f4885e6d1c13076e367e0d8224730704ba5cf591cccea36b1d6c99003b",
+  "secp": "02d806eddfa43d63cc47c1d73f62c353d22564e1c9ec667abe8f5f9813879ee1b4",
+  "bls": "9881406a9c0bb8bc2e9e3c60e42a375ace857e364c8ee3dcd7f332a4a6b56b8e5cc193656f901c3297f708e2e46e7d48",
   "website": "https://chainlayer.io/",
   "description": "Secure and reliable validator.",
   "logo": "https://chainlayer.io/icons/icon-512x512.png",

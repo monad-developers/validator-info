@@ -1,8 +1,8 @@
 {
-  "id": 81,
+  "id": 91,
   "name": "Silk Nodes",
-  "secp": "03e773631152aa98da046d945f0d410d85369e19764a7f9de77fcb896defe527df",
-  "bls": "837283c67ac33a9332c4d17657fd80d756817a4cd1e244a6b4f4a73809c3a159f4c22a53bba1a793c3ed9729fdb54c5c",
+  "secp": "0344bf6f5d2e52bb74e737f1306e75ad0539565121eb2bdbc71cae71ab1f4f4d0f",
+  "bls": "b5f057572bc19e3f1518c170106cca5f6488aceb74561a54e331d7f73f6434a6919375c26b7ed934789422cd25fd20a3",
   "website": "https://monad.silknodes.io/",
   "description": "Providers of enterprise grade blockchain infrastructure services.",
   "logo": "https://raw.githubusercontent.com/Silk-Nodes/brand-assests/refs/heads/main/icon/Silk_Nodes180.jpg",

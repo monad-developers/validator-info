@@ -1,8 +1,8 @@
 {
-  "id": 87,
+  "id": 94,
   "name": "Syncnode",
-  "secp": "0297b0bbdc8458d9fa548439ac85e88e30d4b3880ebad9e9f5d2fe917b2334e27b",
-  "bls": "b2a103be8f36d7f91a7a26a5578cc72c930f93ff5507c293b07cdb359e145a73c21d533ed8d4f58243b017d6219961db",
+  "secp": "0386af4956f43a81217828b03fccb2469fe570cf9815784fb6608ed01716fa7bc8",
+  "bls": "b7fed7441353b3af7c838c9334c51e7ea7d380d03f8e5abc0c9288e9f217214f8e962ce4a9dd31631cb4abb7adba2a5b",
   "description": "Syncnode Professional Staking Services - Infrastructure for the next generation of trust",
   "logo": "https://raw.githubusercontent.com/syncnode-srl/syncnode/refs/heads/master/logo2.jpeg",
   "x": "https://x.com/syncn0de",
