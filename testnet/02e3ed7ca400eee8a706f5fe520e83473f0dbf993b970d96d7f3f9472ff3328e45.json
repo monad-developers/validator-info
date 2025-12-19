@@ -1,0 +1,10 @@
+{
+  "id": 76,
+  "name": "StakeSquid",
+  "secp": "02e3ed7ca400eee8a706f5fe520e83473f0dbf993b970d96d7f3f9472ff3328e45",
+  "bls": "85e5664acf770be68b638d7c512b11857ec2a6a5beae2bdd91ee261fa5f053fb075ffab322a7da9c3d8dc21e7ead7f62",
+  "website": "https://stakesquid.com/",
+  "description": "We provide enterprise-grade, secure, high availability non-custodial staking services and developer tools",
+  "logo": "https://stakesquid.com/assets/stakesquid-logo.png",
+  "x": "https://x.com/stakesquid"
+}
