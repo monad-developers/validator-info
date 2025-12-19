@@ -22,7 +22,9 @@ jobs:
           MAINNET_RPC_URL: ${{ secrets.MAINNET_RPC_URL }}
         run: |
           git fetch origin ${{ github.base_ref }}
-          FILES="$(git diff --name-only origin/${{ github.base_ref }}...HEAD | grep -E '^(testnet|mainnet)/' || true)"
+          # Get list of changed files, excluding deleted files (--diff-filter=d)
+          # since we can't validate files that no longer exist
+          FILES="$(git diff --name-only --diff-filter=d origin/${{ github.base_ref }}...HEAD | grep -E '^(testnet|mainnet)/' || true)"
 
           for FILE in $FILES; do
             python scripts/validate.py "$FILE"
