@@ -1,10 +1,10 @@
 {
   "id": 83,
-  "name": "020bf48419090e769a1e0d5b534626d43495d50f498d165d9f188b41ea3d115e6b",
+  "name": "Needlecast",
   "secp": "020bf48419090e769a1e0d5b534626d43495d50f498d165d9f188b41ea3d115e6b",
   "bls": "9930398e2f3726dcb7ac62a1d2ea808cdf860689952c4883034429ced29107eeaf7293df8c40a6d2c4674e78124b4517",
-  "website": "",
-  "description": "",
-  "logo": "",
-  "x": ""
+  "website": "https://envoys.io/",
+  "description": "Needlecast Validators - validators and smart contract engineers. Securing the interchain since 2021.",
+  "logo": "https://s3.amazonaws.com/keybase_processed_uploads/2a2cd28d7581adf8694975d0ec0d0705_360_360.jpg",
+  "x": "https://x.com/frey_needlecast"
 }
