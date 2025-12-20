@@ -1,0 +1,10 @@
+{
+  "id": 147,
+  "name": "Chainflow",
+  "secp": "035026c472e7f8c398e2ccd25d5289ccdf5e0c2c1fc7dd9f8c05f04133ff1fc17a",
+  "bls": "8f5e4fc1447f1b04f1766da78082dc73d1f4e614f70bfa02986fcaca8ae979ad50251f02f767e1e35da29db97dccd6eb",
+  "website": "https://chainflow.io",
+  "description": "Building crypto infrastructure for a brighter future. We are a leading, independent and values-driven operator since 2017.",
+  "logo": "https://raw.githubusercontent.com/Chainflow/chainflow-metadata/refs/heads/main/JPG/Chainflow_symbol_fullcolor.jpg",
+  "x": "https://x.com/chainflowpos"
+}

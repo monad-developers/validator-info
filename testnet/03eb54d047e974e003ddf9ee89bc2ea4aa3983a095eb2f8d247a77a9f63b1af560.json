@@ -1,0 +1,10 @@
+{
+  "id": 81,
+  "name": "Staker Space",
+  "secp": "03eb54d047e974e003ddf9ee89bc2ea4aa3983a095eb2f8d247a77a9f63b1af560",
+  "bls": "8a41bdc23f079ed21f3c22b35eb70fe9d60fc816c5afc422f17fcb7b49af3d2eaa3359bcc2966e3da724e4ae964698a6",
+  "website": "https://staker.space",
+  "description": "Where your stake stays yours, we just keep it running.",
+  "logo": "https://raw.githubusercontent.com/StakerSpace/assets/main/logo.png",
+  "x": "https://x.com/stakerspace"
+}
