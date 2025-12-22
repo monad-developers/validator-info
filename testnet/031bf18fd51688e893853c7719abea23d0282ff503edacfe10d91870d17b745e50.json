@@ -1,8 +1,8 @@
 {
   "id": 173,
   "name": "H2O Nodes",
-  "secp": "031bf18fd51688e893853c7719abea23d0282ff503edacfe10d91870d17b745e50",
-  "bls": "ad3e101b52167f05ed69b297b89f9e77acebd0595a22773471e6c7778fc244385efe8894407a2466a31f7b5f415e69cc",
+  "secp": "02299f78e17e2d17c1a5b97b6851d5f53b772320c8b29de748a0b3ad67580f3302",
+  "bls": "94677f525f0877647e092e4c9b3f4efaad82eb0a01389aa89d3e34fbcdc5b17dc2b0a4f4dbc925e1fef240bffaf23027",
   "website": "https://h2o-nodes.com/",
   "description": "High performance bare metal validators since 2022.",
   "logo": "https://framerusercontent.com/images/7Zz5Y0ZD7koVSLRvf9o9mQCcpTQ.png",
