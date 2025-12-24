@@ -1,0 +1,10 @@
+{
+  "id": 23,
+  "name": "Stakin",
+  "secp": "02307c66a5f15c108b7a97ca8d9999858427306a389589d32eeeaeed6c81d670bd",
+  "bls": "b00af1c63ce9d8ed2f5e6e64b90f23dd3c95252bdeb0c1c006588c14cbaf7ca3c762c7e452b5714711813cd4de104fba",
+  "website": "https://stakin.com",
+  "description": "Leading institutional-grade web3 infrastructure and non-custodial staking service provider. ISO27001 Certified and Audited.",
+  "logo": "https://stakin-data.s3.eu-west-2.amazonaws.com/icon/logo.svg",
+  "x": "https://x.com/StakinOfficial"
+}
