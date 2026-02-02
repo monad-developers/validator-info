@@ -5,6 +5,6 @@
   "bls": "aad614fd78d33b6c403222f92e5c3129759c8ed6a623bae10599e67e6a49f78ca2bfb1c4a9fc829d6cd0a1304a0b3bce",
   "website": "https://x.com/blocashweb",
   "description": "Blocash testnet validator",
-  "logo": "https://github.com/blocashmain/blocash-image/blob/main/blocashmain.jpeg",
+  "logo": "https://raw.githubusercontent.com/blocashmain/blocash-image/refs/heads/main/blocashmain.jpeg",
   "x": "https://x.com/blocashweb"
 }
