@@ -1,10 +1,10 @@
 {
   "id": 22,
-  "name": "03706967402d03fee6cc18b688da6ea16fb4a128310cedfc7e73f514ed31635d41",
+  "name": "Node.Monster",
   "secp": "03706967402d03fee6cc18b688da6ea16fb4a128310cedfc7e73f514ed31635d41",
   "bls": "a1d8d71c3e0c3ef666eda7da6ea25d1296d3050ea181006b7562fddcf71e300894cfd909a1862db14afbcf6324cbf34d",
-  "website": "",
-  "description": "",
-  "logo": "",
-  "x": ""
+  "website": "https://node.monster/",
+  "description": "Securing Networks With Trusted Nodes",
+  "logo": "https://cdn.prod.website-files.com/675ea9b16a5b05d66c7e98ea/67b636ea0f3e9d5c778b16dd_logo.png",
+  "x": "https://x.com/nodemonste"
 }
