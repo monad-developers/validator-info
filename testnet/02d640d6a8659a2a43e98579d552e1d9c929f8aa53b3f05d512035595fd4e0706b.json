@@ -1,0 +1,10 @@
+{
+  "id": 209,
+  "name": "Pointgroup",
+  "secp": "02d640d6a8659a2a43e98579d552e1d9c929f8aa53b3f05d512035595fd4e0706b",
+  "bls": "955925097546273a38e14b30114bd133a0b46b3a67f65a712109d57696d0e39aa6e1a8cdb4906df2e6ce182f53afea8d",
+  "website": "https://github.com/pointgroup-labs/",
+  "description": "Battle-tested validator. Fast blocks, no excuses.",
+  "logo": "https://avatars.githubusercontent.com/u/248190589",
+  "x": "https://x.com/pointgrouplabs"
+}
