@@ -1,0 +1,10 @@
+{
+  "id": 86,
+  "name": "Staking4All",
+  "secp": "0267a466f113ee4cef1160b602450bd726f9b981fa53a315c039a3a44975610fa4",
+  "bls": "8e5052ced5acd27d8cf65293286a61c8333b0f2a0304c9c7ae65d8d5a505166ee6fb8b2e1deee357b87967ad460afbb4",
+  "website": "https://www.staking4all.org/",
+  "description": "Validator for Proof of Stake blockchains. Delegate to us for a easy staking experience.",
+  "logo": "https://raw.githubusercontent.com/staking4all/eigenlayer/main/Stake4All_logo.png",
+  "x": "https://x.com/staking4all"
+}
