@@ -1,10 +1,10 @@
 {
-    "id": 208,
-    "name": "Pumpkin's Pool",
-    "secp": "03a44298eebdcdaccb5e64666e65d2d4abc8319d7387810dd59933f870bf191dbb",
-    "bls": "a29dc433566381d7d5564d9f2fdb6c1266547f43a70dc5286595aebc06e6bc8d941355ca53b993fc2ba6114bd327eff6",
-    "website": "https://pumpkinspool.com",
-    "description": "Pumpkin’s Pool runs high-performance bare metal Monad infrastructure with production-grade monitoring and fast response, and donates a portion of rewards to animal welfare.",
-    "logo": "https://raw.githubusercontent.com/bartenbach/pumpkins_pool/refs/heads/main/assets/iPhone.png",
-    "x": "https://x.com/pumpkinspool"
-  }
+  "id": 208,
+  "name": "Pumpkin's Pool",
+  "secp": "03a44298eebdcdaccb5e64666e65d2d4abc8319d7387810dd59933f870bf191dbb",
+  "bls": "a29dc433566381d7d5564d9f2fdb6c1266547f43a70dc5286595aebc06e6bc8d941355ca53b993fc2ba6114bd327eff6",
+  "website": "https://pumpkinspool.com",
+  "description": "Pumpkin’s Pool runs high-performance bare metal Monad infrastructure with production-grade monitoring and fast response, and donates a portion of rewards to animal welfare.",
+  "logo": "https://raw.githubusercontent.com/bartenbach/pumpkins_pool/refs/heads/main/assets/iPhone.png",
+  "x": "https://x.com/pumpkinspool"
+}
