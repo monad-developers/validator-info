@@ -1,0 +1,10 @@
+{
+  "id": 215,
+  "name": "Piconbello",
+  "secp": "03266344c4c34d74d884baef3c7d1bb0935d3007ecbc1fe234d8ecedabacf7a814",
+  "bls": "ac5e9c00f1aea0967447ae89fd8bcedf65c8dcf1a6170f3ce7ad4f4d72708cd0a87565c5946867668bec3a025e36b1e2",
+  "website": "https://piconbello.com/",
+  "description": "This is an example",
+  "logo": "https://github.com/piconbello/Eigenlayer-Goerli/blob/main/Logo.png",
+  "x": "https://x.com/piconbello"
+}
