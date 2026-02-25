@@ -1,0 +1,10 @@
+{
+  "id": 28,
+  "name": "Ledger by P2P.org",
+  "secp": "02e6a5d21dfc6e382703c516d296e384d8571ff487db4332f13f961ae6a28de165",
+  "bls": "94e794fe56dbdef33bfb3d7d627c695e98a470d6ccc05bdeaeb1f17114ae2b34a588e23d8f520091372ba54db7d94780",
+  "website": "https://www.ledger.com/",
+  "description": "Ledger by P2P.org",
+  "logo": "https://cdn.live.ledger.com/icons/ledger.png",
+  "x": "https://x.com/Ledger"
+}
