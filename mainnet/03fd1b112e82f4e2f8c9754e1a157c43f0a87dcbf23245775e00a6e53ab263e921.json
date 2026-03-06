@@ -1,0 +1,10 @@
+{
+  "id": 130,
+  "name": "node101",
+  "secp": "03fd1b112e82f4e2f8c9754e1a157c43f0a87dcbf23245775e00a6e53ab263e921",
+  "bls": "a1c27cf065c20e6f3a46ce5529caacc87b89731a46e330a1e730a3b09f3b3ccd8936e229e0e07e8123d64935227d8219",
+  "website": "https://node101.io",
+  "description": "We provide infrastructure services, host non-profit developer-focused events, and offer user-friendly products for you to make the most of distributed value.",
+  "logo": "https://keybase.io/indie_validators/picture",
+  "x": "https://x.com/node_101"
+}

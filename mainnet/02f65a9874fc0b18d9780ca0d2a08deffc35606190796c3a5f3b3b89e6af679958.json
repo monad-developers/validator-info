@@ -1,0 +1,10 @@
+{
+  "id": 171,
+  "name": "BitGo",
+  "secp": "02f65a9874fc0b18d9780ca0d2a08deffc35606190796c3a5f3b3b89e6af679958",
+  "bls": "a29a21b699a582727d9ea4f933489ab5e16d45355e7655a2f963581b7afc11b2d65d199f0a62323743d3348fd8c4e74c",
+  "website": "https://www.bitgo.com/",
+  "description": "Institutional staking powered by BitGo's secure infrastructure.",
+  "logo": "https://raw.githubusercontent.com/the-smooth-operator/test/refs/heads/main/Shield%20Logo%20Kockout_Blue-Light.png",
+  "x": "https://x.com/BitGo"
+}

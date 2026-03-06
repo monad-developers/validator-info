@@ -1,0 +1,10 @@
+{
+  "id": 19,
+  "name": "NodeStake",
+  "secp": "034c4ea3122f0a2f9c01ebb21d60a6f00197dc7c36ef269bee9a209705c3ea8d3d",
+  "bls": "97d581476bd206e9813f85bdc885b2c057fe9b675b20cea8fc39da12457b72a91021a8d2473f3245e5f69fd2b25bbbfb",
+  "website": "https://nodestake.org",
+  "description": "NodeStake is a professional validator and infrastructure provider, delivering secure, high-performance blockchain services for next-generation decentralized networks",
+  "logo": "https://raw.githubusercontent.com/nodestake/brand-kit/refs/heads/main/logo.png",
+  "x": "https://x.com/NodeStake_top"
+}

@@ -1,0 +1,10 @@
+{
+  "id": 89,
+  "name": "Chainlayer",
+  "secp": "02d806eddfa43d63cc47c1d73f62c353d22564e1c9ec667abe8f5f9813879ee1b4",
+  "bls": "9881406a9c0bb8bc2e9e3c60e42a375ace857e364c8ee3dcd7f332a4a6b56b8e5cc193656f901c3297f708e2e46e7d48",
+  "website": "https://chainlayer.io/",
+  "description": "Secure and reliable validator.",
+  "logo": "https://chainlayer.io/icons/icon-512x512.png",
+  "x": "https://x.com/chainlayerio"
+}

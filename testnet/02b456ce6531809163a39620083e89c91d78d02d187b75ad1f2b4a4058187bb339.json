@@ -1,0 +1,10 @@
+{
+  "id": 32,
+  "name": "lux8net",
+  "secp": "02b456ce6531809163a39620083e89c91d78d02d187b75ad1f2b4a4058187bb339",
+  "bls": "928bdec650e35f67b3beeaef84702e80f6c2b95526be7f1588a53fb9cbd2c3b45046a8c0d41f23e884bda2b15444d481",
+  "website": "https://lux8.net/",
+  "description": "High-performance validators",
+  "logo": "https://lux8.net/img/logo/star.svg",
+  "x": "https://x.com/lux8net"
+}

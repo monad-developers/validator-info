@@ -1,0 +1,10 @@
+{
+  "id": 72,
+  "name": "01node",
+  "secp": "026c43458dea52f1ad309ef1c9a0eed90f4347146e64074466775675d5942c2a82",
+  "bls": "86f8495285610d0a8be1be89d4c02e3f70abaec8e945c760a26db342b8768edb2e849f5452eb30dc76f33ff4d0d1a9e1",
+  "website": "https://01node.com",
+  "description": "Enterprise-grade blockchain validation, powered by independent infrastructure and decades of technical mastery.",
+  "logo": "https://raw.githubusercontent.com/01node/brand-kit/refs/heads/main/png/01node-black-avatar-transparent.png",
+  "x": "https://x.com/01node"
+}

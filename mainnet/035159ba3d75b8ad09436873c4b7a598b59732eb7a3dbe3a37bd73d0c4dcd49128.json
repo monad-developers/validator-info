@@ -1,0 +1,10 @@
+{
+  "id": 152,
+  "name": "stakefish",
+  "secp": "035159ba3d75b8ad09436873c4b7a598b59732eb7a3dbe3a37bd73d0c4dcd49128",
+  "bls": "a26f1383e00acdb977e6a92dbb3025352479364253ed3d7c17f195b0f18edeb5a95cadaf7db84566a26e67182ab987db",
+  "website": "https://stake.fish",
+  "description": "We are the leading staking service provider for blockchain projects. Join our community to help secure networks and earn rewards. Stake. Earn. Relax.",
+  "logo": "https://raw.githubusercontent.com/stakefish/stakefish-metadata/main/stakefish-logo.png",
+  "x": "https://x.com/stakefish"
+}

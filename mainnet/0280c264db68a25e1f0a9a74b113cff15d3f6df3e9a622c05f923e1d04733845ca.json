@@ -1,0 +1,10 @@
+{
+  "id": 93,
+  "name": "Quicknode",
+  "secp": "0280c264db68a25e1f0a9a74b113cff15d3f6df3e9a622c05f923e1d04733845ca",
+  "bls": "b50d9aa373adc9c400ffa62ec1707d139cb07f80340ddde9f6e192583f3217a1f3db57a934ec4f708760f021f2da89e7",
+  "website": "https://quicknode.com",
+  "description": "🚀 Accelerating Web3 with lightning-fast Monad infrastructure ⚡️ 🔐 SOC 1 Type 2, SOC 2 Type 2, ISO 27001 Certified.",
+  "logo": "https://www.quicknode.com/staked-validator-logo.png",
+  "x": "https://x.com/quicknode"
+}

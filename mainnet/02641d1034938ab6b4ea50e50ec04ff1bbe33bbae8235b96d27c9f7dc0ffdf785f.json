@@ -1,0 +1,10 @@
+{
+  "id": 44,
+  "name": "BlackBlocks",
+  "secp": "02641d1034938ab6b4ea50e50ec04ff1bbe33bbae8235b96d27c9f7dc0ffdf785f",
+  "bls": "8b24516fc3a8fa684ed112e5acdc8b89702cca5daea451c356d100585c610d3c83ab9e99cdb9ca7533d21bdbcc0b9209",
+  "website": "https://blackblocks.io",
+  "description": "Reliable, high-performance validator for Monad’s parallel EVM. We run secure & optimized nodes to support 10k+ TPS.",
+  "logo": "https://wiki.blackblocks.io/public/logo.svg",
+  "x": "https://x.com/BlackBlocks_io"
+}

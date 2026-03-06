@@ -1,0 +1,10 @@
+{
+  "id": 67,
+  "name": "Cassini",
+  "secp": "0268d8a8ae2a40524ff912b31adabe3fb5d8ef00660ca55fd1839063812364aa38",
+  "bls": "96f09723adb37d4f7a273d9229a8b28794c48d38fd257e36024fcb93751ec564d0e480d20eaaf5f058adb36475b9d630",
+  "website": "https://x.com/Cassini0x",
+  "description": "Monad community validator for mainnet.",
+  "logo": "https://raw.githubusercontent.com/ccassini/tesnet-2/main/cassini-logo.png",
+  "x": "https://x.com/Cassini0x"
+}

@@ -1,0 +1,10 @@
+{
+  "id": 103,
+  "name": "Validatus",
+  "secp": "024f7b6efff634056a9b492ee8fd9c1abcca39747bed66f473f3255cc29502cd1d",
+  "bls": "9519419df384c3c5ffa3ebbeeccbae66021b74ad08df53498d46991acd858a36d1aec1399dd516d7c8b889686e44c178",
+  "website": "https://validatus.com/",
+  "description": "Validatus - verifying blockchain entries on purely Enterprise Linux based systems with regular security audits. Stay safe. Stake with us.",
+  "logo": "https://res.cloudinary.com/djhalnnus/image/upload/v1724758514/Validatus-CI/avatar.png",
+  "x": "https://x.com/stakeingermany"
+}

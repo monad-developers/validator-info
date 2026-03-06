@@ -1,0 +1,10 @@
+{
+  "id": 20,
+  "name": "1XP",
+  "secp": "03c99928972a0dc0254d746f47d943b2961bee90b3d241d08e61c105e748330f1d",
+  "bls": "9249cc1f4d6e6c631da07dcda80ee526136400bc236ae7a82313b4882e690582e45ac3fb2217e005963c4143a2e5fab1",
+  "website": "https://1xp.com/",
+  "description": "1XP secures the future of economic autonomy. With top-tier infrastructure and deep governance expertise, we power networks that enable true decentralization. Stake with experience. Stake with 1XP.",
+  "logo": "https://raw.githubusercontent.com/1XP-Inc/brand-kit/refs/heads/main/brandkit/logo/svg/1xp_logo_symbol_transparent.svg",
+  "x": "https://x.com/1XP_Inc"
+}

@@ -1,0 +1,10 @@
+{
+  "id": 11,
+  "name": "Everstake",
+  "secp": "0252839b8f81c42f852e4fd6eec4fb94ff4215b554cc42b423c37bc6bd54b93c1e",
+  "bls": "96055549e56fb93d1e7a6e97d228118ace491ffe46993027c8d05282f355b3c658c4ccfeb67c9a450f3e79179189901e",
+  "website": "https://everstake.one/",
+  "description": "Everstake is one of the world's biggest validators, servicing 735,000+ users across 70+ blockchains",
+  "logo": "https://everstake.one/logo.png",
+  "x": "https://twitter.com/everstake_pool"
+}

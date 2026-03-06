@@ -1,0 +1,10 @@
+{
+  "id": 61,
+  "name": "Synergy Nodes",
+  "secp": "036aac39879e73db1591591b578705198b6053af692a26d1fbeefe44a2489694ab",
+  "bls": "8d400a2694b6ffdbec6b431990e8788c35965a278d28b0bc33c200634a4dc7be8abff1c936b7b612df8bac24d52c6641",
+  "website": "https://www.synergynodes.com",
+  "description": "We are operating a secure, stable Validator Node for many mainnet chains. We provide infrastructure support - public RPC, LCD endpoints, daily snapshots, operate multiple IBC Relayers, Blockchain Explorers, Youtube tutorials, etc.",
+  "logo": "https://raw.githubusercontent.com/SynergyNodes/SynergyNodes_Logo/refs/heads/main/Synergy_Nodes_Logo.png",
+  "x": "https://x.com/SynergyNodes"
+}

@@ -1,0 +1,10 @@
+{
+  "id": 147,
+  "name": "AltLayer",
+  "secp": "039d2f476040d601e39bf2bb1e668fa02b592a0e360e6f703e3a35991a63db33e8",
+  "bls": "831931b58fb9da249aa9cb6d32e52f9b07fb863fd547ee77fc879680142340b004f4b1111d2f0e22db50ddd74e826d79",
+  "website": "https://altlayer.io/",
+  "description": "AltLayer is a decentralized protocol for rollups, providing Restaked Rollups with enhanced security, decentralization, and interoperability.",
+  "logo": "https://files.altlayer.io/AltLayer-brand-kit/Token%20Icon/PNG/Token%20Icon_Purple_02.png",
+  "x": "https://x.com/alt_layer"
+}

@@ -1,0 +1,10 @@
+{
+  "id": 141,
+  "name": "AltLayer",
+  "secp": "03abedbddd88c175378c8e612fab1318c158b65ca1b41fb7bbdf7b1281201e0aa7",
+  "bls": "a2f6e87f8d4666d8a024e2e91e04602d3e77fd6675fa00533e9c215b26e0cdd3671847f7bc048775a57b3d556637da5b",
+  "website": "https://altlayer.io/",
+  "description": "AltLayer is a Rollups-as-a-Service (RaaS) provider operating 20+ rollups and validator infrastructure across multiple networks.",
+  "logo": "https://files.altlayer.io/AltLayer-brand-kit/Token%20Icon/PNG/Token%20Icon_Purple_02.png",
+  "x": "https://x.com/alt_layer"
+}

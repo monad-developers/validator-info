@@ -1,0 +1,10 @@
+{
+  "id": 17,
+  "name": "Cosmostation",
+  "secp": "03dd68922e5a4b8da8f999d76c104647ae29a04289d3c1cc85db201e103998cc3e",
+  "bls": "ab0f630b23806d5ad8d96cf7b4839b7f81db5c77286f42b4ea823a140fc819ce5141301ad42fe0d53335ad950879aa2f",
+  "website": "https://cosmostation.io/",
+  "description": "Cosmostation is an institutional-grade cryptocurrency infrastructure provider, managing billions of dollars across 70 protocols. Since 2018, we have served more than 500k users globally, providing products that enable protocols to scale.",
+  "logo": "https://raw.githubusercontent.com/cosmostation/chainlist/4deea8224437cdff96dc588d1671bd63b3cff1f3/resource/cosmostation/cosmostation_black_bg(256x256).png",
+  "x": "https://x.com/cosmostationvd"
+}

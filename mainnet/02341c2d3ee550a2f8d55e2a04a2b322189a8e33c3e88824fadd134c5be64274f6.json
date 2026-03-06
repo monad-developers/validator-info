@@ -1,0 +1,10 @@
+{
+  "id": 122,
+  "name": "BlockHunters 🎯",
+  "secp": "02341c2d3ee550a2f8d55e2a04a2b322189a8e33c3e88824fadd134c5be64274f6",
+  "bls": "ad74df5ed7c2dd89e3c63a03ee84afc320a53f4b073987ea8b8043542e2b5e970ad434dcf910b90a019cd71a4fe420c9",
+  "website": "https://blockhunters.org/",
+  "description": "Bare-metal blockchain infrastructure since 2020. Validators, nodes & stories powering Web3.Hunt for the best stake.",
+  "logo": "https://raw.githubusercontent.com/blockhunters-org/operator/refs/heads/main/logo.png",
+  "x": "https://x.com/blockhuntersOrg"
+}

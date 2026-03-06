@@ -1,0 +1,10 @@
+{
+  "id": 6,
+  "name": "ProStaking",
+  "secp": "03f032be493752229481ab235b40d0351e384aeb170d93898f7713b7121460a045",
+  "bls": "915b8282adc0acd6dfb27203670dbfbcf12579e228d8891b46bc1fba673f6b712ef6b865737d89f99fcc1c44b728e7dd",
+  "website": "https://prostaking.com/",
+  "description": "Pro Staking for Pro Stakers on the Monad blockchain",
+  "logo": "https://bafybeigaa3mbr4qe4hgc55e6srfliawtzdebrs3lrieas63dfc4vdyhiii.ipfs.w3s.link/ProStaking-CircleMark-360px.png",
+  "x": "https://x.com/ProStaking_"
+}

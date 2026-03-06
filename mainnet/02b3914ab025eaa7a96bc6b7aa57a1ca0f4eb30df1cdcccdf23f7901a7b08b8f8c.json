@@ -1,0 +1,10 @@
+{
+  "id": 123,
+  "name": "P2P.org 💙",
+  "secp": "02b3914ab025eaa7a96bc6b7aa57a1ca0f4eb30df1cdcccdf23f7901a7b08b8f8c",
+  "bls": "8ac08f925c521b0d4c85bf27d6513278ccc4f2f63aa721a4cb2490462f7abacd980bd132f535f5e0cfae0658cb92f2bc",
+  "website": "http://p2p.org/",
+  "description": "P2P.org",
+  "logo": "https://cdn.p2p.org/p2p360_logo.png",
+  "x": "https://x.com/P2Pvalidator"
+}

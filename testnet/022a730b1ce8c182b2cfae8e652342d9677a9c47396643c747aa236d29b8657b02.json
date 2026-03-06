@@ -1,0 +1,10 @@
+{
+  "id": 31,
+  "name": "StakingCabin",
+  "secp": "022a730b1ce8c182b2cfae8e652342d9677a9c47396643c747aa236d29b8657b02",
+  "bls": "88488ff7786cb869d08da8e6a3417d84b52e7a5843d4de30a477e44d561c228612ff725a29736bead1767be413e90e50",
+  "website": "https://www.stakingcabin.com",
+  "description": "StakingCabin offer enterprise-level, highly secure infrastructure services for public blockchain protocols.",
+  "logo": "https://cdn.jsdelivr.net/gh/stakingcabin/stakingcabin@main/assets/logo512.png",
+  "x": "https://x.com/StakingCabin"
+}

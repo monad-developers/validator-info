@@ -1,0 +1,10 @@
+{
+  "id": 68,
+  "name": "cp0x_by_STAKRspace",
+  "secp": "02906dff6c77bfbfa7fc7cb84fbe5fe0e23bb80c5289de1d2ab0c85e24473c4bbb",
+  "bls": "82500f92b33d75c2616378c83b966c4a1824e6dfcad0e11245952b3be183b65cc95e032b2aa21c4c8e26f8644e10e7c2",
+  "website": "https://cp0x.com/",
+  "description": "https://stakr.space",
+  "logo": "https://raw.githubusercontent.com/cp0x/Eigenlayer-Operator/main/cp0x-logo-stakr.png",
+  "x": "https://x.com/cp0xdotcom"
+}

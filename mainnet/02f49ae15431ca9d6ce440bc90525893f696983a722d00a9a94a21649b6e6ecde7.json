@@ -1,0 +1,10 @@
+{
+  "id": 158,
+  "name": "Zellic",
+  "secp": "02f49ae15431ca9d6ce440bc90525893f696983a722d00a9a94a21649b6e6ecde7",
+  "bls": "8f08bda2d4060302f24a45451982f9945df35f382c6fed271143b8fb849d72db169a890f9b63135fd8cb434233fac0c5",
+  "website": "https://zellic.io/",
+  "description": "The go-to blockchain security firm for top teams, specializing in Cosmos, EVM, ZK, Move (Aptos and Sui). We solve your hardest security problems.\nTelegram: t.me/zellic_io",
+  "logo": "https://assets.zellic.io/pfp.jpg",
+  "x": "https://x.com/zellic_io"
+}

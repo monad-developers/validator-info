@@ -1,0 +1,10 @@
+{
+  "id": 41,
+  "name": "ITRocket",
+  "secp": "0212c604e7819769ac911dc34770760f6aba45934d1af6249c6827e79f0edb27a1",
+  "bls": "82aacd6387d707a848b1abde3becf0eafe100833607ccc890595a9ef7ece2032d50580ce95392729698137b845a01572",
+  "website": "https://itrocket.net/",
+  "description": "Enterprise-level infrastructure and state-of-art tools for node operators, developers and analysts.",
+  "logo": "https://server-4.itrocket.net/logo/itrocket_logo.png",
+  "x": "https://x.com/itrocket_team"
+}

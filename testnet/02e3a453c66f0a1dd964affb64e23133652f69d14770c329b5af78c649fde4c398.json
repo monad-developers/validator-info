@@ -1,0 +1,10 @@
+{
+  "id": 40,
+  "name": "Huginn",
+  "secp": "02e3a453c66f0a1dd964affb64e23133652f69d14770c329b5af78c649fde4c398",
+  "bls": "a292cf32353d246199def75d3c4d8a24119eec63a3d0064f7bd42c35eb8c7b0dfedaffcfd964d13475100fe24269affd",
+  "website": "https://huginn.tech",
+  "description": "Huginn is a trusted infrastructure provider and active validator across multiple modular and app-specific chains. We focus on reliability, deep ecosystem research, and long-term alignment with the communities we support.",
+  "logo": "https://huginn.tech/assets/logos/huginn-logo.png",
+  "x": "https://x.com/HuginnStake"
+}

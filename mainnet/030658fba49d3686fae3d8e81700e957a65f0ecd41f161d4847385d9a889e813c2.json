@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "name": "Monad Foundation - mf-mainnet-val-lsn-jfk-011",
+  "secp": "030658fba49d3686fae3d8e81700e957a65f0ecd41f161d4847385d9a889e813c2",
+  "bls": "b4b57db2389dc325dd4238e8d80a92b5085c4b9b13eba372b66a977c457be96cde0e9839e23be61dd9718b1ba8d12f46",
+  "website": "https://www.monad.foundation/",
+  "description": "Monad Foundation",
+  "logo": "https://bucket.monadinfra.com/monad.png",
+  "x": "https://x.com/monad_xyz"
+}

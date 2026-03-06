@@ -1,0 +1,10 @@
+{
+  "id": 65,
+  "name": "OriginStake",
+  "secp": "02edec54216d835d3634e6220b83d02d337f16142f3caec99c797282ee0858cdee",
+  "bls": "92b97c98ea8def63435f834eadcd8e7012579905d108bf39f09ca8e03ec5399b097f6c2a62ecca7ae06a41dd0cc9ed61",
+  "website": "https://originstake.com",
+  "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator, ensuring secure staking on Monad. With extensive blockchain experience and uptime commitment, we deliver reliable performance for decentralized ecosystems.",
+  "logo": "https://assets.r2.originstake.com/ogs-media/Logo/PNG/OriginStake_Logo_1.png",
+  "x": "https://x.com/originstake"
+}

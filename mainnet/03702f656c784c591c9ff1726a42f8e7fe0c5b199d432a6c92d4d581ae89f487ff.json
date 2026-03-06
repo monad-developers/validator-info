@@ -1,0 +1,10 @@
+{
+  "id": 169,
+  "name": "Gemini",
+  "secp": "03702f656c784c591c9ff1726a42f8e7fe0c5b199d432a6c92d4d581ae89f487ff",
+  "bls": "a11315785b05f5faba58803c243342a75035304ae94e49c9dd468cc0d84611c52997d96b646b9f1cadc9d5f92ace3447",
+  "website": "https://gemini.com/staking",
+  "description": "Gemini provides secure, compliant, and resilient validator infrastructure - trusted by institutions and individuals to keep their assets safe and earning rewards.",
+  "logo": "https://www.gemini.com/static/images/gemini-orange@360x360.png",
+  "x": "https://x.com/Gemini"
+}

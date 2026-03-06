@@ -1,0 +1,10 @@
+{
+  "id": 55,
+  "name": "Stardust Staking",
+  "secp": "0239fe92a4aae84b0a4acc155d16de66f4b1c285057982a290964634f2db992418",
+  "bls": "b7ea04a7fd79259574efcec685218a5f350807a895429d8c07b082a51269a2846256a05391a0fd812fe9402551b36664",
+  "website": "https://starduststaking.com",
+  "description": "A secure, low-fee, and trusted non-custodial provider for PoS protocols, operating validator nodes to support diverse blockchain networks with reliability and transparency",
+  "logo": "https://starduststaking.com/stardust_logo-4.png",
+  "x": "https://x.com/StardustStaking"
+}

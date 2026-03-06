@@ -1,0 +1,10 @@
+{
+  "id": 148,
+  "name": "Finoa Consensus Services",
+  "secp": "03c5dad0bb02231acec5c148d92a1e547099533b68d8b9be9b53cf24e461c83f45",
+  "bls": "89d02ea210438b59d91b6398435a7e6f04ccdea53680c715187d72da3d9e89a12ebf87f92b5dd7777c41bdefdf617e6b",
+  "website": "https://finoa-fcs.io/products-delegated-staking/",
+  "description": "Stake and grow your assets using Finoa Consensus Services's institutional-grade infrastructure.",
+  "logo": "https://raw.githubusercontent.com/Finoa-Consensus-Services/eigenlayer/main/logo.png",
+  "x": "https://x.com/FinoaConsensus"
+}
