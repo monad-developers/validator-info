@@ -1,8 +1,8 @@
 {
   "id": 178,
   "name": "SpeedyNodes",
-  "secp": "025bec072e3c5f93a83fcbd1d6e29a4af137df5342409b80af2306d6f9bf1c8b50",
-  "bls": "b7a7c0a776d801d4dadbe12c0aef5f4da5403b4ad20c3ecffe967fe1c47eaf838c3975aa604014108835e220b1863b78",
+  "secp": "022175566e3fe43eec707531404178af862882aa1b35042bf250b04748ac4372e2",
+  "bls": "848a74dc68a4cac267eba84b740766453eaad7971b0d37971558d3d0ca36765307b51120ac72a295f22967a5a2e4ae34",
   "website": "https://speedynodes.com",
   "description": "High-performance Monad validator run by SpeedyNodes.",
   "logo": "https://www.speedynodes.com/images/logo.png",
