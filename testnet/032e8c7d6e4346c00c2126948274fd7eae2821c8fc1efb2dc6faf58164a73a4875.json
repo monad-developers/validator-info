@@ -1,0 +1,10 @@
+{
+  "id": 241,
+  "name": "StakeUp",
+  "secp": "032e8c7d6e4346c00c2126948274fd7eae2821c8fc1efb2dc6faf58164a73a4875",
+  "bls": "94968999e58f32e7546868ff0d57094011564d25683c0d9b84721c7dec7729665eeb573fd9e3ecf6646ca18ec0b2a8bc",
+  "website": "https://stakeup.tech/",
+  "description": "Non-custodial staking provider. High service, good support.",
+  "logo": "https://stakeup.tech/assets/images/logo.png",
+  "x": "https://x.com/stakeup_tech"
+}
