@@ -1,0 +1,10 @@
+{
+  "id": 245,
+  "name": "kgnodes",
+  "secp": "039b55dfe39fa85fd57e0808c95d98f64fdf05c538651767d6d0d19e48119e884e",
+  "bls": "ae5f5a944f174972e85606df58702c8bb178aedf70564afbe5f8c7e9ccc16b8e36d16a05a035f639c51ef657551ebddd",
+  "website": "https://kgnodes.xyz/",
+  "description": "Providing secure, high-availability infrastructure and validator services for decentralized networks.",
+  "logo": "https://raw.githubusercontent.com/kgnodes-val/kgnodes/main/logo.jpg",
+  "x": "https://x.com/kgnodes"
+}
