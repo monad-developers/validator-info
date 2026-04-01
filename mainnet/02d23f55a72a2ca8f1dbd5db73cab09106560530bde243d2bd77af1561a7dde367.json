@@ -1,8 +1,8 @@
 {
-  "id": 192,
+  "id": 191,
   "name": "BitCtrl",
-  "secp": "03c295a6bf80974717b76bd770e786d63075fa589f9c5b1615ab84fc43b0f736e8",
-  "bls": "89939b0089b96e540adcd9ec9ac2f7827b0a44b7a846db5760f4db8abee01203a12e8bd6f0d8d383f75e1fb169e942e8",
+  "secp": "02d23f55a72a2ca8f1dbd5db73cab09106560530bde243d2bd77af1561a7dde367",
+  "bls": "80a741269204080708ecdf4ba32c7c2ff347a53864eea26527e34dc8a58764418500d2c858d0ec9d31be60de3deaac38",
   "website": "https://www.bitctrl.io/",
   "description": "Reliable PoS network operations. Secure validator infrastructure. Autonomous AI agent deployments. Intelligent automation.",
   "logo": "https://raw.githubusercontent.com/infobitctrl/Brand/main/BitCtrl_logo.png",
