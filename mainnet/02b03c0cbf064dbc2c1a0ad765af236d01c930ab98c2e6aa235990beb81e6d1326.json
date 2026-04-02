@@ -1,8 +1,8 @@
 {
-  "id": 173,
+  "id": 201,
   "name": "Nodeify",
-  "secp": "02f2c116c9cf825ea7e69fd347714ec65fdaeeeaa88626d2004990f8692006bcbd",
-  "bls": "b6ca1f2eb2db8cf26f2b347f2b6f0e17ca9270222e41d00e57a72d2e8372cb609fd76dc87fea16bfa7d95a168a54d171",
+  "secp": "02b03c0cbf064dbc2c1a0ad765af236d01c930ab98c2e6aa235990beb81e6d1326",
+  "bls": "b24d2ceb9ada0ac757c9e9e243e3f52ea16912c36ee8d9c48f60c3114049ed6d66a4936bb98f1a4cc24d24dddef87c05",
   "website": "https://nodeify.net",
   "description": "Strengthening Networks, Securing Futures",
   "logo": "https://ipfs.filebase.io/ipfs/QmWs2W7dpw6AQpywNJbLgAKeG5KQWFnHocGQLLNKUEnBYL",
