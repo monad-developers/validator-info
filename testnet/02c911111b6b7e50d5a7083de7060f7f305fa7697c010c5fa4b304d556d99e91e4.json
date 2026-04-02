@@ -3,8 +3,8 @@
   "name": "02c911111b6b7e50d5a7083de7060f7f305fa7697c010c5fa4b304d556d99e91e4",
   "secp": "02c911111b6b7e50d5a7083de7060f7f305fa7697c010c5fa4b304d556d99e91e4",
   "bls": "90bf7e7bf6173096936e6ee86c19b90a4002e0ccdcc31af8d0d70dfbafecd06b0a9bf19ab1569da7f4b3a619794c953d",
-  "website": "",
-  "description": "",
-  "logo": "",
-  "x": ""
+  "website": "https://li.fi/",
+  "description": "All Onchain Liquidity in one API",
+  "logo": "https://li.fi/favicon.svg",
+  "x": "https://x.com/lifiprotocol"
 }

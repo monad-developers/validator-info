@@ -1,0 +1,10 @@
+{
+  "id": 235,
+  "name": "Crypto-Volk",
+  "secp": "03063a588a9b68021c4204eab0fa2d33df9cdf583df6dd537e80d35e1fe16dccc7",
+  "bls": "ada36d7c460ea12bd9cb32d62ffc69ba9de6dea9a09826fd60b98f4a96bafa8f7bf93a00020f7b1958c4f36a7e745573",
+  "website": "https://t.me/crypto_volk_validator",
+  "description": "Monad testnet validator run by Crypto-Volk",
+  "logo": "https://raw.githubusercontent.com/crypto-volk/public/refs/heads/main/logo.jpeg",
+  "x": "https://x.com/kirivolodin"
+}
