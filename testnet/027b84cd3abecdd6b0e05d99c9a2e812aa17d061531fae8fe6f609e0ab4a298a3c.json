@@ -1,0 +1,10 @@
+{
+  "id": 229,
+  "name": "piki-nodes",
+  "secp": "027b84cd3abecdd6b0e05d99c9a2e812aa17d061531fae8fe6f609e0ab4a298a3c",
+  "bls": "b86f460d2e50c2c5a33bab7727202aed2354817ed32763a75cf78c57fe587ffeaf9d82c1c2da098b6481b276e4a8c97d",
+  "website": "https://piki-nodes.com",
+  "description": "piki-nodes Monad testnet validator. The Home for Node Operators Streamlined Infra Guides & Network Insights. Setup Guides",
+  "logo": "https://raw.githubusercontent.com/zaki9501/piki-nodes-assets/refs/heads/main/piki-nodes%20(1).png",
+  "x": "https://x.com/Piki_eth"
+}

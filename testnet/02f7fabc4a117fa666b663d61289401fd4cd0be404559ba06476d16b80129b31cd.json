@@ -1,0 +1,10 @@
+{
+  "id": 216,
+  "name": "2xStake",
+  "secp": "02f7fabc4a117fa666b663d61289401fd4cd0be404559ba06476d16b80129b31cd",
+  "bls": "954611a246322e3dbea2c73a9519cb986d4f06bdbdc4c1f45fc7e2b3a78e48d20491e7e3a7720c6a176c406702212782",
+  "website": "https://2xStake.com/",
+  "description": "Node operator",
+  "logo": "https://raw.githubusercontent.com/kuatcapital/SSV-Based-Applications/refs/heads/main/logo.png",
+  "x": "https://x.com/2xStake"
+}

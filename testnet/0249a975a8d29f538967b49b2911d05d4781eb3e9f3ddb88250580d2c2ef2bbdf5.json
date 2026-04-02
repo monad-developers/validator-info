@@ -1,0 +1,10 @@
+{
+  "id": 237,
+  "name": "Nova Consortium",
+  "secp": "0249a975a8d29f538967b49b2911d05d4781eb3e9f3ddb88250580d2c2ef2bbdf5",
+  "bls": "97947cb91065ffe66a229ce01a89dbf7c31fecdf674a7664f42131f78cf4eef42a7ab5ebe27cddf6f39332ea020028fd",
+  "website": "https://novaconsortium.org/",
+  "description": "Nova Consortium is a research-driven organization building open-source tools for blockchain infrastructure, validator operations, and decentralized finance.",
+  "logo": "https://i.ibb.co/Pz6JWpwb/image.png",
+  "x": "https://x.com/NovaConsortium"
+}
