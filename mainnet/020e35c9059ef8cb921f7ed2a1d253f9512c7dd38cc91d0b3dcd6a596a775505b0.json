@@ -1,0 +1,10 @@
+{
+  "id": 203,
+  "name": "Blocash",
+  "secp": "020e35c9059ef8cb921f7ed2a1d253f9512c7dd38cc91d0b3dcd6a596a775505b0",
+  "bls": "a975755d059635027dcf5ca3b2a207d59864d4618617d7f7c725fd9af95718a0040cd984397bebaadc3ce20c042f186a",
+  "website": "https://x.com/blocashweb",
+  "description": "Blocash mainnet validator",
+  "logo": "https://github.com/blocashmain/blocash-image/blob/main/blocashmain.jpeg",
+  "x": "https://x.com/blocashweb"
+}
