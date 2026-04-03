@@ -106,8 +106,11 @@ def check_filename(network, filename):
         return False, output
 
     validator_id = data.get("id")
-    if validator_id is None:
-        output.append("❌ Missing 'id' field")
+    if "id" not in data or data["id"] is None:
+        if "id" not in data:
+            output.append("❌ Missing 'id' field")
+        else:
+            output.append("❌ 'id' field must not be null")
         return False, output
     
     secp_local = data.get("secp")
