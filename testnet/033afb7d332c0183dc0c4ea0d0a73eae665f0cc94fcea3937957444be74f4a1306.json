@@ -1,0 +1,10 @@
+{
+  "id": 250,
+  "name": "Hightower",
+  "secp": "033afb7d332c0183dc0c4ea0d0a73eae665f0cc94fcea3937957444be74f4a1306",
+  "bls": "a1c9ef4d1d3a1c997a829f95232a68e658b509609a8094f0594320bf3911e3738e50e3722f031f15752eef45e0fe992d",
+  "website": "https://htw.tech/",
+  "description": "A venture infrastructure platform driving the continuous cycle of technological evolution",
+  "logo": "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/git_charts/main_logo.png",
+  "x": "https://x.com/htwtech_"
+}
