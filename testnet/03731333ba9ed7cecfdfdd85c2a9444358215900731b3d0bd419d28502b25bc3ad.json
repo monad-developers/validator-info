@@ -1,0 +1,10 @@
+{
+  "id": 227,
+  "name": "Wave",
+  "secp": "03731333ba9ed7cecfdfdd85c2a9444358215900731b3d0bd419d28502b25bc3ad",
+  "bls": "a7c76e424c5be82d60117cb7db730db8faf66a406ec0e208e853b7d1550040163d78443a36c1caec659b320d3b7c458c",
+  "website": "https://www.0xwave.com/",
+  "description": "Multi-chain validator infrastructure operator.",
+  "logo": "https://raw.githubusercontent.com/ABEF/icone/refs/heads/main/wave.png",
+  "x": "https://x.com/WaveIBC"
+}
