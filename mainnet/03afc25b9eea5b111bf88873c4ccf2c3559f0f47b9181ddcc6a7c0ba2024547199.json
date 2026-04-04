@@ -1,0 +1,10 @@
+{
+  "id": 209,
+  "name": "GlobalStake",
+  "secp": "03afc25b9eea5b111bf88873c4ccf2c3559f0f47b9181ddcc6a7c0ba2024547199",
+  "bls": "89d80b9babb3f55dfe4e58da1d076244791a076de81639349000673a0f96af6ebeba29716548abdda47270618a660f6f",
+  "website": "https://globalstake.io/",
+  "description": "GlobalStake's next-generation institutional staking offers SOC-2 security, bare-metal infrastructure, and carbon-negative performance. Our independent data centers enhance risk management and optimize service delivery, driving results for clients worldwide.",
+  "logo": "https://raw.githubusercontent.com/Global-Stake/brand-assets/0fd5d84ee0bca02c3e34b92cddb0a55702144973/GlobalStake-globe-white.png",
+  "x": "https://x.com/globalstake"
+}
