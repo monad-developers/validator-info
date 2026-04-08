@@ -1,8 +1,8 @@
 {
-  "id": 201,
+  "id": 213,
   "name": "AiNodes",
-  "secp": "02ffb328e34b4314f1912e118355665a206489b8a0305c914ca7d0bd72fd6f7e70",
-  "bls": "b103bae10d4365aee19cc1966019c9d8203e3801567aff5950fcebea195af3ba70e6bc99de3989e68e3406ae68c429b8",
+  "secp": "03ac5ef9c731c31d800cc906c18ab7a50ffb9735b583c3b4c2a29e50967a083349",
+  "bls": "93bbeadb6a02f0a3c1cf74c43036e8b557a810a820717e673cbd9fa9878def4633965984522c60624c4b1213f990360f",
   "website": "https://ainodes.tech",
   "description": "Powering the blockchain with expert node management and staking solutions. Nodes you can trust, staking you can grow with.",
   "logo": "https://raw.githubusercontent.com/AiNodes-Tech/brand-kit/refs/heads/main/logos/ainodes-logo.png",
