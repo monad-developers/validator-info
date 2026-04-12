@@ -1,0 +1,10 @@
+{
+  "id": 233,
+  "name": "Nomis",
+  "secp": "03e3b16b80a4f5180fb89428176b69fd938a78e244d3f8804c8cfd9c7279a5cbb3",
+  "bls": "8e38c0b48b5c088ed00ca8ab4395842fa06e4a0ea575580b842a883d2dbaeab8647fa77bf48696add2d18a07a66982de",
+  "website": "https://nomis.cc",
+  "description": "Home of onchain reputation",
+  "logo": "https://cdn.nomis.cc/img/logo-icon-square-gradient.png",
+  "x": "https://x.com/0xNomis"
+}
