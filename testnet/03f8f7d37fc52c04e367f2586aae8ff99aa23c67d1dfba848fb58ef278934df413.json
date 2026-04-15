@@ -1,0 +1,10 @@
+{
+  "id": 264,
+  "name": "StingRay",
+  "secp": "03f8f7d37fc52c04e367f2586aae8ff99aa23c67d1dfba848fb58ef278934df413",
+  "bls": "a47bdfa2080622603ba9e7b6040abbe5fe59f6b645db946c54e40c444a9ab0215cef09a65b8ab1fc8fdc97b7898c9b8a",
+  "website": "https://github.com/MikhailRadusha",
+  "description": "Reliable Proof-of-Stake Validator",
+  "logo": "https://raw.githubusercontent.com/MikhailRadusha/MikhailRadusha/9769cefe2f2a431bad20a1e62c3a47f1f7129fb4/logo/logo.png",
+  "x": "https://x.com/Mikhail00847153"
+}
