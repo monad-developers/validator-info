@@ -1,0 +1,10 @@
+{
+  "id": 267,
+  "name": "shadowoftime",
+  "secp": "029337dc788d1dd262280524a47cefa68b7ea5651016279b54cc20305a2e1aa7b6",
+  "bls": "86902ce27a2bf311007e3b625243c37d52dc4a06ca96a394781408b043fea8a108ffd5167602f9c13e2e2fb27a7b7e21",
+  "website": "https://shadowoftime1.github.io",
+  "description": "Independent validator with 7+ years blockchain ops experience. Running Monad testnet on bare metal; maintainer of MonadPulse analytics (monadpulse.xyz). Vanilla client, proactive upgrades.",
+  "logo": "https://shadowoftime1.github.io/favicon.svg",
+  "x": "https://x.com/RomanKarpenk"
+}
