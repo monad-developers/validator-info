@@ -3,7 +3,7 @@
   "name": "FP Validated",
   "secp": "03b8aea4bde62774f18b0d80de4ce03bcfa55de6e4fc310b0803a0bb7eaffbb562",
   "bls": "a7c6c92a3e958cca24b6b25962e8fbff90556c3763c8823a46ac8a42053f554f7a5be5db846546e112b58b1cbf5b5833",
-  "website": "https://4pillars.io/en/fp-validated",
+  "website": "https://validated.4pillars.io",
   "description": "FP Validated is the validator arm of Four Pillars, an independent institutional research house based in Korea. Over the past three years, Four Pillars has published more than 500 multilingual research pieces in collaboration with 100+ partners and hosted 20+ institutional seminars for government agencies, policymakers, banks, and fintech companies, establishing itself as one of Asia's leading research firms. The FP Validated team brings together professional node operators and governance specialists with 3–6+ years of experience, alongside some of Asia's top protocol specialists. We contribute to the networks we support not only through reliable node operations, but also through active governance participation, research-driven insights, and ecosystem engagement. Leveraging this depth and our extensive enterprise and institutional relationships, we are rapidly building trusted, institutional-grade staking infrastructure across Asia.",
   "logo": "https://raw.githubusercontent.com/brian-fp/fp-validated/main/fp-validated-symbol.png",
   "x": "https://x.com/FPvalidated"
