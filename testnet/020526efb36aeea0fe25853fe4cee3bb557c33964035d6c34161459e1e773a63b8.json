@@ -1,0 +1,10 @@
+{
+  "id": 271,
+  "name": "StakePool",
+  "secp": "020526efb36aeea0fe25853fe4cee3bb557c33964035d6c34161459e1e773a63b8",
+  "bls": "aaa133f07eddc05db372fe2dc64db9441be935a1462bc574ecc1202a3600a82c4a62f7e1e484237e1378975fbdd1adac",
+  "website": "https://stakepool.dev.br/",
+  "description": "StakePool is a public blockchain infrastructure operator headquartered in Brazil. It offers non-custodial delegation services with high levels of reliability and availability.",
+  "logo": "https://raw.githubusercontent.com/Michel-Leidson/logos/main/logo.png",
+  "x": "https://x.com/StakePooll"
+}

@@ -1,0 +1,10 @@
+{
+  "id": 205,
+  "name": "medium",
+  "secp": "02654192b8489bea7aea77153fc12acf2729f892f674ae12c4a681117c69f9a0f6",
+  "bls": "a24e3c52b2db67c5a20838edbaa1858a15ea4c97fda4e85d39ef1d3e859436c6961b5654d90f2bf50637b66b7577b21a",
+  "website": "https://medium-validator.com/",
+  "description": "Individual staking services",
+  "logo": "https://medium-validator.com/logo.png",
+  "x": "http://x.com/mediumwe111"
+}

@@ -1,0 +1,10 @@
+{
+  "id": 193,
+  "name": "JustANode",
+  "secp": "02a0e440c38f2297727feacec3749de7a95c31280c97196dce912bae6addf39bf0",
+  "bls": "82a13e3d21cb22569466447c17bcae6ee3220366039e6187714da5acf8c0d6f3b93f32b55c4a55c1f60e46c54483b6bc",
+  "website": "https://t.me/DEUSxTG",
+  "description": "No bells, no whistles. Just a high-performance node dedicated to securing the Monad ecosystem with maximum uptime and low latency.",
+  "logo": "https://raw.githubusercontent.com/DEUSVULTXYZ/logo/refs/heads/main/logo.png",
+  "x": "https://x.com/0x_Deus"
+}

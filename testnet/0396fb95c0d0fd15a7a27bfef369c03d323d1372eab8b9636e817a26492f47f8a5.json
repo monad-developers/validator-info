@@ -1,0 +1,10 @@
+{
+  "id": 191,
+  "name": "Krews",
+  "secp": "0396fb95c0d0fd15a7a27bfef369c03d323d1372eab8b9636e817a26492f47f8a5",
+  "bls": "a7251ae3f82bfbe32802a5a26baf53c1f70928f922b39bba626c46bc3b8af6fba57fae980d705edbca11068ad29f2bdc",
+  "website": "https://krews.xyz/",
+  "description": "Krews operates high-performance validators on leading PoS networks, ensuring security, decentralization, and network reliability.",
+  "logo": "https://cloudflare-snapshots.krews.xyz/logo.png",
+  "x": "https://x.com/krewstake"
+}

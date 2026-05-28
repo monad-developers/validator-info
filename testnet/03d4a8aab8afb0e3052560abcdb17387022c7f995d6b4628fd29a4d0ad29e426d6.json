@@ -1,0 +1,10 @@
+{
+  "id": 246,
+  "name": "Punq Ops",
+  "secp": "03d4a8aab8afb0e3052560abcdb17387022c7f995d6b4628fd29a4d0ad29e426d6",
+  "bls": "a56c1a553a1d0a3a57f2b337e6a4c738af7387ac05352cad80cd0fc62745f17d862100fd4340570169ca6ddc1db6f4e5",
+  "website": "https://punqops.com",
+  "description": "Bare metal validator and mining infrastructure. In-house operations across major PoS and PoW networks since 2015",
+  "logo": "https://punqops.com/logo/mainlogo.png",
+  "x": "https://x.com/punqops"
+}

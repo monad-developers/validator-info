@@ -1,0 +1,10 @@
+{
+  "id": 230,
+  "name": "Skyneticlabs",
+  "secp": "034799aeb98c40f05cfb068aa5ed17e72646932dce1c567aef43ee9873265a204e",
+  "bls": "892211c0ac6ae675c3caa299b957762d4ec89d3f1b2eddff8128b227c8aa6f1ec475463050339b71ed975e870127dee8",
+  "website": "https://skyneticlabs.com/",
+  "description": "Secure validator infrastructure for scalable PoS networks",
+  "logo": "https://raw.githubusercontent.com/Skyneticlabs/Logo/main/Skyneticlabs.jpg",
+  "x": "https://x.com/skyneticlabs"
+}

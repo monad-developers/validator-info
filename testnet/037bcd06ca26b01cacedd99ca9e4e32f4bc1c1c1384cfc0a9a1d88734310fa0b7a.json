@@ -1,0 +1,10 @@
+{
+  "id": 234,
+  "name": "BitsMedia",
+  "secp": "037bcd06ca26b01cacedd99ca9e4e32f4bc1c1c1384cfc0a9a1d88734310fa0b7a",
+  "bls": "94387941c1a489fa1fdcecd90c6eeb8c6c5485d28ebaddbc8616fbdfd277db2af21755e4251ad9878df20f2db69a072a",
+  "website": "https://bits.media/",
+  "description": "BitsMedia, the most visited and longest-running crypto forum in the CIS region.",
+  "logo": "https://raw.githubusercontent.com/BitsMediaOpen/media/main/bits.media.png",
+  "x": "https://x.com/bits_media"
+}

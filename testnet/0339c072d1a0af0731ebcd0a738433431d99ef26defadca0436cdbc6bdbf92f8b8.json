@@ -1,0 +1,10 @@
+{
+  "id": 266,
+  "name": "BuilderNode",
+  "secp": "0339c072d1a0af0731ebcd0a738433431d99ef26defadca0436cdbc6bdbf92f8b8",
+  "bls": "92cb1219fbbe0bc476fef92baa4c77a8879507fd43ddd8adcc69f2cb2b10f2340b3cb47f316a50a6acbec97ad8152f7e",
+  "website": "https://buildernode.org/",
+  "description": "BuilderNode provides enterprise-grade blockchain validation and infrastructure services. Secure, reliable, and high-performance staking.",
+  "logo": "https://github.com/buildernode/logo/raw/refs/heads/main/BuilderNode.png",
+  "x": "https://x.com/BuilderNode"
+}

@@ -34,9 +34,12 @@ def check_schema(test_data):
     with open(example_file, "r") as f:
         example = json.load(f)
 
+    optional_fields = {"logo"}
     ok = True
     for key, example_value in example.items():
         if key not in test_data:
+            if key in optional_fields:
+                continue
             print(f"❌ Missing field: '{key}'")
             ok = False
             continue
@@ -126,13 +129,14 @@ def main():
     else:
         print(f"✅ Name is valid: '{name_value.strip()}'")
 
-    # --- Check: 'logo' must point to a valid image URL ---
+    # --- Check: 'logo' must point to a valid image URL (optional) ---
     logo = data.get("logo")
-    if check_logo(logo):
-        print("✅ Logo is valid")
-    else:
-        print(f"❌ Logo {logo} check failed")
-        sys.exit(1)
+    if logo is not None:
+        if check_logo(logo):
+            print("✅ Logo is valid")
+        else:
+            print(f"❌ Logo {logo} check failed")
+            sys.exit(1)
 
     # --- Check: on-chain keys must match payload keys
     secp_chain, bls_chain = get_validator_keys(validator_id, network)

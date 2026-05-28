@@ -1,0 +1,10 @@
+{
+  "id": 268,
+  "name": "BitMouse",
+  "secp": "0377233e1cb36693fb495378c714c10434d7aefcc4591981009bd8ce5b692be1d7",
+  "bls": "ac582a16334014a656fc5d34222c4bea6d9d5a2eb95f139b3815f580d8eeacf4d402d5d31d611f951a54cc9b837573f8",
+  "website": "https://t.me/bit_mouse",
+  "description": "BitMouse: massive bare-metal performance. Dedicated to true decentralization and deep hardware tuning.",
+  "logo": "https://raw.githubusercontent.com/BitMouse-N/My-assets/refs/heads/main/BitMouse.png",
+  "x": "https://x.com/Bit_mouse_"
+}

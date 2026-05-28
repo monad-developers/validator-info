@@ -1,0 +1,10 @@
+{
+  "id": 185,
+  "name": "Kamunagi",
+  "secp": "02ef0fc9ac54d327831e8010c5a5748476d6fa7f050b56923bf9829cc461942960",
+  "bls": "845fd732b9181a6fba960f15eb2d10533e11112ae74cc0c379115fdcb5d1bdb2883f06c615425ca969387982c7e0116c",
+  "website": "https://kamunagi.xyz/",
+  "description": "Kamunagi is a validator for a startup oracle project. It is developed in C/C++ and is extremely fast, creating strong synergy with high-performance blockchain networks.",
+  "logo": "https://www.kamunagi.xyz/logo/kamunagi.png",
+  "x": "https://x.com/kamunagi_xyz"
+}

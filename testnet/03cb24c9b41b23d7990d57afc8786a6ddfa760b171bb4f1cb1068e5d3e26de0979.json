@@ -1,0 +1,10 @@
+{
+  "id": 184,
+  "name": "Winsnip",
+  "secp": "03cb24c9b41b23d7990d57afc8786a6ddfa760b171bb4f1cb1068e5d3e26de0979",
+  "bls": "8fda6e27552e2aea9dc2d6a19c6659a9c4a6482fd7786bc2bdf856bb468da81443575ff35fe047aea21b02a6cfc4131c",
+  "website": "https://service.winsnip.xyz",
+  "description": "Professional validator operated by Winsnip — a community-driven tech entity providing staking services, public RPC infrastructure, and Web3 education. Committed to decentralization, security, and transparency across the blockchain ecosystem.",
+  "logo": "https://raw.githubusercontent.com/winsnip-official/winsnip-kit/refs/heads/main/winsnip.jpg",
+  "x": "https://x.com/winsnip"
+}

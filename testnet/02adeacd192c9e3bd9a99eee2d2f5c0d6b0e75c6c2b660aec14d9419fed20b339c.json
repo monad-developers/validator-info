@@ -1,0 +1,10 @@
+{
+  "id": 222,
+  "name": "Asterizm",
+  "secp": "02adeacd192c9e3bd9a99eee2d2f5c0d6b0e75c6c2b660aec14d9419fed20b339c",
+  "bls": "b237c88f7dbf4cbfc5c3ddfc3dd3c46d6078e0da30a12b708b5e48673d6ac344d6193ccb262af3c47543bffb4d9463c4",
+  "website": "https://asterizm.io/",
+  "description": "Asterizm is a cross-chain communication protocol enabling decentralized messaging between blockchains.",
+  "logo": "https://raw.githubusercontent.com/Asterizm-Protocol/asterizm-contracts-evm/master/data/asterizm-logo-round-dark.png",
+  "x": "https://x.com/Asterizm_layer"
+}

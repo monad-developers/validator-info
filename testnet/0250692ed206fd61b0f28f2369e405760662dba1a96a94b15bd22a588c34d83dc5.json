@@ -1,0 +1,10 @@
+{
+  "id": 248,
+  "name": "KaLaMuC",
+  "secp": "0250692ed206fd61b0f28f2369e405760662dba1a96a94b15bd22a588c34d83dc5",
+  "bls": "867e7940dce75178adf4473c0823c219ab55e20b3d3a0115f007af8b4da944f6ad29fbf47ce798c6367ccac00fcdc971",
+  "website": "https://kalamuc.xyz/",
+  "description": "Monad testnet validator prepared by KaLaMuC",
+  "logo": "https://raw.githubusercontent.com/sooneraydin/KaLaMuC/main/Kalamuc.jpg",
+  "x": "https://x.com/sooneraydin"
+}
