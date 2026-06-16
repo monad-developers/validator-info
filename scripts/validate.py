@@ -108,7 +108,7 @@ def main():
     secp_local = data.get("secp")
     bls_local = data.get("bls")
 
-    print(f"\n🌐 Network: {network}")
+    print(f"\n\n🌐 Network: {network}")
     print(f"🆔 Validator ID: {validator_id}")
     print(f"🔑 SECP: {secp_local}")
     print(f"🔑 BLS : {bls_local}")

@@ -2,28 +2,56 @@
 
 ## validate.py
 
-This `validate.py` is used to verify the information for validators.
+Validates a single validator JSON file against the schema, on-chain keys, and logo URL.
 
 ### Setup
 
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
-
-python -m pip install --upgrade pip
-pip install -r requirements.txt
+pip install -r scripts/requirements.txt
 ```
 
 ### Usage
 
 ```bash
-source .venv/bin/activate
-./validate.py ../testnet/0209ca34a0469e8bfc88de9e05953bb26cd518401c4382491793f3318c7c25c033.json
+# Validate a single file
+python scripts/validate.py mainnet/<secp>.json
+
+# With a custom RPC URL
+MAINNET_RPC_URL=<url> python scripts/validate.py mainnet/<secp>.json
+TESTNET_RPC_URL=<url> python scripts/validate.py testnet/<secp>.json
 ```
+
+## validate_many.py
+
+Runs `validate.py` on multiple validator files in parallel.
+
+### Usage
+
+```bash
+# Validate all validators across all networks
+python scripts/validate_many.py
+
+# Validate a specific network only
+python scripts/validate_many.py --network mainnet
+python scripts/validate_many.py --network testnet
+
+# Validate specific files by path (compatible with CI file lists)
+python scripts/validate_many.py mainnet/<secp>.json testnet/<secp>.json
+
+# Increase parallelism (default: 10)
+python scripts/validate_many.py --network mainnet --workers 20
+
+# Show output for passing validators too
+python scripts/validate_many.py --network mainnet --verbose
+```
+
+Failed validator output is printed at the end, after all files have been checked.
 
 ## generate_validators_json.py
 
-The `generate_validators_json.py` script generates consolidated JSON and CSV files containing all validators from the mainnet and testnet directories.
+Generates consolidated JSON and CSV files containing all validators from the mainnet and testnet directories.
 
 ### Usage
 
