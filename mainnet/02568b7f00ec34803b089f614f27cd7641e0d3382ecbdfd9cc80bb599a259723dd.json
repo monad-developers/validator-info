@@ -7,6 +7,6 @@
   "description": "",
   "x": "",
   "registration_date": "2025-12-18",
-  "decommissioned": false,
+  "decommissioned": true,
   "vdp": true
 }

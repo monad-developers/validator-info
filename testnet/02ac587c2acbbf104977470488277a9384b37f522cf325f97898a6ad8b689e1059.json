@@ -8,6 +8,6 @@
   "logo": "https://raw.githubusercontent.com/BCWResearch/bcw-logo/refs/heads/main/trust.jpg",
   "x": "https://x.com/Hex_Trust",
   "registration_date": "2025-12-18",
-  "decommissioned": false,
+  "decommissioned": true,
   "vdp": true
 }

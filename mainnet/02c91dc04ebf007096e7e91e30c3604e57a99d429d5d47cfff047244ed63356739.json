@@ -8,6 +8,6 @@
   "logo": "https://placehold.co/200x200/ffffff/ffffff.png",
   "x": "",
   "registration_date": "2025-11-19",
-  "decommissioned": false,
+  "decommissioned": true,
   "vdp": true
 }

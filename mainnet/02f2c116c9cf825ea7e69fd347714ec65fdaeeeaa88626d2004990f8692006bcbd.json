@@ -8,6 +8,6 @@
   "logo": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/blanksquare.jpg",
   "x": "https://x.com/inactive",
   "registration_date": "2025-11-24",
-  "decommissioned": false,
+  "decommissioned": true,
   "vdp": true
 }
