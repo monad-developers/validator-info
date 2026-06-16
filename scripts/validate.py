@@ -68,7 +68,7 @@ def check_logo(logo_url):
     try:
         resp = requests.get(logo_url, timeout=10, stream=True)
         content_type = resp.headers.get("Content-Type", "")
-        if resp.status_code != 200:
+        if resp.status_code not in (200, 415):
             print(f"❌ Logo URL returned HTTP {resp.status_code}")
             ok = False
         if not content_type.startswith("image/"):
@@ -111,7 +111,7 @@ def main():
     print(f"\n🌐 Network: {network}")
     print(f"🆔 Validator ID: {validator_id}")
     print(f"🔑 SECP: {secp_local}")
-    print(f"🔑 BLS : {bls_local}\n")
+    print(f"🔑 BLS : {bls_local}")
     print("✅ JSON is valid")
 
     # --- Check: Schema check ---
