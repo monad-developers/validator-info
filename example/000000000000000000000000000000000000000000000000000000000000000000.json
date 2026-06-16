@@ -6,5 +6,8 @@
   "website": "https://example.com/",
   "description": "This is an example",
   "logo": "https://example.com/example.png",
-  "x": "https://x.com/example"
+  "x": "https://x.com/example",
+  "registration_date": "2025-01-01",
+  "decommissioned": false,
+  "vdp": false
 }

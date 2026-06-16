@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import json
 import os
+import re
 import sys
 
 import requests
@@ -34,7 +35,7 @@ def check_schema(test_data):
     with open(example_file, "r") as f:
         example = json.load(f)
 
-    optional_fields = {"logo"}
+    optional_fields = {"logo", "registration_date", "decommissioned", "vdp"}
     ok = True
     for key, example_value in example.items():
         if key not in test_data:
@@ -128,6 +129,15 @@ def main():
         sys.exit(1)
     else:
         print(f"✅ Name is valid: '{name_value.strip()}'")
+
+    # --- Check: 'registration_date' must be a valid ISO 8601 date (optional) ---
+    registration_date = data.get("registration_date")
+    if registration_date is not None:
+        if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", registration_date):
+            print(f"❌ Invalid 'registration_date': must be YYYY-MM-DD, got '{registration_date}'")
+            sys.exit(1)
+        else:
+            print(f"✅ registration_date is valid: '{registration_date}'")
 
     # --- Check: 'logo' must point to a valid image URL (optional) ---
     logo = data.get("logo")
