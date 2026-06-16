@@ -7,7 +7,7 @@
   "description": "This is an example",
   "logo": "https://example.com/example.png",
   "x": "https://x.com/example",
-  "registration_date": "2025-01-01",
+  "registration_date": "2025-12-31",
   "decommissioned": false,
   "vdp": false
 }
