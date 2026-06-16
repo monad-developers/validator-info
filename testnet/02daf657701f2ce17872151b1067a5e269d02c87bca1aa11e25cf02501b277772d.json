@@ -5,9 +5,8 @@
   "bls": "964c63a694584eac76149d695c5bcc8e7b06436bba0a19579d6c8150a58418212d4f8c7d2b589ad11d2fc35bdc60b8fe",
   "website": "https://starke.finance/staking",
   "description": "Validator funding Starke Finance. The Digital Asset Fund Management platform of the future",
-  "logo": "https://li2wovpqjdpxbpcs.public.blob.vercel-storage.com/logo.png",
   "x": "https://x.com/StarkeFinance",
-  "registration_date": "2026-01-01",
+  "registration_date": "2026-02-11",
   "decommissioned": false,
   "vdp": true
 }

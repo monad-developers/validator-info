@@ -5,9 +5,8 @@
   "bls": "b1f0a8616e82a4b8478643900a53648663e2e686df19ac7be54694d7b4b53603829ab1a74903c1c0b99a797afb883b44",
   "website": "https://mcf.rocks/",
   "description": "We operate nodes and infra for next-generation blockchain",
-  "logo": "https://mcf.rocks/images/assets/mcf-text-blue.png",
   "x": "https://x.com/MCFvalidator ",
-  "registration_date": "2026-01-01",
+  "registration_date": "2025-11-06",
   "decommissioned": false,
   "vdp": true
 }

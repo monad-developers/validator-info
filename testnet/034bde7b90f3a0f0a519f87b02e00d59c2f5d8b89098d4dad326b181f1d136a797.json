@@ -7,7 +7,7 @@
   "description": "We are operating a secure, stable Validator Node for many mainnet chains. We provide infrastructure support - public RPC, LCD endpoints, daily snapshots, operate multiple IBC Relayers, Blockchain Explorers, Youtube tutorials, etc.",
   "logo": "https://raw.githubusercontent.com/SynergyNodes/SynergyNodes_Logo/refs/heads/main/Synergy_Nodes_Logo.png",
   "x": "https://x.com/SynergyNodes",
-  "registration_date": "2026-01-01",
+  "registration_date": "2025-11-06",
   "decommissioned": false,
   "vdp": true
 }

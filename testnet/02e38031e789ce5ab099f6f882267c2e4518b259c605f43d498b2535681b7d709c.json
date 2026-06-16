@@ -5,9 +5,8 @@
   "bls": "9234b700b40e87b01b7721b094df475dc6deb65249b6a0411ebebd7872a70c54111a8634b677a51673b360bffc470df8",
   "website": "https://nodeinfra.com/",
   "description": "Korean validator focused on reliability and security",
-  "logo": "https://nodeinfra.com/niLogo.png",
   "x": "https://x.com/nodeinfra",
-  "registration_date": "2026-01-01",
+  "registration_date": "2025-12-18",
   "decommissioned": false,
   "vdp": true
 }

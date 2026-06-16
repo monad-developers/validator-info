@@ -10,10 +10,9 @@ from web3 import Web3
 
 
 def get_rpc_url(network):
-    mainnet_rpc_url = os.environ.get("MAINNET_RPC_URL")
-    if network == "mainnet" and mainnet_rpc_url:
-        rpc_url = mainnet_rpc_url
-    else:
+    env_var = f"{network.upper()}_RPC_URL"
+    rpc_url = os.environ.get(env_var)
+    if not rpc_url:
         rpc_url = f"https://rpc-{network}.monadinfra.com/"
     return rpc_url
 

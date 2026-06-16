@@ -7,7 +7,7 @@
   "description": "Blocash testnet validator",
   "logo": "https://raw.githubusercontent.com/blocashmain/blocash-image/refs/heads/main/blocashmain.jpeg",
   "x": "https://x.com/blocashweb",
-  "registration_date": "2026-01-01",
+  "registration_date": "2026-02-05",
   "decommissioned": false,
   "vdp": true
 }

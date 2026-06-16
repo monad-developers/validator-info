@@ -5,9 +5,8 @@
   "bls": "8b24516fc3a8fa684ed112e5acdc8b89702cca5daea451c356d100585c610d3c83ab9e99cdb9ca7533d21bdbcc0b9209",
   "website": "https://blackblocks.io",
   "description": "Reliable, high-performance validator for Monad’s parallel EVM. We run secure & optimized nodes to support 10k+ TPS.",
-  "logo": "https://wiki.blackblocks.io/public/logo.svg",
   "x": "https://x.com/BlackBlocks_io",
-  "registration_date": "2026-01-01",
+  "registration_date": "2025-11-13",
   "decommissioned": false,
   "vdp": true
 }
