@@ -26,6 +26,6 @@ To contribute:
 | `description` | string | yes | Short description of the validator |
 | `x` | string | yes | X (Twitter) profile URL |
 | `logo` | string | no | HTTPS URL to a logo image |
-| `registration_date` | string | no | Date of on-chain registration (`YYYY-MM-DD`) |
-| `decommissioned` | boolean | no | `true` if the validator is no longer active |
-| `vdp` | boolean | no | `true` if the validator participates in the Validator Delegation Program |
+| `registration_date` | string | yes | Date of on-chain registration (`YYYY-MM-DD`) |
+| `decommissioned` | boolean | yes | `true` if the validator is no longer active |
+| `vdp` | boolean | yes | `true` if the validator participates in the Validator Delegation Program |
