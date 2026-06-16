@@ -6,5 +6,8 @@
   "website": "https://l0vd.com/",
   "description": "Professional validator, staking and infrastructure provider. More than 50 networks contributed. With L0ve.",
   "logo": "https://res.cloudinary.com/dxwoj0bkm/image/upload/v1759235874/logo_big_jpqej3.svg",
-  "x": "https://x.com/L0vdstaking"
+  "x": "https://x.com/L0vdstaking",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

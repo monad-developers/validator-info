@@ -6,5 +6,8 @@
   "website": "https://www.ankr.com",
   "description": "Ankr | The Fastest Web3 Infrastructure",
   "logo": "https://www.ankr.com/_next/static/images/ankr-blue-logo-9cb21287573aa404ab083c44faee3db4.png",
-  "x": "https://x.com/ankr"
+  "x": "https://x.com/ankr",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

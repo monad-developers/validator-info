@@ -6,5 +6,8 @@
   "website": "https://www.pops.one",
   "description": "P-OPS TEAM is a decentralized organization providing you with validation and staking services, blockchain consultation, growth acceleration and investment capital for innovative Web 3.0 projects.",
   "logo": "https://pops.one/img/pops-logo.png",
-  "x": "https://x.com/POpsTeam1"
+  "x": "https://x.com/POpsTeam1",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

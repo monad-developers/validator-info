@@ -6,5 +6,8 @@
   "website": "https://www.qubelabs.io",
   "description": "Independent organization of validators, builders, network contributors and community builders.",
   "logo": "https://www.qubelabs.io/images/qubelabs-logo.png",
-  "x": "https://x.com/qubelabs"
+  "x": "https://x.com/qubelabs",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

@@ -6,5 +6,8 @@
   "website": "https://punqops.com",
   "description": "Bare metal validator and mining infrastructure. In-house operations across major PoS and PoW networks since 2015",
   "logo": "https://punqops.com/logo/mainlogo.png",
-  "x": "https://x.com/punqops"
+  "x": "https://x.com/punqops",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

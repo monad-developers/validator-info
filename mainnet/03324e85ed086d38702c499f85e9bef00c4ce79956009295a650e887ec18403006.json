@@ -6,5 +6,8 @@
   "website": "https://cryptomind.group",
   "description": "Thailand's Largest Web3 Ecosystem Builder",
   "logo": "https://cdn.cryptomind.group/logo.png",
-  "x": "https://x.com/cryptomindgroup"
+  "x": "https://x.com/cryptomindgroup",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

@@ -6,5 +6,8 @@
   "website": "https://loopd.cloud/",
   "description": "Building more resilient Web3 communities through face-to-face interactions and meaningful activation.",
   "logo": "https://i.ibb.co/BVdJPy4D/loopd-Logo.png",
-  "x": "https://x.com/loopd_cloud"
+  "x": "https://x.com/loopd_cloud",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

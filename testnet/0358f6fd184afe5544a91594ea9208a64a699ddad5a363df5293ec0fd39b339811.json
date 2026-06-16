@@ -6,5 +6,8 @@
   "website": "https://stakechain.pro/",
   "description": "Built to last. Designed to grow.",
   "logo": "https://avatars.githubusercontent.com/u/258127881",
-  "x": "https://x.com/Stake__chain"
+  "x": "https://x.com/Stake__chain",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

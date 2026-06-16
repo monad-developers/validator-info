@@ -6,5 +6,8 @@
   "website": "https://unit410.com/",
   "description": "Empowering hodlers to use their crypto in secure and novel ways",
   "logo": "https://unit410.com/images/unit410-square-black.png",
-  "x": "https://x.com/unit_410"
+  "x": "https://x.com/unit_410",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

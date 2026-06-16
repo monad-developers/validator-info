@@ -6,5 +6,8 @@
   "website": "https://endorphinestake.com",
   "description": "Skills should increase with each new block produced. Peace to all!",
   "logo": "https://raw.githubusercontent.com/endorphinestake/resources/main/media-kit/logo-endorphine.png",
-  "x": "https://x.com/endorphinestake"
+  "x": "https://x.com/endorphinestake",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

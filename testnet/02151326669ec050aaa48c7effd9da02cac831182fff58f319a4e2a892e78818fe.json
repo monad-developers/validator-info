@@ -6,5 +6,8 @@
   "website": "https://stakeus.xyz",
   "description": "Trust Us Stake Us",
   "logo": "https://raw.githubusercontent.com/StakeUs/Stakeus_LOGO/refs/heads/main/logo-no-background.png",
-  "x": "https://x.com/StakeusXyz"
+  "x": "https://x.com/StakeusXyz",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

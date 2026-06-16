@@ -6,5 +6,8 @@
   "website": "https://stakeup.tech/",
   "description": "Non-custodial staking provider. High service, good support.",
   "logo": "https://stakeup.tech/assets/images/logo.png",
-  "x": "https://x.com/stakeup_tech"
+  "x": "https://x.com/stakeup_tech",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

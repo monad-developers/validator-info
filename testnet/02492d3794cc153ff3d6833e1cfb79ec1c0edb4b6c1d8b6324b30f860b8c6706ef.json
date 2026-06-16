@@ -6,5 +6,8 @@
   "website": "https://nodeify.net",
   "description": "Strengthening Networks, Securing Futures",
   "logo": "https://ipfs.filebase.io/ipfs/QmWs2W7dpw6AQpywNJbLgAKeG5KQWFnHocGQLLNKUEnBYL",
-  "x": "https://x.com/nodeify_eth"
+  "x": "https://x.com/nodeify_eth",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

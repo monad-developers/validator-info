@@ -6,5 +6,8 @@
   "website": "https://shadowoftime.dev",
   "description": "Independent Monad validator, Sydney, Australia. Operator of MonadPulse analytics (monadpulse.xyz).",
   "logo": "https://github.com/ShadowOfTime1.png",
-  "x": "https://x.com/RomanKarpenk"
+  "x": "https://x.com/RomanKarpenk",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

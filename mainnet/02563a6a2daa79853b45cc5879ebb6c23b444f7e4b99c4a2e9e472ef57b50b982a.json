@@ -6,5 +6,8 @@
   "website": "https://dteam.tech/",
   "description": "dteam.tech provides reliable infrastructure to support and scale projects effectively, along with building essential tools tailored for project communities, node operators and developers.",
   "logo": "https://raw.githubusercontent.com/DTEAMTECH/identity/refs/heads/main/logo.png",
-  "x": "https://x.com/dteamtech"
+  "x": "https://x.com/dteamtech",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

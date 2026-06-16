@@ -6,5 +6,8 @@
   "website": "https://flipsidecrypto.xyz",
   "description": "Flipside helps protocols grow intelligently--using AI agents and data science.",
   "logo": "https://raw.githubusercontent.com/fsc-platform/blockchain-logos/main/flipside_icon.png",
-  "x": "https://x.com/flipsidecrypto"
+  "x": "https://x.com/flipsidecrypto",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

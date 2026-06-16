@@ -6,5 +6,8 @@
   "website": "https://www.kiln.fi/",
   "description": "Kiln - The institutional layer for onchain assets",
   "logo": "https://public.kiln.fi/icon.png",
-  "x": "https://twitter.com/Kiln_finance"
+  "x": "https://twitter.com/Kiln_finance",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

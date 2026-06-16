@@ -6,5 +6,8 @@
   "website": "",
   "description": "Infinite Node brings web3 decentralisation services on high performance and infrastructure",
   "logo": "https://raw.githubusercontent.com/joym147/joym/refs/heads/main/infinitenode.jpg",
-  "x": "https://x.com/0xjoym"
+  "x": "https://x.com/0xjoym",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

@@ -6,5 +6,8 @@
   "website": "https://onchain.bitwiseinvestments.com",
   "description": "Secure the network by delegating to Bitwise Onchain Solutions. As a leading institutional staking provider, we combine secure validator infrastructure with regulated compliance standards. By delegating, you agree to our terms: https://onchain.bitwiseinvestments.com/tos",
   "logo": "https://mirror.chorus.one/bitwise-logo-circle-360x360.png",
-  "x": "https://x.com/Bitwise"
+  "x": "https://x.com/Bitwise",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

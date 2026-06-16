@@ -6,5 +6,8 @@
   "website": "https://t.me/crypto_volk_validator",
   "description": "Monad testnet validator run by Crypto-Volk",
   "logo": "https://raw.githubusercontent.com/crypto-volk/public/refs/heads/main/logo.jpeg",
-  "x": "https://x.com/kirivolodin"
+  "x": "https://x.com/kirivolodin",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

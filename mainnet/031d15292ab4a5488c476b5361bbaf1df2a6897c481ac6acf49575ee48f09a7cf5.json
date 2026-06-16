@@ -6,5 +6,8 @@
   "website": "https://infstones.com/",
   "description": "The Ultimate Blockchain Infrastructure Services Platform",
   "logo": "https://infstones.com/assets/icons/footer_logo.svg",
-  "x": "https://x.com/InfStones"
+  "x": "https://x.com/InfStones",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

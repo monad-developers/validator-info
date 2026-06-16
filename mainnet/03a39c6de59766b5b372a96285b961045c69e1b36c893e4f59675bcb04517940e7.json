@@ -6,5 +6,8 @@
   "website": "https://www.node3tech.io",
   "description": "Node3Tech is a leading company specializing in blockchain infrastructure and decentralized validator technology, dedicated to providing high-performance and secure node operation and staking services. We actively participate in multiple mainstream network testnets and mainnet deployments, continuously driving the development and adoption of blockchain technology.",
   "logo": "https://node3tech.io/wp-content/uploads/2025/06/logo2-2048x2048.png",
-  "x": "https://x.com/node3tech"
+  "x": "https://x.com/node3tech",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

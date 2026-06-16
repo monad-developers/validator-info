@@ -6,5 +6,8 @@
   "website": "https://t.me/natabelen7",
   "description": "Independent Web3 validator and contributor focused on high-performance infrastructure, reliability, and decentralization.",
   "logo": "https://raw.githubusercontent.com/natabelee/natabel-assets/main/logo.png",
-  "x": "https://x.com/Natabele"
+  "x": "https://x.com/Natabele",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

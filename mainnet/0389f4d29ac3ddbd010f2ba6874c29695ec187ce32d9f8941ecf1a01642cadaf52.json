@@ -6,5 +6,8 @@
   "website": "https://kiln.fi",
   "description": "Enterprise-grade staking made easy. Stake your treasury directly, or bring staking to your users through our whitelabel product.",
   "logo": "https://prod-validators.nyc3.digitaloceanspaces.com/jv4jjydgv6uiy8m376t96frfc7g3",
-  "x": "https://x.com/Kiln_finance"
+  "x": "https://x.com/Kiln_finance",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

@@ -6,5 +6,8 @@
   "website": "https://2xStake.com/",
   "description": "Node operator",
   "logo": "https://raw.githubusercontent.com/kuatcapital/SSV-Based-Applications/refs/heads/main/logo.png",
-  "x": "https://x.com/2xStake"
+  "x": "https://x.com/2xStake",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

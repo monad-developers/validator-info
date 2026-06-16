@@ -6,5 +6,8 @@
   "website": "https://www.category.xyz/",
   "description": "We build high-performance decentralized systems",
   "logo": "https://pbs.twimg.com/profile_images/1868681220516696065/LFhFcEhc_400x400.jpg",
-  "x": "https://x.com/category_xyz"
+  "x": "https://x.com/category_xyz",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": false
 }

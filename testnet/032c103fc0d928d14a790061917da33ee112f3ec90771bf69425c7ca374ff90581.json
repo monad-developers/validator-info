@@ -6,5 +6,8 @@
   "website": "https://cortexglobal.xyz",
   "description": "A professional network serving the blockchain adoption needs of communities around the world through education, services, and events.",
   "logo": "https://raw.githubusercontent.com/Cortex-XYZ/brand-assets/refs/heads/main/cortex-mark-orange-on-transparent.png",
-  "x": "https://x.com/Cortex_Global_"
+  "x": "https://x.com/Cortex_Global_",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

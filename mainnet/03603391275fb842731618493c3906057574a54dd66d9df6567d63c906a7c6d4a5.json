@@ -6,5 +6,8 @@
   "website": "https://spidernode.net/",
   "description": "Reliable validator by Coha05, part of Vietnads - supporting decentralization and growth across Monad and beyond.",
   "logo": "https://raw.githubusercontent.com/Coha05/libary/refs/heads/main/spider-node.png",
-  "x": "hhttps://x.com/spider_node_"
+  "x": "hhttps://x.com/spider_node_",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

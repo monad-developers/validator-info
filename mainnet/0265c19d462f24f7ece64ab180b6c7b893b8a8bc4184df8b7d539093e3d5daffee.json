@@ -6,5 +6,8 @@
   "website": "https://www.staking4all.org/",
   "description": "Validator for Proof of Stake blockchains. Delegate to us for a easy staking experience.",
   "logo": "https://raw.githubusercontent.com/staking4all/eigenlayer/main/Stake4All_logo.png",
-  "x": "https://x.com/staking4all"
+  "x": "https://x.com/staking4all",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

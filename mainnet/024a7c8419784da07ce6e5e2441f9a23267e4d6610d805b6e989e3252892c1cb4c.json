@@ -6,5 +6,8 @@
   "website": "https://lemniscap.com/",
   "description": "Lemniscap is an investment firm specialising in investments in emerging cryptoassets and blockchain startups.",
   "logo": "https://static.lemniscap.com/assets/icon.png",
-  "x": "https://x.com/lemniscap"
+  "x": "https://x.com/lemniscap",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

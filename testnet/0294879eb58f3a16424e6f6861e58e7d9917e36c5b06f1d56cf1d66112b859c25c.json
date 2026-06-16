@@ -6,5 +6,8 @@
   "website": "https://blockpi.io/",
   "description": "Distributed multi-chain acceleration layer.",
   "logo": "https://static.blockpi.io/blockpi-logo-mini.png",
-  "x": "https://x.com/RealBlockPI"
+  "x": "https://x.com/RealBlockPI",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

@@ -6,5 +6,8 @@
   "website": "https://obelisk.sh/",
   "description": "Operational Excellence on Bare Metal",
   "logo": "https://user-images.githubusercontent.com/17627585/237486665-a3ff51b5-b39a-4bd8-ac98-1631f46f0a9c.png",
-  "x": "https://x.com/wizardfiction"
+  "x": "https://x.com/wizardfiction",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

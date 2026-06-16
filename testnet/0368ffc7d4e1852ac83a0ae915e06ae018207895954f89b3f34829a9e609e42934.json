@@ -6,5 +6,8 @@
   "website": "https://talentum.id",
   "description": "Web3 platform for connecting talents and startups, helping them achieve high performance by providing tools for efficient workflow",
   "logo": "https://talentum.id/images/avatar-orange.png",
-  "x": "https://x.com/TalentumID"
+  "x": "https://x.com/TalentumID",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

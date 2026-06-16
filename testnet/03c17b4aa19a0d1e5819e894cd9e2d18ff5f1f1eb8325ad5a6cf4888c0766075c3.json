@@ -6,5 +6,8 @@
   "website": "https://blockscape.network",
   "description": "Founded in Switzerland, Blockscape has been actively engaged in staking technology since 2018. Today, we’re expanding our focus to support institutions with secure and seamless access to digital assets.",
   "logo": "https://blockscape.network/logo/logo-color.png",
-  "x": "https://x.com/BlockscapeLab"
+  "x": "https://x.com/BlockscapeLab",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

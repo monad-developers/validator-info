@@ -6,5 +6,8 @@
   "website": "https://phase.cc/",
   "description": "Stake with certainty. Stake with Phase",
   "logo": "https://gateway.irys.xyz/3eaHpuhY2wygLvBytm3xXTkHp96KEmMEc8Et7tGXnAeC",
-  "x": "https://x.com/phase_"
+  "x": "https://x.com/phase_",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

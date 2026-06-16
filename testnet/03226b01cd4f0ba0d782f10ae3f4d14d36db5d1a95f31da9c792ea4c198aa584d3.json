@@ -6,5 +6,8 @@
   "website": "https://originstake.com",
   "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator, ensuring secure staking on Monad. With extensive blockchain experience and uptime commitment, we deliver reliable performance for decentralized ecosystems.",
   "logo": "https://assets.r2.originstake.com/PressKits-OGS/Logo/PNG/OriginStake_Logo_1.png",
-  "x": "https://x.com/OriginStake"
+  "x": "https://x.com/OriginStake",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

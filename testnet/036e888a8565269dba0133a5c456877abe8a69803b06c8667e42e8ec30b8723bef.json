@@ -6,5 +6,8 @@
   "website": "https://triton.one/",
   "description": "We provide the most reliable, high-performance blockchain infrastructure so that you can build with confidence.",
   "logo": "https://triton-public-us.s3.amazonaws.com/logonew.svg",
-  "x": "https://x.com/triton_one/"
+  "x": "https://x.com/triton_one/",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

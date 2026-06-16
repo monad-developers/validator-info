@@ -6,5 +6,8 @@
   "website": "https://www.0xwave.com/",
   "description": "Multi-chain validator infrastructure operator.",
   "logo": "https://raw.githubusercontent.com/ABEF/icone/refs/heads/main/wave.png",
-  "x": "https://x.com/WaveIBC"
+  "x": "https://x.com/WaveIBC",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

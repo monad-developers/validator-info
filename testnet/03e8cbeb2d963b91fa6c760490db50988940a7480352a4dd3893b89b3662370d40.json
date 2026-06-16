@@ -6,5 +6,8 @@
   "website": "",
   "description": "EVOS delivers highly reliable validator infrastructure with years of proven experience operating production validators across diverse blockchain ecosystems.",
   "logo": "https://crypt3god.s3.eu-central-1.amazonaws.com/evos.png",
-  "x": ""
+  "x": "",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

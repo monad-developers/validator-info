@@ -6,5 +6,8 @@
   "website": "https://noders.team",
   "description": "Noders LLC is a premier provider of institutional-grade Validator Services and cutting-edge Web3 Development.",
   "logo": "https://raw.githubusercontent.com/noders-team/brand-kit/refs/heads/main/logo/noders_logo_256.png",
-  "x": "https://x.com/NODERS_TEAM"
+  "x": "https://x.com/NODERS_TEAM",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

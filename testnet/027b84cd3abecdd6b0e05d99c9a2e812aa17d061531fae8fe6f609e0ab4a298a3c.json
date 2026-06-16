@@ -6,5 +6,8 @@
   "website": "https://piki-nodes.com",
   "description": "piki-nodes Monad testnet validator. The Home for Node Operators Streamlined Infra Guides & Network Insights. Setup Guides",
   "logo": "https://raw.githubusercontent.com/zaki9501/piki-nodes-assets/refs/heads/main/piki-nodes%20(1).png",
-  "x": "https://x.com/Piki_eth"
+  "x": "https://x.com/Piki_eth",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

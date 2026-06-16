@@ -6,5 +6,8 @@
   "website": "https://everstake.one/",
   "description": "Everstake is one of the world's biggest validators, servicing 735,000+ users across 70+ blockchains",
   "logo": "https://everstake.one/logo.png",
-  "x": "https://twitter.com/everstake_pool"
+  "x": "https://twitter.com/everstake_pool",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

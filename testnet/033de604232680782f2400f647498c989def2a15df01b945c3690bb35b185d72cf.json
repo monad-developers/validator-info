@@ -6,5 +6,8 @@
   "website": "https://adra.so",
   "description": "Enterprise-grade Monad validator",
   "logo": "https://raw.githubusercontent.com/solanadevmint/logo/main/PzSwqj4J_400x400-2.jpg",
-  "x": "https://x.com/AdrasteaFinance"
+  "x": "https://x.com/AdrasteaFinance",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

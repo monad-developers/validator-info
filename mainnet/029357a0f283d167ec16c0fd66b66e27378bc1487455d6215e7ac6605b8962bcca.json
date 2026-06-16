@@ -6,5 +6,8 @@
   "website": "https://mcf.rocks/",
   "description": "We operate nodes and infra for next-generation blockchain",
   "logo": "https://mcf.rocks/images/assets/mcf-text-blue.png",
-  "x": "https://x.com/MCFvalidator "
+  "x": "https://x.com/MCFvalidator ",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

@@ -6,5 +6,8 @@
   "website": "https://data.nexus/",
   "description": "Powering decentralized applications with data services and validation",
   "logo": "https://data.nexus/assets/favicons/android-icon-192x192.png",
-  "x": "https://x.com/data_nexus"
+  "x": "https://x.com/data_nexus",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

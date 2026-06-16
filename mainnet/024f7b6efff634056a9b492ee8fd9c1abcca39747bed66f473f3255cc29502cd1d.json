@@ -6,5 +6,8 @@
   "website": "https://validatus.com/",
   "description": "Validatus - verifying blockchain entries on purely Enterprise Linux based systems with regular security audits. Stay safe. Stake with us.",
   "logo": "https://res.cloudinary.com/djhalnnus/image/upload/v1724758514/Validatus-CI/avatar.png",
-  "x": "https://x.com/stakeingermany"
+  "x": "https://x.com/stakeingermany",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

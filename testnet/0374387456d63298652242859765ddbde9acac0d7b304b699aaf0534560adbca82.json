@@ -6,5 +6,8 @@
   "website": "https://delightlabs.io",
   "description": "Technology-driven team contributing to a decentralized ecosystem",
   "logo": "https://storage.delightlabs.io/images/DELIGHTLABS-Symbol-10px.png",
-  "x": "https://x.com/delightlabs_io"
+  "x": "https://x.com/delightlabs_io",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

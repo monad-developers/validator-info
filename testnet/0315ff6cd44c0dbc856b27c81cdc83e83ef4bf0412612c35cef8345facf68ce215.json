@@ -6,5 +6,8 @@
   "website": "https://rockx.com",
   "description": "Guaranteed availability and up-time backed by a professional blockchain infrastructure team.",
   "logo": "https://static.rockx.com/img/logo/rockx-logo.png",
-  "x": "https://twitter.com/rockx_official"
+  "x": "https://twitter.com/rockx_official",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

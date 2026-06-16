@@ -6,5 +6,8 @@
   "website": "https://pacific-meta.co.jp/",
   "description": "Your Premier Web3 Partner in Japan and Asia.",
   "logo": "https://pacific-meta-assets-01.s3.ap-northeast-1.amazonaws.com/public/pacificmetalogo.jpg",
-  "x": "https://x.com/PacificMeta"
+  "x": "https://x.com/PacificMeta",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

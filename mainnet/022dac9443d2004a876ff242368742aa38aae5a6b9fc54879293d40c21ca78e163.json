@@ -6,5 +6,8 @@
   "website": "https://stakely.io",
   "description": "Stakely is a leading non-custodial staking provider, providing professional blockchain infrastructure and managing over $1B TVL across 40+ blockchains and protocols. Since 2020, we provide professional investors with secure, simple staking solutions.",
   "logo": "https://img.stakely.io/logos/stakely.png",
-  "x": "https://x.com/stakely_io"
+  "x": "https://x.com/stakely_io",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

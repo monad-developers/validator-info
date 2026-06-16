@@ -6,5 +6,8 @@
   "website": "https://nexpace.io/",
   "description": "The builder of @MaplestoryU, NEXPACE combines creator ideas with blockchain in a dynamic game community to push boundaries of the gaming ecosystem.",
   "logo": "https://public.saasexch.com/static/cms/cmsSassLandingPage1/202505/d1ad01ff0436924508e53bbe22adb393.png",
-  "x": "https://x.com/Nexpace_HQ"
+  "x": "https://x.com/Nexpace_HQ",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

@@ -6,5 +6,8 @@
   "website": "https://dsrv.com",
   "description": "DSRV is an integrated blockchain solutions company with the mission of enriching the crypto ecosystem via stronger connectivity. We strive to be your gateway to a suite of all-comprehensive blockchain services. Everything distributed, served complete.",
   "logo": "https://s3.amazonaws.com/keybase_processed_uploads/8349f3ab6852a8419c1987ad9096c605_360_360.jpg",
-  "x": "https://x.com/dsrvlabs"
+  "x": "https://x.com/dsrvlabs",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

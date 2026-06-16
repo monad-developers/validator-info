@@ -6,5 +6,8 @@
   "website": "https://provalidator.com",
   "description": "Supporting Blockchain Infrastructure",
   "logo": "https://provalidator.com/images/logo.png",
-  "x": "https://x.com/provalidator"
+  "x": "https://x.com/provalidator",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

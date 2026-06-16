@@ -6,5 +6,8 @@
   "website": "https://htw.tech/",
   "description": "A venture infrastructure platform driving the continuous cycle of technological evolution",
   "logo": "https://raw.githubusercontent.com/hightower-tech/ABOUT/refs/heads/main/brand-kit/logos/logo360x360.png",
-  "x": "https://x.com/htwtech_"
+  "x": "https://x.com/htwtech_",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

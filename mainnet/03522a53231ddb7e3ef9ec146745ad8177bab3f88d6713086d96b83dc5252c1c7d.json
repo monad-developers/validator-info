@@ -6,5 +6,8 @@
   "website": "https://validatrium.com/",
   "description": "Stake with us!",
   "logo": "https://raw.githubusercontent.com/Validatrium/public-uploads/main/validatrium1-1.png",
-  "x": "https://x.com/validatrium"
+  "x": "https://x.com/validatrium",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

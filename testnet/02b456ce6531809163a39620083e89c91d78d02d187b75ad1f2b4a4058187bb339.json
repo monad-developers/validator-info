@@ -6,5 +6,8 @@
   "website": "https://lux8.net/",
   "description": "High-performance validators",
   "logo": "https://lux8.net/img/logo/star.svg",
-  "x": "https://x.com/lux8net"
+  "x": "https://x.com/lux8net",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

@@ -6,5 +6,8 @@
   "website": "https://piertwo.com/",
   "description": "Pier Two is an Institutional staking services provider, established in Australia, in 2018. With multi-zonal 24/7 operations, high-performance hybrid cloud and bare metal infrastructure. Pier Two serves as a strategic partner in achieving sustainable staking rewards and growth, while helping protocol security.",
   "logo": "https://piertwo.com/img/brand-assets/logo/logomark-midblue.svg",
-  "x": "https://x.com/piertwo_com"
+  "x": "https://x.com/piertwo_com",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

@@ -6,5 +6,8 @@
   "website": "https://itrocket.net/",
   "description": "Enterprise-level infrastructure and state-of-art tools for node operators, developers and analysts.",
   "logo": "https://server-4.itrocket.net/logo/itrocket_logo.png",
-  "x": "https://x.com/itrocket_team"
+  "x": "https://x.com/itrocket_team",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

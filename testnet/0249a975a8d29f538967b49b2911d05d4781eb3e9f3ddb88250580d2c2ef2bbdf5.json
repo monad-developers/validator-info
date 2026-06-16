@@ -6,5 +6,8 @@
   "website": "https://novaconsortium.org/",
   "description": "Nova Consortium is a research-driven organization building open-source tools for blockchain infrastructure, validator operations, and decentralized finance.",
   "logo": "https://i.ibb.co/Pz6JWpwb/image.png",
-  "x": "https://x.com/NovaConsortium"
+  "x": "https://x.com/NovaConsortium",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

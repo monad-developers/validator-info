@@ -6,5 +6,8 @@
   "website": "https://stake.laine.one/",
   "description": "High performance validator by SOL Strategies. ISO27001 & SOC2 Type I certified",
   "logo": "https://laine.one/images/ci/icon.png",
-  "x": "https://x.com/laine_sa_"
+  "x": "https://x.com/laine_sa_",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

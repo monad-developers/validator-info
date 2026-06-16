@@ -6,5 +6,8 @@
   "website": "https://everstake.one/",
   "description": "Everstake is the №1 staking infrastructure platform, trusted by retail and institutional clients worldwide. Committed to the highest standards of compliance, we deliver secure staking solutions across 85+ chains with a reliability rate of 99.98%",
   "logo": "https://everstake.one/logo.png",
-  "x": "https://twitter.com/everstake_pool"
+  "x": "https://twitter.com/everstake_pool",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

@@ -6,5 +6,8 @@
   "website": "https://www.posthuman.digital/",
   "description": "We are more than just a validator! We are here to contribute!",
   "logo": "https://user-images.githubusercontent.com/38581319/171294493-bf8b243c-94b5-4492-82bd-a1e9aed93420.png",
-  "x": "https://x.com/POSTHUMAN_DVS"
+  "x": "https://x.com/POSTHUMAN_DVS",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

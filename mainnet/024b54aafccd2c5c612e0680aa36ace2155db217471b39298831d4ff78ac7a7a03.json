@@ -6,5 +6,8 @@
   "website": "https://kukis-global.com",
   "description": "Reliable validator securing over $2B. Web3.0 infrastructure and service provider.",
   "logo": "https://www.kukis-global.com/assets/img/kg-logo.png",
-  "x": "https://x.com/kukisglobal"
+  "x": "https://x.com/kukisglobal",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

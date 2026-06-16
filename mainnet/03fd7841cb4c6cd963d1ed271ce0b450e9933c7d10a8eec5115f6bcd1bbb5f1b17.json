@@ -6,5 +6,8 @@
   "website": "https://www.ledger.com/",
   "description": "Ledger by P2P.org",
   "logo": "https://cdn.live.ledger.com/icons/ledger.png",
-  "x": "https://x.com/Ledger"
+  "x": "https://x.com/Ledger",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

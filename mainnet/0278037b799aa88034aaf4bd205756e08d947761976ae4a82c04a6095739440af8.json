@@ -6,5 +6,8 @@
   "website": "https://www.lavenderfive.com",
   "description": "Fortifying crypto networks with Horcrux security, slash insurance, and open source contributions. Connect with us at https://linktr.ee/lavenderfive. SOC 2 Type 2 Certification in progress.",
   "logo": "https://snapshots.lavenderfive.com/dropshare/LavenderFive_IconLarge.png",
-  "x": "https://x.com/lavender_five"
+  "x": "https://x.com/lavender_five",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

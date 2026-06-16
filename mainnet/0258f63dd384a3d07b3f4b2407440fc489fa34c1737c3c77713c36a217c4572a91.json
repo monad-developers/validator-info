@@ -6,5 +6,8 @@
   "website": "https://li.fi/",
   "description": "All Onchain Liquidity in one API",
   "logo": "https://li.fi/favicon.svg",
-  "x": "https://x.com/lifiprotocol"
+  "x": "https://x.com/lifiprotocol",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

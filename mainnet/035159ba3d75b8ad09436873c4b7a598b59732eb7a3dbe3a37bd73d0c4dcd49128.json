@@ -6,5 +6,8 @@
   "website": "https://stake.fish",
   "description": "We are the leading staking service provider for blockchain projects. Join our community to help secure networks and earn rewards. Stake. Earn. Relax.",
   "logo": "https://raw.githubusercontent.com/stakefish/stakefish-metadata/main/stakefish-logo.png",
-  "x": "https://x.com/stakefish"
+  "x": "https://x.com/stakefish",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }

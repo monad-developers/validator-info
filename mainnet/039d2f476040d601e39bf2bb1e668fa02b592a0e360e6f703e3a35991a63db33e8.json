@@ -6,5 +6,8 @@
   "website": "https://altlayer.io/",
   "description": "AltLayer is a decentralized protocol for rollups, providing Restaked Rollups with enhanced security, decentralization, and interoperability.",
   "logo": "https://files.altlayer.io/AltLayer-brand-kit/Token%20Icon/PNG/Token%20Icon_Purple_02.png",
-  "x": "https://x.com/alt_layer"
+  "x": "https://x.com/alt_layer",
+  "registration_date": "2026-01-01",
+  "decommissioned": false,
+  "vdp": true
 }
