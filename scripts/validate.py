@@ -34,7 +34,7 @@ def check_schema(test_data):
     with open(example_file, "r") as f:
         example = json.load(f)
 
-    optional_fields = {"logo", "registration_date", "decommissioned", "vdp"}
+    optional_fields = {"logo"}
     ok = True
     for key, example_value in example.items():
         if key not in test_data:
