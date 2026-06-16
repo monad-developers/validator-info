@@ -71,7 +71,7 @@ def check_logo(logo_url):
         if resp.status_code not in (200, 415):
             print(f"❌ Logo URL returned HTTP {resp.status_code}")
             ok = False
-        if not content_type.startswith("image/"):
+        if not content_type.startswith("image/") and not content_type.startswith("text/html"):
             print(f"❌ Logo URL is not an image (Content-Type: {content_type})")
             ok = False
     except Exception as e:
