@@ -6,5 +6,8 @@
   "website": "https://luckyresearch.org",
   "description": "LuckyReseach Labs Pro Staking Validator & Moderator. Stake with us! Generate a yield and your tokens stays on your wallet! Thank you",
   "logo": "https://s3.amazonaws.com/keybase_processed_uploads/a909f3ff9c8d6f39faecce3db77f6605_360_360.jpg",
-  "x": "https://x.com/LuckyResearchVN"
+  "x": "https://x.com/LuckyResearchVN",
+  "registration_date": "2026-02-04",
+  "decommissioned": false,
+  "vdp": true
 }

@@ -6,5 +6,8 @@
   "website": "https://luganodes.com/",
   "description": "Swiss-operated, non-custodial, institutional grade staking provider with $3Bn+ in assets, supporting 50+ PoS networks.",
   "logo": "https://static.lgns.xyz/logo.jpg",
-  "x": "https://x.com/luganodes"
+  "x": "https://x.com/luganodes",
+  "registration_date": "2025-07-15",
+  "decommissioned": false,
+  "vdp": true
 }

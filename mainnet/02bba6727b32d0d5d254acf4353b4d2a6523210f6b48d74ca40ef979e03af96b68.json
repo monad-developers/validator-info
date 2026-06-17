@@ -6,5 +6,8 @@
   "website": "https://www.meria.com/",
   "description": "French Crypto Investment Provider",
   "logo": "https://s3.amazonaws.com/keybase_processed_uploads/3fcc4caebb2c8e949829a7b090be3805_360_360.jpg",
-  "x": "https://x.com/Meria_Finance"
+  "x": "https://x.com/Meria_Finance",
+  "registration_date": "2025-11-06",
+  "decommissioned": false,
+  "vdp": true
 }

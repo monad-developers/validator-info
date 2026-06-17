@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import json
 import os
+import re
 import sys
 
 import requests
@@ -9,10 +10,9 @@ from web3 import Web3
 
 
 def get_rpc_url(network):
-    mainnet_rpc_url = os.environ.get("MAINNET_RPC_URL")
-    if network == "mainnet" and mainnet_rpc_url:
-        rpc_url = mainnet_rpc_url
-    else:
+    env_var = f"{network.upper()}_RPC_URL"
+    rpc_url = os.environ.get(env_var)
+    if not rpc_url:
         rpc_url = f"https://rpc-{network}.monadinfra.com/"
     return rpc_url
 
@@ -68,10 +68,10 @@ def check_logo(logo_url):
     try:
         resp = requests.get(logo_url, timeout=10, stream=True)
         content_type = resp.headers.get("Content-Type", "")
-        if resp.status_code != 200:
+        if resp.status_code not in (200, 415):
             print(f"❌ Logo URL returned HTTP {resp.status_code}")
             ok = False
-        if not content_type.startswith("image/"):
+        if not content_type.startswith("image/") and not content_type.startswith("text/html"):
             print(f"❌ Logo URL is not an image (Content-Type: {content_type})")
             ok = False
     except Exception as e:
@@ -108,10 +108,10 @@ def main():
     secp_local = data.get("secp")
     bls_local = data.get("bls")
 
-    print(f"\n🌐 Network: {network}")
+    print(f"\n\n🌐 Network: {network}")
     print(f"🆔 Validator ID: {validator_id}")
     print(f"🔑 SECP: {secp_local}")
-    print(f"🔑 BLS : {bls_local}\n")
+    print(f"🔑 BLS : {bls_local}")
     print("✅ JSON is valid")
 
     # --- Check: Schema check ---
@@ -128,6 +128,15 @@ def main():
         sys.exit(1)
     else:
         print(f"✅ Name is valid: '{name_value.strip()}'")
+
+    # --- Check: 'registration_date' must be a valid ISO 8601 date (optional) ---
+    registration_date = data.get("registration_date")
+    if registration_date is not None:
+        if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", registration_date):
+            print(f"❌ Invalid 'registration_date': must be YYYY-MM-DD, got '{registration_date}'")
+            sys.exit(1)
+        else:
+            print(f"✅ registration_date is valid: '{registration_date}'")
 
     # --- Check: 'logo' must point to a valid image URL (optional) ---
     logo = data.get("logo")

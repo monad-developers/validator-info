@@ -6,5 +6,8 @@
   "website": "https://krews.xyz/",
   "description": "Krews operates high-performance validators on leading PoS networks, ensuring security, decentralization, and network reliability.",
   "logo": "https://cloudflare-snapshots.krews.xyz/logo.png",
-  "x": "https://x.com/krewstake"
+  "x": "https://x.com/krewstake",
+  "registration_date": "2026-02-02",
+  "decommissioned": false,
+  "vdp": true
 }

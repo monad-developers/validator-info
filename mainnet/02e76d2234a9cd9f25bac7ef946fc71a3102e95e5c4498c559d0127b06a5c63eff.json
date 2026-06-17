@@ -6,5 +6,8 @@
   "website": "https://daic.capital/",
   "description": "The official validator node from Coinage (Coinage.Media) and DAIC (https://daic.capital/telegram)",
   "logo": "https://raw.githubusercontent.com/DAICers/coinage_x_daic/refs/heads/main/files/images/DAIC-CNG-Ape_360_moniker.png",
-  "x": "https://x.com/coinage_x_daic"
+  "x": "https://x.com/coinage_x_daic",
+  "registration_date": "2025-11-11",
+  "decommissioned": false,
+  "vdp": true
 }

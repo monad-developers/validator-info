@@ -6,5 +6,8 @@
   "website": "",
   "description": "Inactive",
   "logo": "https://placehold.co/200x200/ffffff/ffffff.png",
-  "x": ""
+  "x": "",
+  "registration_date": "2025-11-19",
+  "decommissioned": true,
+  "vdp": true
 }

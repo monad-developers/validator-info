@@ -6,5 +6,8 @@
   "website": "https://nadradar.com",
   "description": "Community-driven onchain analytics for nads, powered by Nodeinfra",
   "logo": "https://raw.githubusercontent.com/nodeinfra/publicinfo/refs/heads/main/nadradar.png",
-  "x": "https://x.com/nad_radar"
+  "x": "https://x.com/nad_radar",
+  "registration_date": "2025-11-17",
+  "decommissioned": false,
+  "vdp": true
 }

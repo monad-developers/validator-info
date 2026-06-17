@@ -6,5 +6,8 @@
   "website": "bbs.vldtr.xyz",
   "description": "Solo validator! Supporting Monad block by block",
   "logo": "https://avatars.githubusercontent.com/u/226050113",
-  "x": "https://x.com/ShavetheMFwhale"
+  "x": "https://x.com/ShavetheMFwhale",
+  "registration_date": "2025-11-13",
+  "decommissioned": false,
+  "vdp": true
 }

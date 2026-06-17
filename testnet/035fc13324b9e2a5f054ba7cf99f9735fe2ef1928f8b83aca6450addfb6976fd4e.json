@@ -6,5 +6,8 @@
   "website": "https://emberstake.xyz/",
   "description": "Highly Available Cloud-Native Validator Nodes with Remote Signing and Distributed Monitoring for Enhanced Security and Reliability",
   "logo": "https://emberstake.xyz/logo.png",
-  "x": "https://x.com/Ember_Stake"
+  "x": "https://x.com/Ember_Stake",
+  "registration_date": "2025-11-07",
+  "decommissioned": false,
+  "vdp": true
 }

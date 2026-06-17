@@ -6,5 +6,8 @@
   "website": "https://declab.pro",
   "description": "Application development team and professional PoS validator.",
   "logo": "https://n552yjkekid7nc3enida3bvnmxcob75vzifdxr2fcouhimhaqfdq.ardrive.net/b3usJURSB_aLZGoGDYatZcTg_7XKCjvHRROodDDggUc",
-  "x": "https://x.com/NodesLab"
+  "x": "https://x.com/NodesLab",
+  "registration_date": "2026-04-03",
+  "decommissioned": false,
+  "vdp": true
 }

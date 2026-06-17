@@ -6,5 +6,8 @@
   "website": "https://stakecito.com/",
   "description": "Securing & Decentralizing PoS Networks.",
   "logo": "https://raw.githubusercontent.com/stakecito/resources/34e618b84bb4c0225d216cfd837087167d839c17/logo_stakecito.jpeg",
-  "x": "https://x.com/stakecito"
+  "x": "https://x.com/stakecito",
+  "registration_date": "2025-11-14",
+  "decommissioned": false,
+  "vdp": true
 }

@@ -6,5 +6,8 @@
   "website": "https://tienthuattoan.com",
   "description": "Vietnam's largest community validator, offering validation services, educational resources, and market penetration in the Vietnamese crypto market.",
   "logo": "https://insights.tienthuattoan.com/assets/logo/TTT-1024.png",
-  "x": "https://x.com/ttt_lab"
+  "x": "https://x.com/ttt_lab",
+  "registration_date": "2025-11-06",
+  "decommissioned": false,
+  "vdp": true
 }

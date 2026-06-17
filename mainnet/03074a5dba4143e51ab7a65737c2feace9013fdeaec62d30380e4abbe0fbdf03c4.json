@@ -6,5 +6,8 @@
   "website": "https://www.lunarstrategy.com/",
   "description": "Since 2019, Lunar Strategy has served as a node validator and marketing firm in crypto, supporting growth with creative campaigns, content, and creators strategies — alongside reliable validation to enhance project trust.",
   "logo": "https://s3.amazonaws.com/keybase_processed_uploads/a9fcfdbe58f2876b7610824f84725205_360_360.jpg",
-  "x": "https://x.com/LunarStrategy"
+  "x": "https://x.com/LunarStrategy",
+  "registration_date": "2026-02-12",
+  "decommissioned": false,
+  "vdp": true
 }

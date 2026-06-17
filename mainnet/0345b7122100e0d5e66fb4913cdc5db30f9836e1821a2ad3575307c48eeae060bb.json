@@ -6,5 +6,8 @@
   "website": "https://trusted-point.com",
   "description": "Stake with confidence. TrustedPoint brings top-tier reliability, decentralization, and security to PoS blockchains.",
   "logo": "https://trusted-point.s3.amazonaws.com/logo/TrustedPointGoldAndRedWithBackground.png",
-  "x": "https://x.com/Trusted_Point"
+  "x": "https://x.com/Trusted_Point",
+  "registration_date": "2025-11-11",
+  "decommissioned": false,
+  "vdp": true
 }

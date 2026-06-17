@@ -1,220 +1,134 @@
 #!/usr/bin/env python3
-import json
-import os
-import sys
-import glob
 import argparse
-
-import requests
-from staking_sdk_py.callGetters import call_getter
-from web3 import Web3
+import os
+import subprocess
+import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 BASE_DIR = os.path.split(os.path.dirname(os.path.abspath(__file__)))[0]
+VALIDATE_SCRIPT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "validate.py")
+NETWORKS = ("mainnet", "testnet")
+
+_COLOR = (sys.stdout.isatty() or bool(os.environ.get("GITHUB_ACTIONS"))) and not os.environ.get("NO_COLOR")
+
+def _c(code):
+    return code if _COLOR else ""
+
+RESET   = _c("\033[0m")
+BOLD    = _c("\033[1m")
+DIM     = _c("\033[2m")
+# Monad brand palette (24-bit)
+PURPLE  = _c("\033[38;2;110;84;255m")    # #6E54FF — primary
+LPURPLE = _c("\033[38;2;221;215;254m")   # #DDD7FE — light purple
+CYAN    = _c("\033[38;2;133;230;255m")   # #85E6FF
+PINK    = _c("\033[38;2;255;142;228m")   # #FF8EE4
+ORANGE  = _c("\033[38;2;255;174;69m")    # #FFAE45
+WHITE   = _c("\033[97m")
 
 
-def get_rpc_url(network):
-    mainnet_rpc_url = os.environ.get("MAINNET_RPC_URL")
-    if network == "mainnet" and mainnet_rpc_url:
-        rpc_url = mainnet_rpc_url
-    else:
-        rpc_url = f"https://rpc-{network}.monadinfra.com/"
-    return rpc_url
+def get_all_files(network):
+    folder = os.path.join(BASE_DIR, network)
+    return [
+        (network, f, os.path.join(folder, f))
+        for f in sorted(os.listdir(folder))
+        if f.endswith(".json") and "validators" not in f
+    ]
 
 
-def get_validator_keys(id, network):
-    """Return the on-chain data for a given validator"""
-    staking_contract_address = "0x0000000000000000000000000000000000001000"
-    w3 = Web3(Web3.HTTPProvider(get_rpc_url(network)))
-    validator_info = call_getter(w3, "get_validator", staking_contract_address, id)
-    secp = validator_info[10].hex()
-    bls = validator_info[11].hex()
-    return secp, bls
+def resolve_files(args):
+    if args.paths:
+        files = []
+        for path in args.paths:
+            parts = path.replace("\\", "/").strip("/").split("/")
+            network = next((p for p in parts if p in NETWORKS), None)
+            if not network:
+                print(f"{ORANGE}⚠  Cannot determine network from path: {path}{RESET}", file=sys.stderr)
+                continue
+            filename = parts[-1]
+            if not filename.endswith(".json"):
+                filename += ".json"
+            files.append((network, filename, os.path.join(BASE_DIR, network, filename)))
+        return files
 
-
-def check_schema(test_data):
-    """Ensure that test_data has same structure and value types as the example schema"""
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    example_file = f"{script_dir}/../example/000000000000000000000000000000000000000000000000000000000000000000.json"
-    with open(example_file, "r") as f:
-        example = json.load(f)
-
-    ok = True
-    output = []
-
-    for key, example_value in example.items():
-        if key not in test_data:
-            output.append(f"❌ Missing field: '{key}'")
-            ok = False
-            continue
-        test_value = test_data[key]
-        if type(test_value) is not type(example_value):
-            output.append(
-                f"❌ Type mismatch for '{key}': expected {type(example_value).__name__}, got {type(test_value).__name__}"
-            )
-            ok = False
-    # Extra keys not in example
-    for key in test_data.keys():
-        if key not in example:
-            output.append(f"⚠️ Extra field not in schema: '{key}'")
-    return ok, output
-
-
-def check_logo(logo_url):
-    ok = True
-    output = []
-
-    if not isinstance(logo_url, str) or not logo_url.strip():
-        output.append("❌ Invalid 'logo': field is missing or empty")
-        ok = False
-    if not logo_url.startswith("https://"):
-        output.append("❌ Invalid 'logo': must start with https://")
-        ok = False
-
-    try:
-        resp = requests.get(logo_url, timeout=10, stream=True)
-        content_type = resp.headers.get("Content-Type", "")
-        if resp.status_code != 200:
-            output.append(f"❌ Logo URL returned HTTP {resp.status_code}")
-            ok = False
-        if not content_type.startswith("image/"):
-            output.append(f"❌ Logo URL is not an image (Content-Type: {content_type})")
-            ok = False
-    except Exception as e:
-        output.append(f"❌ Failed to fetch logo: {e}")
-        ok = False
-    return ok, output
-
-
-# filename ends with .json
-def check_filename(network, filename):
-    file = os.path.join(BASE_DIR, network, filename)
-    basename = os.path.basename(filename)
-
-    output = []
-    is_valid = True
- 
-    # --- Check 0: ensure JSON is loadable ---
-    try:
-        with open(file, "r") as f:
-            content = f.read()
-        data = json.loads(content)
-    except json.JSONDecodeError as e:
-        output.append(f"❌ Invalid JSON format: {e}")
-        return False, output
-    except Exception as e:
-        output.append(f"❌ Failed to read file: {e}")
-        return False, output
-
-    validator_id = data.get("id")
-    if "id" not in data:
-        output.append("❌ Missing 'id' field")
-        return False, output
-    
-    if data["id"] is None:
-        output.append("❌ 'id' field must not be null")
-        return False, output
-    
-    secp_local = data.get("secp")
-    bls_local = data.get("bls")
-
-    output.append(f"\n🌐 Network: {network}")
-    output.append(f"🆔 Validator ID: {validator_id}")
-    output.append(f"🔑 SECP: {secp_local}")
-    output.append(f"🔑 BLS : {bls_local}\n")
-    output.append("✅ JSON is valid")
-
-    # --- Check: Schema check ---
-    schema_ok, schema_output = check_schema(data)
-    if schema_ok:
-        output.append("✅ Schema and types match")
-    else:
-        output.extend(schema_output)
-        output.append("❌ Schema check failed")
-        return False, output
-
-    # --- Check: 'name' field must not be empty ---
-    name_value = data.get("name", "")
-    if not isinstance(name_value, str) or not name_value.strip():
-        output.append("❌ Invalid 'name': field is empty or missing")
-        is_valid = False
-    else:
-        output.append(f"✅ Name is valid: '{name_value.strip()}'")
-
-    # --- Check: 'logo' must point to a valid image URL ---
-    logo = data.get("logo")
-    logo_ok, logo_output = check_logo(logo)
-    if logo_ok:
-        output.append("✅ Logo is valid")
-    else:
-        output.extend(logo_output)
-        output.append(f"❌ Logo {logo} check failed")
-        is_valid = False
-
-    # --- Check: on-chain keys must match payload keys
-    secp_chain, bls_chain = get_validator_keys(validator_id, network)
-    if secp_chain != secp_local:
-        output.append(f"❌ SECP mismatch:\n   local={secp_local}\n   chain={secp_chain}")
-        is_valid = False
-    else:
-        output.append("✅ SECP key matches on-chain value")
-    if bls_chain != bls_local:
-        output.append(f"❌ BLS mismatch:\n   local={bls_local}\n   chain={bls_chain}")
-        is_valid = False
-    else:
-        output.append("✅ BLS key matches on-chain value")
-
-    # --- Check: filename must match "<secp>.json"
-    expected_filename = f"{secp_local}.json"
-    if basename != expected_filename:
-        output.append(f"❌ Filename mismatch: expected '{expected_filename}', got '{basename}'")
-        is_valid = False
-    else:
-        output.append("✅ Filename matches secp key")
-
-    if is_valid:
-        output.append("\n🎉 Validation successful!")
-    return is_valid, output
-
-
-def get_all_filenames(network):
-    network_folder = os.path.join(BASE_DIR, network)
-    filenames = sorted(os.listdir(network_folder))
-    return [x for x in filenames if x.endswith('.json')]
+    if args.network:
+        return get_all_files(args.network)
+    return get_all_files("mainnet") + get_all_files("testnet")
 
 
 def main():
-    parser = argparse.ArgumentParser(description='Validate a validator JSON file')
-    parser.add_argument('--filenames', '-f', type=str, nargs='+')
-    parser.add_argument('--network', '-n', type=str, default='mainnet')
-    parser.add_argument('--verbose', '-v', action='store_true')
+    parser = argparse.ArgumentParser(description="Run validate.py on multiple validator files")
+    parser.add_argument("paths", nargs="*", help="Full paths like mainnet/foo.json or testnet/bar.json")
+    parser.add_argument("--network", "-n", type=str, default=None, choices=["mainnet", "testnet"])
+    parser.add_argument("--verbose", "-v", action="store_true")
+    parser.add_argument("--workers", "-w", type=int, default=20)
     args = parser.parse_args()
-    network = args.network
-    verbose = args.verbose
 
-    if args.filenames is None:
-        filenames = get_all_filenames(network)
+    files = resolve_files(args)
+    total = len(files)
+
+    counts = {}
+    for network, _, _ in files:
+        counts[network] = counts.get(network, 0) + 1
+
+    sep = f"{PURPLE}{'─' * 48}{RESET}"
+    print(f"\n{sep}")
+    print(f"  {BOLD}{WHITE}◆ monad{RESET}  {DIM}validator check{RESET}")
+    print(sep)
+    for network, count in sorted(counts.items()):
+        dot = "◆" if _COLOR else "-"
+        dot_color = PURPLE if network == "mainnet" else CYAN
+        print(f"  {dot_color}{dot}{RESET}  {WHITE}{network:<12}{RESET}{LPURPLE}{count} validators{RESET}")
+    print(f"  {DIM}{'─' * 28}{RESET}")
+    print(f"  {'':>3}{DIM}total        {RESET}{BOLD}{WHITE}{total}{RESET}")
+    print(f"{sep}\n")
+
+    failures = []
+
+    def validate(network, filename, filepath):
+        result = subprocess.run(
+            [sys.executable, VALIDATE_SCRIPT, filepath],
+            capture_output=True,
+            text=True,
+        )
+        return network, filename, result
+
+    done = 0
+    with ThreadPoolExecutor(max_workers=args.workers) as executor:
+        futures = {executor.submit(validate, *f): f for f in files}
+        for future in as_completed(futures):
+            network, filename, result = future.result()
+            done += 1
+            pct = int(done / total * 100)
+            bar = int(pct / 5)
+            if _COLOR:
+                bar_str = f"{PURPLE}{'█' * bar}{DIM}{'░' * (20 - bar)}{RESET}"
+            else:
+                bar_str = f"[{'#' * bar}{' ' * (20 - bar)}]"
+            if result.returncode != 0:
+                status = f"{PINK}✗{RESET}"
+                label = f"{PINK}{network}/{filename}{RESET}"
+                failures.append((network, filename, result))
+            else:
+                status = f"{CYAN}✓{RESET}"
+                label = f"{DIM}{network}/{filename}{RESET}"
+            print(f"  {bar_str} {DIM}{pct:3d}%{RESET}  {status}  {label}")
+            if result.returncode == 0 and args.verbose:
+                print(result.stdout)
+
+    print()
+    if failures:
+        print(f"{PINK}{'─' * 48}{RESET}")
+        print(f"  {BOLD}{PINK}✗  {len(failures)} file(s) failed{RESET}")
+        print(f"{PINK}{'─' * 48}{RESET}\n")
+        for network, filename, result in failures:
+            print(f"  {BOLD}{WHITE}{network}/{filename}{RESET}")
+            print(f"{DIM}{'─' * 40}{RESET}")
+            print(result.stdout)
+            if result.stderr:
+                print(f"{ORANGE}{result.stderr}{RESET}")
+        sys.exit(1)
     else:
-        filenames = args.filenames
-        filenames = [f + '.json' if not f.endswith('.json') else f for f in filenames]
-
-    problems = []
-    outputs = []
-    
-    for filename in filenames:
-        print('checking %s' % filename)
-        is_valid, output = check_filename(network, filename)
-        if not is_valid:
-            problems.append(filename)
-        if not is_valid or verbose:
-            outputs.append('\n'.join(output))
-
-    print('\n\n'.join(outputs))
-
-    if len(problems) > 0:
-        raise Exception(f"❌ Validation failed for {len(problems)} files: {' '.join(problems)}")
-    else:
-        print("✅ Validation successful!")
-
+        print(f"  {BOLD}{CYAN}✓  All {total} validators passed!{RESET}\n")
 
 
 if __name__ == "__main__":

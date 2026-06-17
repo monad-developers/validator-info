@@ -6,5 +6,8 @@
   "website": "https://x.com/badfriend",
   "description": "Validating solo and spinning records",
   "logo": "https://raw.githubusercontent.com/discodirector/brand-kit/refs/heads/main/photo_2024-04-11_02-02-30.jpg",
-  "x": "https://x.com/badfriend"
+  "x": "https://x.com/badfriend",
+  "registration_date": "2026-02-21",
+  "decommissioned": false,
+  "vdp": true
 }

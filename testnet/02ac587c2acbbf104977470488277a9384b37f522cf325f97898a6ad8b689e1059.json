@@ -6,5 +6,8 @@
   "website": "https://www.hextrust.com/",
   "description": "Hex Trust is a fully licensed digital asset custodian dedicated to providing solutions for protocols, foundations, financial institutions, and the Web3 ecosystem.",
   "logo": "https://raw.githubusercontent.com/BCWResearch/bcw-logo/refs/heads/main/trust.jpg",
-  "x": "https://x.com/Hex_Trust"
+  "x": "https://x.com/Hex_Trust",
+  "registration_date": "2025-12-18",
+  "decommissioned": true,
+  "vdp": true
 }

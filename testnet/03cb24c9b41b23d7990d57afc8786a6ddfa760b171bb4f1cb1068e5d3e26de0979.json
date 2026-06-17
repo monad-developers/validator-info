@@ -6,5 +6,8 @@
   "website": "https://service.winsnip.xyz",
   "description": "Professional validator operated by Winsnip — a community-driven tech entity providing staking services, public RPC infrastructure, and Web3 education. Committed to decentralization, security, and transparency across the blockchain ecosystem.",
   "logo": "https://raw.githubusercontent.com/winsnip-official/winsnip-kit/refs/heads/main/winsnip.jpg",
-  "x": "https://x.com/winsnip"
+  "x": "https://x.com/winsnip",
+  "registration_date": "2026-02-02",
+  "decommissioned": false,
+  "vdp": true
 }

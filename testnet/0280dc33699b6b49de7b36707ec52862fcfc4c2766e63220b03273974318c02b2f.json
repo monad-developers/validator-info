@@ -5,6 +5,8 @@
   "bls": "81a0343c85e1474532e057f81f2cb205d26901e2493d53adda925da3bf5e129ff79ecfb8d7c5b18129e838ca0e7a4267",
   "website": "",
   "description": "",
-  "logo": "",
-  "x": ""
+  "x": "",
+  "registration_date": "2025-12-18",
+  "decommissioned": false,
+  "vdp": true
 }

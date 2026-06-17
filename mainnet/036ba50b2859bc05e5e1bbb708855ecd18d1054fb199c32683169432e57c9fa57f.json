@@ -6,5 +6,8 @@
   "website": "https://figment.io",
   "description": "Figment is the leading institutional staking provider serving more than 700 institutional clients with enterprise-grade validators on 40+ Proof of Stake protocols. We offer seamless staking integrations, audited infrastructure, robust rewards data, and more.",
   "logo": "https://figment-logo.s3.ca-central-1.amazonaws.com/Figment-logo.png",
-  "x": "https://x.com/Figment_io"
+  "x": "https://x.com/Figment_io",
+  "registration_date": "2025-11-17",
+  "decommissioned": false,
+  "vdp": true
 }

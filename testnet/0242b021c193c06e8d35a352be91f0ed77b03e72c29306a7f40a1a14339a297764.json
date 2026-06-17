@@ -6,5 +6,8 @@
   "website": "https://rhinostake.com",
   "description": "Blockchain infrastructure at institutional standards. Multi-region reliability, enterprise SLAs, and slash protection insurance. We build trust into every block.",
   "logo": "https://snapshots.rhinostake.com/rhinoshare/RhinoLogoFilled.Dark.png",
-  "x": "https://x.com/rhinostake"
+  "x": "https://x.com/rhinostake",
+  "registration_date": "2025-12-18",
+  "decommissioned": false,
+  "vdp": true
 }

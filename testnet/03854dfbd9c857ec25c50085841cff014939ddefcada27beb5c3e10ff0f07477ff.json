@@ -6,5 +6,8 @@
   "website": "https://goldsky.com/",
   "description": "Goldsky Testnet Validator",
   "logo": "https://goldsky.com/images/favicon.svg",
-  "x": "https://x.com/goldskyio"
+  "x": "https://x.com/goldskyio",
+  "registration_date": "2025-11-20",
+  "decommissioned": false,
+  "vdp": true
 }

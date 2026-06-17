@@ -6,5 +6,8 @@
   "website": "",
   "description": "MSC-Industries operates reliable infrastructure backed by many years of experience running production validators across multiple blockchain ecosystems",
   "logo": "https://img.freepik.com/premium-vector/modern-msc-logo-design-letter-msc-minimalist-professional-versatile-branding-icon-business-identity_1101554-99983.jpg",
-  "x": ""
+  "x": "",
+  "registration_date": "2026-02-02",
+  "decommissioned": false,
+  "vdp": true
 }

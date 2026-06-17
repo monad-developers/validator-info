@@ -6,5 +6,8 @@
   "website": "https://pinestake.com",
   "description": "Supporting the decentralization of the Monad network in Brazil while empowering stakers, artists, and developers.",
   "logo": "https://www.pinestake.com/logo.png",
-  "x": "https://x.com/pinestake"
+  "x": "https://x.com/pinestake",
+  "registration_date": "2026-05-01",
+  "decommissioned": false,
+  "vdp": true
 }

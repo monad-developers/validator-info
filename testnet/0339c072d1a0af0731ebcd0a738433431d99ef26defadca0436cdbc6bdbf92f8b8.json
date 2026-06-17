@@ -6,5 +6,8 @@
   "website": "https://buildernode.org/",
   "description": "BuilderNode provides enterprise-grade blockchain validation and infrastructure services. Secure, reliable, and high-performance staking.",
   "logo": "https://github.com/buildernode/logo/raw/refs/heads/main/BuilderNode.png",
-  "x": "https://x.com/BuilderNode"
+  "x": "https://x.com/BuilderNode",
+  "registration_date": "2026-04-27",
+  "decommissioned": false,
+  "vdp": true
 }

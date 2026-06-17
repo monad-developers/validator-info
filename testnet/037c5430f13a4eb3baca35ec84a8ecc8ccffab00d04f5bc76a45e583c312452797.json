@@ -6,5 +6,8 @@
   "website": "https://chainode.tech/",
   "description": "Chainode Tech is your reliable Swiss-based partner for Distributed Ledger Technology (DLT) staking and validation services",
   "logo": "https://chainode.tech/img/logo.svg",
-  "x": "https://x.com/ChainodeTech"
+  "x": "https://x.com/ChainodeTech",
+  "registration_date": "2025-07-22",
+  "decommissioned": false,
+  "vdp": true
 }

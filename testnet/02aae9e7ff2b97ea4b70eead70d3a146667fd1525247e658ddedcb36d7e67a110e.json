@@ -6,5 +6,8 @@
   "website": "https://ledgerwise.io/",
   "description": "We are among the very few staking service entities emerging from Indian Blockchain ecosystem. We bring the experience of more than 20+ years in infrastructure space and 6+ years in Blockchain and Governance. Radical Truth and Transparency is at the core of our values, along with striving for excellence.",
   "logo": "https://ledgerwise.io/img/icon1024.png",
-  "x": "https://x.com/ledgerwiseio"
+  "x": "https://x.com/ledgerwiseio",
+  "registration_date": "2025-12-02",
+  "decommissioned": false,
+  "vdp": true
 }

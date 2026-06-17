@@ -6,5 +6,8 @@
   "website": "https://www.stakingcabin.com",
   "description": "StakingCabin offer enterprise-level, highly secure infrastructure services for public blockchain protocols.",
   "logo": "https://cdn.jsdelivr.net/gh/stakingcabin/stakingcabin@main/assets/logo512.png",
-  "x": "https://x.com/StakingCabin"
+  "x": "https://x.com/StakingCabin",
+  "registration_date": "2025-11-06",
+  "decommissioned": false,
+  "vdp": true
 }

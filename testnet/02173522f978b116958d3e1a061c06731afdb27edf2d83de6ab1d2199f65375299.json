@@ -6,5 +6,8 @@
   "website": "https://artifact-systems.io",
   "description": "High-performance Web3 infrastructure company that provides enterprise-grade RPC, validation, zkProver, and managed GPU compute services",
   "logo": "https://pbs.twimg.com/profile_images/1428391408369549327/Ki-VsqOo_400x400.jpg",
-  "x": "https://x.com/artifactstaking"
+  "x": "https://x.com/artifactstaking",
+  "registration_date": "2025-07-15",
+  "decommissioned": false,
+  "vdp": true
 }

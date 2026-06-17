@@ -6,5 +6,8 @@
   "website": "https://www.paradisenodes.xyz/",
   "description": "Fast runners of blockchain",
   "logo": "https://raw.githubusercontent.com/kookin/paradise-nodes-public/main/pn-logo.png",
-  "x": "https://x.com/paradisenodes"
+  "x": "https://x.com/paradisenodes",
+  "registration_date": "2026-02-05",
+  "decommissioned": false,
+  "vdp": true
 }

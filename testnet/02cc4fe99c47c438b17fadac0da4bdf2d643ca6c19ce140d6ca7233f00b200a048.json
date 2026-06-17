@@ -6,5 +6,8 @@
   "website": "https://chaindigital.tech/",
   "description": "Innovative staking provider and relayer for blockchain ecosystems. Reliable nodes, multi-network solutions, and 24/7 support.",
   "logo": "https://raw.githubusercontent.com/chaindigital/logo/main/CD.png",
-  "x": "https://x.com/ChainEcoSignals"
+  "x": "https://x.com/ChainEcoSignals",
+  "registration_date": "2026-02-23",
+  "decommissioned": false,
+  "vdp": true
 }

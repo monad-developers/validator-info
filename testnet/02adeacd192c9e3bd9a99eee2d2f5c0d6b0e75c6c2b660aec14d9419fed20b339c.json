@@ -6,5 +6,8 @@
   "website": "https://asterizm.io/",
   "description": "Asterizm is a cross-chain communication protocol enabling decentralized messaging between blockchains.",
   "logo": "https://raw.githubusercontent.com/Asterizm-Protocol/asterizm-contracts-evm/master/data/asterizm-logo-round-dark.png",
-  "x": "https://x.com/Asterizm_layer"
+  "x": "https://x.com/Asterizm_layer",
+  "registration_date": "2026-04-15",
+  "decommissioned": false,
+  "vdp": true
 }

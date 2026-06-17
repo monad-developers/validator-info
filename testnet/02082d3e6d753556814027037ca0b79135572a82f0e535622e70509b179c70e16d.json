@@ -6,5 +6,8 @@
   "website": "https://despread.io/",
   "description": "We provide refined perspective for Web3 pioneers. Founded in 2019, DeSpread is a consulting firm specializing in Web3 & blockchain. It actively contributes to Web3’s mass adoption by supporting the growth of various startups and protocols.",
   "logo": "https://raw.githubusercontent.com/DeSpread/despread-assets/main/logo.png",
-  "x": "https://x.com/despreadlabs"
+  "x": "https://x.com/despreadlabs",
+  "registration_date": "2025-11-06",
+  "decommissioned": false,
+  "vdp": true
 }

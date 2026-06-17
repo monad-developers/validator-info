@@ -6,5 +6,8 @@
   "website": "https://nomadz.xyz",
   "description": "Web3-native travel aggregator.",
   "logo": "https://dbe7z6l3hnxemv33crsbun4rdq4wklp6hjtanjwbmmy3gpmbc2fa.ardrive.net/GEn8-Xs7bkZXexRkGjeRHDllLf46ZgamwWMxsz2BFoo",
-  "x": "https://x.com/nomadzxyz"
+  "x": "https://x.com/nomadzxyz",
+  "registration_date": "2026-03-24",
+  "decommissioned": false,
+  "vdp": true
 }

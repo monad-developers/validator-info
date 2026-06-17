@@ -6,5 +6,8 @@
   "website": "https://www.allnodes.com",
   "description": "Reliable non-custodial Validator run by the industry leader - Allnodes",
   "logo": "https://www.allnodes.com/assets/logo.png",
-  "x": "https://x.com/allnodes"
+  "x": "https://x.com/allnodes",
+  "registration_date": "2025-11-22",
+  "decommissioned": false,
+  "vdp": true
 }

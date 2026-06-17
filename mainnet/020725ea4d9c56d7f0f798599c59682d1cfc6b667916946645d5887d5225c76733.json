@@ -6,5 +6,8 @@
   "website": "https://cogentcrypto.io",
   "description": "High performance validator by SOL Strategies. ISO27001 & SOC2 Type I certified",
   "logo": "https://img.solstrategies.io/cogent.jpg",
-  "x": "https://x.com/Cogent_Crypto"
+  "x": "https://x.com/Cogent_Crypto",
+  "registration_date": "2025-09-23",
+  "decommissioned": false,
+  "vdp": true
 }

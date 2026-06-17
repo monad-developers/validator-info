@@ -6,5 +6,8 @@
   "website": "https://gemini.com/staking",
   "description": "Gemini provides secure, compliant, and resilient validator infrastructure - trusted by institutions and individuals to keep their assets safe and earning rewards.",
   "logo": "https://www.gemini.com/static/images/gemini-orange@360x360.png",
-  "x": "https://x.com/Gemini"
+  "x": "https://x.com/Gemini",
+  "registration_date": "2025-11-11",
+  "decommissioned": false,
+  "vdp": true
 }

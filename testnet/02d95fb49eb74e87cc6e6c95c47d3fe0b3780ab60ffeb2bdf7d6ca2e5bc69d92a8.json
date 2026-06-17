@@ -6,5 +6,8 @@
   "website": "https://openbitlab.com/",
   "description": "Proudly staking assets since 2016",
   "logo": "https://openbitlab.com/img/logo.png",
-  "x": "https://x.com/Openbitlab_node/"
+  "x": "https://x.com/Openbitlab_node/",
+  "registration_date": "2026-03-30",
+  "decommissioned": false,
+  "vdp": true
 }

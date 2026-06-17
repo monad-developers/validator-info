@@ -6,5 +6,8 @@
   "website": "https://swissstarnode.tech/",
   "description": "An independent validator from Switzerland",
   "logo": "https://swissstarnode.tech/images/http___swissstarnode.png",
-  "x": "https://x.com/swissstar_node"
+  "x": "https://x.com/swissstar_node",
+  "registration_date": "2025-11-06",
+  "decommissioned": false,
+  "vdp": true
 }

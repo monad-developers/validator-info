@@ -6,5 +6,8 @@
   "website": "https://medium-validator.com/",
   "description": "Individual staking services",
   "logo": "https://medium-validator.com/logo.png",
-  "x": "http://x.com/mediumwe111"
+  "x": "http://x.com/mediumwe111",
+  "registration_date": "2026-02-06",
+  "decommissioned": false,
+  "vdp": true
 }

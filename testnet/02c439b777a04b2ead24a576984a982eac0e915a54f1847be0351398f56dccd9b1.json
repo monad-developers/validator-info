@@ -6,5 +6,8 @@
   "website": "https://cassini.living/",
   "description": "Monad community validator for testnet re-genesis",
   "logo": "https://raw.githubusercontent.com/ccassini/tesnet-2/main/cassini-logo.png",
-  "x": "https://x.com/Cassini0x"
+  "x": "https://x.com/Cassini0x",
+  "registration_date": "2025-12-16",
+  "decommissioned": false,
+  "vdp": true
 }

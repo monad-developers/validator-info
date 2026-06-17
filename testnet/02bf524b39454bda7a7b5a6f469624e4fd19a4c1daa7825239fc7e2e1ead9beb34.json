@@ -6,5 +6,8 @@
   "website": "https://0xmakase.co.jp/",
   "description": "KudasaiJP/Omakase is a professional staking and validation service. We also contribute to innovative projects via marketing and development support.",
   "logo": "https://raw.githubusercontent.com/0xmakase/monad-validator-info/master/config/logo.png",
-  "x": "https://x.com/0xmakase_jp"
+  "x": "https://x.com/0xmakase_jp",
+  "registration_date": "2025-11-11",
+  "decommissioned": false,
+  "vdp": true
 }

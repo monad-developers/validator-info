@@ -6,5 +6,8 @@
   "website": "https://kamunagi.xyz/",
   "description": "Kamunagi is a validator for a startup oracle project. It is developed in C/C++ and is extremely fast, creating strong synergy with high-performance blockchain networks.",
   "logo": "https://www.kamunagi.xyz/logo/kamunagi.png",
-  "x": "https://x.com/kamunagi_xyz"
+  "x": "https://x.com/kamunagi_xyz",
+  "registration_date": "2026-01-19",
+  "decommissioned": false,
+  "vdp": true
 }

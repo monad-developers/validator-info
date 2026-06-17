@@ -6,5 +6,8 @@
   "website": "https://tservices.es/",
   "description": "TServices provides secure, decentralized, and high-performance blockchain validation, engineered for low latency and maximum reliability.",
   "logo": "https://tservices.es/logo.png",
-  "x": ""
+  "x": "",
+  "registration_date": "2026-02-02",
+  "decommissioned": false,
+  "vdp": true
 }

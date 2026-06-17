@@ -6,5 +6,8 @@
   "website": "https://www.kraken.com",
   "description": "Powering Kraken Earn - the crypto platform for smarter investing.",
   "logo": "https://s3.amazonaws.com/keybase_processed_uploads/9d5ddb4ba450ba6793592fef2d263b05_360_360.jpg",
-  "x": "https://x.com/krakenfx/"
+  "x": "https://x.com/krakenfx/",
+  "registration_date": "2025-11-14",
+  "decommissioned": false,
+  "vdp": true
 }

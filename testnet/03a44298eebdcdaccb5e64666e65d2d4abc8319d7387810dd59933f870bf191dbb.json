@@ -6,5 +6,8 @@
   "website": "https://pumpkinspool.com",
   "description": "Pumpkin’s Pool runs high-performance bare metal Monad infrastructure with production-grade monitoring and fast response, and donates a portion of rewards to animal welfare.",
   "logo": "https://raw.githubusercontent.com/bartenbach/pumpkins_pool/refs/heads/main/assets/iPhone.png",
-  "x": "https://x.com/pumpkinspool"
+  "x": "https://x.com/pumpkinspool",
+  "registration_date": "2026-02-08",
+  "decommissioned": false,
+  "vdp": true
 }

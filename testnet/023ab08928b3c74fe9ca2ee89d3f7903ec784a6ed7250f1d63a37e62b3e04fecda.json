@@ -6,5 +6,8 @@
   "website": "https://atlasstaking.com",
   "description": "Where your crypto works as hard as you do",
   "logo": "https://atlasstaking.com/atlas-staking.png",
-  "x": "https://x.com/AtlasStaking"
+  "x": "https://x.com/AtlasStaking",
+  "registration_date": "2026-05-01",
+  "decommissioned": false,
+  "vdp": true
 }

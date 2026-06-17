@@ -6,5 +6,8 @@
   "website": "https://cdef-inc.com",
   "description": "CDEF is a design engineering company, embedded software and security.",
   "logo": "https://cdef-inc.com/wp-content/uploads/2026/04/logoL.png",
-  "x": "https://x.com/0x0000Cdef"
+  "x": "https://x.com/0x0000Cdef",
+  "registration_date": "2026-04-08",
+  "decommissioned": false,
+  "vdp": true
 }

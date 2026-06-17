@@ -5,6 +5,8 @@
   "bls": "89b47e120e19ba8a4b37097266cbe8d03b86a634243c1fa3602b5976fd6fc872838986f5c0b12e2713fc574ff542eb68",
   "website": "https://linkpool.com",
   "description": "LinkPool is a leading blockchain infrastructure provider specializing in node operations and data services.",
-  "logo": "https://eth-holesky-eigenlayer-metadata.public.linkpool.io/lp-logo.png",
-  "x": "https://x.com/linkpoolio"
+  "x": "https://x.com/linkpoolio",
+  "registration_date": "2026-02-10",
+  "decommissioned": false,
+  "vdp": true
 }

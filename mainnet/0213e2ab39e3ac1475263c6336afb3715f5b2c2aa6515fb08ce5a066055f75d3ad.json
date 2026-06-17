@@ -6,5 +6,8 @@
   "website": "https://data.nexus/",
   "description": "Powering decentralized applications with data services and validation",
   "logo": "https://avatars.githubusercontent.com/u/105833344",
-  "x": "https://x.com/data_nexus"
+  "x": "https://x.com/data_nexus",
+  "registration_date": "2026-04-06",
+  "decommissioned": false,
+  "vdp": true
 }

@@ -6,5 +6,8 @@
   "website": "https://decentra.cloud/",
   "description": "Crypto Infrastructure, Redefined",
   "logo": "https://i.ibb.co/v6ZDhGL4/pfp-black.png",
-  "x": "https://x.com/Decentra_Cloud"
+  "x": "https://x.com/Decentra_Cloud",
+  "registration_date": "2026-04-03",
+  "decommissioned": false,
+  "vdp": true
 }

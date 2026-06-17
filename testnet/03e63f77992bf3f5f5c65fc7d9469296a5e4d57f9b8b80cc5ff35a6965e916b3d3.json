@@ -6,5 +6,8 @@
   "website": "https://venturelaunch.xyz/",
   "description": "Acceleration programs, education tracks, and pop-up cities for emerging ecosystems",
   "logo": "https://amaranth-payable-horse-854.mypinata.cloud/ipfs/bafybeif7ruv6xyn7reovpwlut665h3t6ja433qt3xwe2w6ap7ukocmadru",
-  "x": "https://x.com/venture_launch"
+  "x": "https://x.com/venture_launch",
+  "registration_date": "2026-04-03",
+  "decommissioned": false,
+  "vdp": true
 }

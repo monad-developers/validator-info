@@ -6,5 +6,8 @@
   "website": "https://t.me/QuaDDama4e",
   "description": "Independent and reliable bare-metal Monad validator. Dedicated to securing the network with maximum uptime.",
   "logo": "https://raw.githubusercontent.com/Gabbe-x/validator-assets/main/Logo.png",
-  "x": "https://x.com/ga66ex"
+  "x": "https://x.com/ga66ex",
+  "registration_date": "2026-04-03",
+  "decommissioned": false,
+  "vdp": true
 }

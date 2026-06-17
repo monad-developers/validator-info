@@ -5,6 +5,8 @@
   "bls": "ab23eab8eacc7d4561454f1c3bd7bc2f424996e290b9ca8cac17f875532ac6728c56410d35611ffb92d222a4e556bc24",
   "website": "https://mcf.rocks",
   "description": "MCF Testnet Validator",
-  "logo": "https://mcf.rocks/images/assets/mcf-text-blue.png",
-  "x": "https://x.com/MCFvalidator"
+  "x": "https://x.com/MCFvalidator",
+  "registration_date": "2025-12-18",
+  "decommissioned": false,
+  "vdp": true
 }

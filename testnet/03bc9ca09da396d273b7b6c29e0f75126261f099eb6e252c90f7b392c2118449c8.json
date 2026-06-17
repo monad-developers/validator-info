@@ -6,5 +6,8 @@
   "website": "https://metatarz.xyz",
   "description": "Blockchain infrastructure & professional validator",
   "logo": "https://raw.githubusercontent.com/metatarzxyz/public-info/refs/heads/main/images/logo.jpg",
-  "x": "https://x.com/metatarzxyz"
+  "x": "https://x.com/metatarzxyz",
+  "registration_date": "2026-02-05",
+  "decommissioned": false,
+  "vdp": true
 }

@@ -6,5 +6,8 @@
   "website": "https://www.docomoglobalgr.com/english",
   "description": "NTT DOCOMO GLOBAL will oversee the DOCOMO group's global business operations and drive integrated and agile strategies across diverse domains. Leveraging its global presence, the new subsidiary, working in collaboration with local partners, aims to enhance the quality of life for global customers by creating new lifestyles and contributing to structural changes in societies and industries worldwide.",
   "logo": "https://hosted-assets-container-pbmv.s3.ca-central-1.amazonaws.com/NTT_DOCOMO_GLOBAL.png",
-  "x": "https://x.com/nttdigital_io"
+  "x": "https://x.com/nttdigital_io",
+  "registration_date": "2025-07-22",
+  "decommissioned": false,
+  "vdp": true
 }

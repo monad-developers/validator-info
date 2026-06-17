@@ -6,5 +6,8 @@
   "website": "https://www.alchemy.com",
   "description": "Guaranteed availability and up-time backed by a professional blockchain infrastructure team.",
   "logo": "https://static.alchemyapi.io/logos/alchemy-mark-on-light.png",
-  "x": "https://x.com/Alchemy"
+  "x": "https://x.com/Alchemy",
+  "registration_date": "2025-11-10",
+  "decommissioned": false,
+  "vdp": true
 }

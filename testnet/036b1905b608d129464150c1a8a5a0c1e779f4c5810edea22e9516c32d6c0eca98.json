@@ -6,5 +6,8 @@
   "website": "https://unityfarms.cloud/",
   "description": "Trusted Partner in Blockchain Validation Services",
   "logo": "https://raw.githubusercontent.com/unityfarmschain/unityfarms-assets/refs/heads/main/logo.jpg",
-  "x": ""
+  "x": "",
+  "registration_date": "2026-02-04",
+  "decommissioned": false,
+  "vdp": true
 }

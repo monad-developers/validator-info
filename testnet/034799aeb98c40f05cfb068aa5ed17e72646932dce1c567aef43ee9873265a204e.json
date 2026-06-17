@@ -6,5 +6,8 @@
   "website": "https://skyneticlabs.com/",
   "description": "Secure validator infrastructure for scalable PoS networks",
   "logo": "https://raw.githubusercontent.com/Skyneticlabs/Logo/main/Skyneticlabs.jpg",
-  "x": "https://x.com/skyneticlabs"
+  "x": "https://x.com/skyneticlabs",
+  "registration_date": "2026-03-04",
+  "decommissioned": false,
+  "vdp": true
 }

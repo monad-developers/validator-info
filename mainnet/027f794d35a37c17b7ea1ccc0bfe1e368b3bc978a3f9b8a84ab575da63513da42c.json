@@ -6,5 +6,8 @@
   "website": "https://www.blockdaemon.com/",
   "description": "Blockdaemon is the most battle-tested node provider for 70+ protocols allowing for an easy way to receive optimized rewards while minimizing risk and supporting the network.",
   "logo": "https://raw.githubusercontent.com/Blockdaemon/media-kit/main/images/Blockdaemon-Source-Forge.png",
-  "x": "https://x.com/BlockdaemonHQ"
+  "x": "https://x.com/BlockdaemonHQ",
+  "registration_date": "2025-08-06",
+  "decommissioned": false,
+  "vdp": true
 }

@@ -6,5 +6,8 @@
   "website": "https://uphold.com/en-us",
   "description": "Powering the Web3 economy",
   "logo": "https://cdn.prod.website-files.com/65116a8935747aeda81c6865/65df55befe4d3857f40e05b5_UPHOLD.png",
-  "x": "https://x.com/UpholdInc"
+  "x": "https://x.com/UpholdInc",
+  "registration_date": "2026-06-10",
+  "decommissioned": false,
+  "vdp": true
 }

@@ -6,5 +6,8 @@
   "website": "https://github.com/pointgroup-labs/",
   "description": "Battle-tested validator. Fast blocks, no excuses.",
   "logo": "https://avatars.githubusercontent.com/u/248190589",
-  "x": "https://x.com/pointgrouplabs"
+  "x": "https://x.com/pointgrouplabs",
+  "registration_date": "2026-02-10",
+  "decommissioned": false,
+  "vdp": true
 }
