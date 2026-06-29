@@ -8,6 +8,6 @@
   "logo": "https://stakeangle.com/StakeAngle_logo.png",
   "x": "https://x.com/Muster365",
   "registration_date": "2025-11-11",
-  "decommissioned": false,
+  "decommissioned": true,
   "vdp": true
 }
