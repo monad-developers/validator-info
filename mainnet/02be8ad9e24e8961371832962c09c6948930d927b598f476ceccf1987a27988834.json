@@ -8,6 +8,6 @@
   "logo": "https://raw.githubusercontent.com/ForestStaking/Forest_Staking_Logo/refs/heads/main/Forest_Staking_Logo_main.jpg",
   "x": "https://x.com/foreststaking",
   "registration_date": "2025-11-06",
-  "decommissioned": false,
+  "decommissioned": true,
   "vdp": true
 }
