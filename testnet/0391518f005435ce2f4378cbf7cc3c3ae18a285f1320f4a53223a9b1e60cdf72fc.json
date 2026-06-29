@@ -8,6 +8,6 @@
   "logo": "https://raw.githubusercontent.com/fsc-platform/blockchain-logos/main/flipside_icon.png",
   "x": "https://x.com/flipsidecrypto",
   "registration_date": "2025-07-31",
-  "decommissioned": false,
+  "decommissioned": true,
   "vdp": true
 }
