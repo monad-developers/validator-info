@@ -8,6 +8,6 @@
   "logo": "https://hosted-assets-container-pbmv.s3.ca-central-1.amazonaws.com/NTT_DOCOMO_GLOBAL.png",
   "x": "https://x.com/nttdigital_io",
   "registration_date": "2025-12-18",
-  "decommissioned": false,
+  "decommissioned": true,
   "vdp": true
 }
