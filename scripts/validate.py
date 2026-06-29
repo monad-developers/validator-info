@@ -140,7 +140,7 @@ def main():
 
     # --- Check: 'logo' must point to a valid image URL (optional) ---
     logo = data.get("logo")
-    if logo is not None:
+    if logo is not None and logo != "":
         if check_logo(logo):
             print("✅ Logo is valid")
         else:

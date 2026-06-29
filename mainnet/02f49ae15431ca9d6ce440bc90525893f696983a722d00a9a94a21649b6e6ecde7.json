@@ -8,6 +8,6 @@
   "logo": "https://assets.zellic.io/pfp.jpg",
   "x": "https://x.com/zellic_io",
   "registration_date": "2025-11-20",
-  "decommissioned": false,
+  "decommissioned": true,
   "vdp": true
 }
