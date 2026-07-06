@@ -8,6 +8,6 @@
   "logo": "https://raw.githubusercontent.com/cosmostation/chainlist/4deea8224437cdff96dc588d1671bd63b3cff1f3/resource/cosmostation/cosmostation_black_bg(256x256).png",
   "x": "https://x.com/CosmostationVD",
   "registration_date": "2025-07-15",
-  "decommissioned": false,
+  "decommissioned": true,
   "vdp": true
 }
