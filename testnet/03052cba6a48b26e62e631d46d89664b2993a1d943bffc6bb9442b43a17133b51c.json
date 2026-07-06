@@ -7,6 +7,6 @@
   "description": "High performance validator by SOL Strategies. ISO27001 & SOC2 Type I certified",
   "x": "https://x.com/laine_sa_",
   "registration_date": "2025-09-23",
-  "decommissioned": false,
+  "decommissioned": true,
   "vdp": true
 }

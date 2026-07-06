@@ -8,6 +8,6 @@
   "logo": "https://img.solstrategies.io/cogent.jpg",
   "x": "https://x.com/Cogent_Crypto",
   "registration_date": "2025-09-23",
-  "decommissioned": false,
+  "decommissioned": true,
   "vdp": true
 }
