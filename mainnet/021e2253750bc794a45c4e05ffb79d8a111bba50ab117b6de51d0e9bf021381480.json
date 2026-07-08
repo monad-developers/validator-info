@@ -6,5 +6,8 @@
   "website": "https://www.lakestake.io/",
   "description": "Stake at the lake!",
   "logo": "https://i.postimg.cc/fTHTBc00/LAKE-4.png",
-  "x": "https://x.com/lakestakeio"
+  "x": "https://x.com/lakestakeio",
+  "registration_date": "2025-11-12",
+  "decommissioned": false,
+  "vdp": true
 }

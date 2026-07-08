@@ -6,5 +6,8 @@
   "website": "https://piertwo.com/",
   "description": "Established in 2018, Pier Two is an Australian-based, APAC-focused institutional staking provider. Operating highly performant hybrid cloud and bare metal infrastructure, with zonal redundancy.",
   "logo": "https://avatars.githubusercontent.com/u/125952310",
-  "x": "https://x.com/PierTwo_com"
+  "x": "https://x.com/PierTwo_com",
+  "registration_date": "2025-11-10",
+  "decommissioned": false,
+  "vdp": true
 }

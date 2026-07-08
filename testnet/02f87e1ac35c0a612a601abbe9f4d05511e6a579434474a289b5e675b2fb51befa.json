@@ -1,0 +1,13 @@
+{
+  "id": 276,
+  "name": "Uphold",
+  "secp": "02f87e1ac35c0a612a601abbe9f4d05511e6a579434474a289b5e675b2fb51befa",
+  "bls": "a3948134a62bfe4e14a4ed3ea87647d1d3343cea456b91925c2c89078b038e994b26900a5e0ec56db965ff3b216964f8",
+  "website": "https://uphold.com/en-us",
+  "description": "Powering the Web3 economy",
+  "logo": "https://cdn.prod.website-files.com/65116a8935747aeda81c6865/65df55befe4d3857f40e05b5_UPHOLD.png",
+  "x": "https://x.com/UpholdInc",
+  "registration_date": "2026-06-10",
+  "decommissioned": false,
+  "vdp": true
+}

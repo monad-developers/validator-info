@@ -13,3 +13,19 @@ To contribute:
 1. Share the PR link in the designated Discord channel for review.
 
 ⚠️ Note: PRs that are not shared via Discord will not be reviewed.
+
+## Schema
+
+| Field | Type | Required | Description |
+|---|---|---|---|
+| `id` | integer | yes | Validator ID on-chain |
+| `name` | string | yes | Display name |
+| `secp` | string | yes | SECP public key (66-char hex); must match filename |
+| `bls` | string | yes | BLS public key (96-char hex) |
+| `website` | string | yes | Validator website URL |
+| `description` | string | yes | Short description of the validator |
+| `x` | string | yes | X (Twitter) profile URL |
+| `logo` | string | no | HTTPS URL to a logo image |
+| `registration_date` | string | yes | Date of on-chain registration (`YYYY-MM-DD`) |
+| `decommissioned` | boolean | yes | `true` if the validator is no longer active |
+| `vdp` | boolean | yes | `true` if the validator participates in the Validator Delegation Program |

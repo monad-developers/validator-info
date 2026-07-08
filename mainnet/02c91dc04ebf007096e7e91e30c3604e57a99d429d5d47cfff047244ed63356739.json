@@ -1,0 +1,13 @@
+{
+  "id": 155,
+  "name": "Inactive",
+  "secp": "02c91dc04ebf007096e7e91e30c3604e57a99d429d5d47cfff047244ed63356739",
+  "bls": "917da29ef1b1d8ce5dcdcd305ceb58733fecd027b00f1ade247e87e4b3e3449c44ac819735d25e85d56c46b14b1a0dd9",
+  "website": "",
+  "description": "Inactive",
+  "logo": "https://placehold.co/200x200/ffffff/ffffff.png",
+  "x": "",
+  "registration_date": "2025-11-19",
+  "decommissioned": true,
+  "vdp": true
+}
