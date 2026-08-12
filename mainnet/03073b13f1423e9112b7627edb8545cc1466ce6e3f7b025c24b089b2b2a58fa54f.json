@@ -8,6 +8,6 @@
   "logo": "https://xlabs.xyz/xlabs.png",
   "x": "https://x.com/xLabsxyz",
   "registration_date": "2025-11-19",
-  "decommissioned": false,
+  "decommissioned": true,
   "vdp": true
 }
