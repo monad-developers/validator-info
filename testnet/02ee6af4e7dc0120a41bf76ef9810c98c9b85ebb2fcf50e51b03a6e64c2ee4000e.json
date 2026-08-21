@@ -1,0 +1,13 @@
+{
+  "id": 279,
+  "name": "BeeHive",
+  "secp": "02ee6af4e7dc0120a41bf76ef9810c98c9b85ebb2fcf50e51b03a6e64c2ee4000e",
+  "bls": "89c7d6480c78ab56bc88ad9e27a7f552759eaedf4e51de532050c042722202a494435191a5fa4c73f75c4d090ca711b6",
+  "website": "https://bee-hive.work",
+  "description": "BeeHive is an independent node operator running validators and full nodes on Monad, Ethereum (Lido/Obol) and Cosmos networks. We build and publish open-source operator tooling, including node health diagnostics and Grafana monitoring stacks for Monad.",
+  "logo": "https://github.com/BeeHiveTeam.png",
+  "x": "https://x.com/BeeHive_NT",
+  "registration_date": "2026-08-21",
+  "decommissioned": false,
+  "vdp": true
+}
