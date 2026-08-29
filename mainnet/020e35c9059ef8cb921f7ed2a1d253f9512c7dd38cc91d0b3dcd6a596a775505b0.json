@@ -5,7 +5,7 @@
   "bls": "a975755d059635027dcf5ca3b2a207d59864d4618617d7f7c725fd9af95718a0040cd984397bebaadc3ce20c042f186a",
   "website": "https://www.blocash.xyz",
   "description": "Blocash mainnet validator",
-  "logo": "https://raw.githubusercontent.com/blocashmain/blocash-image/refs/heads/main/blocashmain.jpeg",
+  "logo": "https://raw.githubusercontent.com/blocashmain/blocash-image/refs/heads/main/blocash-logo.png",
   "x": "https://x.com/blocashweb",
   "registration_date": "2026-04-03",
   "decommissioned": false,
