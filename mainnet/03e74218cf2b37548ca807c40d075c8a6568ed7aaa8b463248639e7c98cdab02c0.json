@@ -9,5 +9,7 @@
   "x": "https://x.com/tessellated_io",
   "registration_date": "2025-11-11",
   "decommissioned": false,
-  "vdp": true
+  "vdp": true,
+  "metrics_address": "64.130.58.134",
+  "metrics_port": 61428
 }
