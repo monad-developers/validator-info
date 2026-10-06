@@ -6,5 +6,8 @@
   "website": "https://finoa-fcs.io/products-delegated-staking/",
   "description": "Stake and grow your assets using Finoa Consensus Services's institutional-grade infrastructure.",
   "logo": "https://raw.githubusercontent.com/Finoa-Consensus-Services/eigenlayer/main/logo.png",
-  "x": "https://x.com/FinoaConsensus"
+  "x": "https://x.com/FinoaConsensus",
+  "registration_date": "2025-11-19",
+  "decommissioned": false,
+  "vdp": true
 }

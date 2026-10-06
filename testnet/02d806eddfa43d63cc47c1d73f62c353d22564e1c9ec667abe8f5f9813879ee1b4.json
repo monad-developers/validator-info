@@ -6,5 +6,8 @@
   "website": "https://chainlayer.io/",
   "description": "Secure and reliable validator.",
   "logo": "https://chainlayer.io/icons/icon-512x512.png",
-  "x": "https://x.com/chainlayerio"
+  "x": "https://x.com/chainlayerio",
+  "registration_date": "2025-11-07",
+  "decommissioned": false,
+  "vdp": true
 }

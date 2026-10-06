@@ -6,5 +6,8 @@
   "website": "https://altlayer.io/",
   "description": "AltLayer is a Rollups-as-a-Service (RaaS) provider operating 20+ rollups and validator infrastructure across multiple networks.",
   "logo": "https://files.altlayer.io/AltLayer-brand-kit/Token%20Icon/PNG/Token%20Icon_Purple_02.png",
-  "x": "https://x.com/alt_layer"
+  "x": "https://x.com/alt_layer",
+  "registration_date": "2025-11-11",
+  "decommissioned": false,
+  "vdp": true
 }

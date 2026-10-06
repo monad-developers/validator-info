@@ -6,5 +6,8 @@
   "website": "https://prostaking.com/",
   "description": "Pro Staking for Pro Stakers on the Monad blockchain",
   "logo": "https://bafybeigaa3mbr4qe4hgc55e6srfliawtzdebrs3lrieas63dfc4vdyhiii.ipfs.w3s.link/ProStaking-CircleMark-360px.png",
-  "x": "https://x.com/ProStaking_"
+  "x": "https://x.com/ProStaking_",
+  "registration_date": "2025-11-10",
+  "decommissioned": false,
+  "vdp": true
 }

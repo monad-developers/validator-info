@@ -6,5 +6,8 @@
   "website": "https://01node.com/",
   "description": "Enterprise-grade blockchain validation, powered by independent infrastructure and decades of technical mastery.",
   "logo": "https://raw.githubusercontent.com/01node/brand-kit/refs/heads/main/png/01node-black-avatar-transparent.png",
-  "x": "https://x.com/01node"
+  "x": "https://x.com/01node",
+  "registration_date": "2025-07-22",
+  "decommissioned": false,
+  "vdp": true
 }

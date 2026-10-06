@@ -1,0 +1,13 @@
+{
+  "id": 277,
+  "name": "MAVAN",
+  "secp": "02140511ed2156a2c4b6561c08a5eaf0cf9d756e8fab5cde231a8653835d58da0a",
+  "bls": "a4d981eebe7fb6af8bd8cd490218bb3dae6777f135337d9c84885947d2660b01b8104eafe05702097c15c030e5e22443",
+  "website": "https://www.bitminetech.io/",
+  "description": "MAVAN is the largest single staking operation in the world, providing institutional-grade non-custodial staking services. MAVAN is a Bitmine Immersion Technologies, Inc. (NYSE: BMNR) company.",
+  "logo": "https://app.mavan.bitminetech.io/img/logo/MAVAN_Logomark_White_Eagle_512.png",
+  "x": "https://x.com/BitMNR",
+  "registration_date": "2026-07-28",
+  "decommissioned": false,
+  "vdp": true
+}

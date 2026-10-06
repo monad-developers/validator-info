@@ -1,0 +1,13 @@
+{
+  "id": 220,
+  "name": "Jichu",
+  "secp": "03b350c892d0307f3c7a9a6812c0d9a0e0ce53552121550429623c7bd5baa2297a",
+  "bls": "b6a5b79b3f98f04552514c5f24e0729ba1b1579051f9ab1dfe224737f160ae5908631c55a24c9979ee33248d0a8f61e7",
+  "website": "https://jichu.xyz/",
+  "description": "Monad's Leading Staking & API Platform",
+  "logo": "https://raw.githubusercontent.com/jichu-labs/brand/refs/heads/main/Avatars/Avatar%201024x1024.png",
+  "x": "https://x.com/jichu_xyz",
+  "registration_date": "2026-05-28",
+  "decommissioned": false,
+  "vdp": false
+}

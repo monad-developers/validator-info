@@ -6,5 +6,8 @@
   "website": "https://1xp.com/",
   "description": "1XP secures the future of economic autonomy. With top-tier infrastructure and deep governance expertise, we power networks that enable true decentralization. Stake with experience. Stake with 1XP.",
   "logo": "https://raw.githubusercontent.com/1XP-Inc/brand-kit/refs/heads/main/brandkit/logo/svg/1xp_logo_symbol_transparent.svg",
-  "x": "https://x.com/1XP_Inc"
+  "x": "https://x.com/1XP_Inc",
+  "registration_date": "2025-11-06",
+  "decommissioned": false,
+  "vdp": true
 }

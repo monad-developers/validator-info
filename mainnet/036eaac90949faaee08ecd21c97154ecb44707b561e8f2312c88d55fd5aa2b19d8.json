@@ -6,5 +6,8 @@
   "website": "https://www.deadkingsociety.io/",
   "description": "We create an outstanding social experience for members by curating our community into the Web3 destination of choice.",
   "logo": "https://prod-validators.nyc3.digitaloceanspaces.com/wmbunykyzah9rvnwdrup7drqs3dv",
-  "x": "https://x.com/DeadKingSociety"
+  "x": "https://x.com/DeadKingSociety",
+  "registration_date": "2025-11-13",
+  "decommissioned": false,
+  "vdp": true
 }

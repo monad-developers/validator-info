@@ -6,5 +6,8 @@
   "description": "Syncnode Professional Staking Services - Infrastructure for the next generation of trust",
   "logo": "https://raw.githubusercontent.com/syncnode-srl/syncnode/refs/heads/master/logo2.jpeg",
   "x": "https://x.com/syncn0de",
-  "website": "https://syncnode.tech/"
+  "website": "https://syncnode.tech/",
+  "registration_date": "2025-11-06",
+  "decommissioned": false,
+  "vdp": true
 }

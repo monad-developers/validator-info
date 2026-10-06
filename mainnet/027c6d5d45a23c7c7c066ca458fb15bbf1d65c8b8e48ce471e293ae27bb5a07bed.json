@@ -1,0 +1,13 @@
+{
+  "id": 222,
+  "name": "xLabs",
+  "secp": "027c6d5d45a23c7c7c066ca458fb15bbf1d65c8b8e48ce471e293ae27bb5a07bed",
+  "bls": "855028e645bab84dcb7e50d1ef838ce4265f17ab078394a116fea23eb4fdb61e665ce14555c50c67b5a9f81d46fad770",
+  "website": "https://xlabs.xyz",
+  "description": "Core infrastructure for the internet of value",
+  "logo": "https://xlabs.xyz/xlabs.png",
+  "x": "https://x.com/xLabsxyz",
+  "registration_date": "2026-08-11",
+  "decommissioned": false,
+  "vdp": true
+}

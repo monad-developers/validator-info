@@ -6,5 +6,8 @@
   "website": "https://theworkshop.sh",
   "description": "We run high-performance and transparent validators.",
   "logo": "https://theworkshop.sh/logo-dark.svg",
-  "x": "https://x.com/hoanhan101"
+  "x": "https://x.com/hoanhan101",
+  "registration_date": "2025-12-18",
+  "decommissioned": false,
+  "vdp": true
 }

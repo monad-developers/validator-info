@@ -5,6 +5,8 @@
   "bls": "82aacd6387d707a848b1abde3becf0eafe100833607ccc890595a9ef7ece2032d50580ce95392729698137b845a01572",
   "website": "https://itrocket.net/",
   "description": "Enterprise-level infrastructure and state-of-art tools for node operators, developers and analysts.",
-  "logo": "https://server-4.itrocket.net/logo/itrocket_logo.png",
-  "x": "https://x.com/itrocket_team"
+  "x": "https://x.com/itrocket_team",
+  "registration_date": "2025-11-06",
+  "decommissioned": false,
+  "vdp": true
 }

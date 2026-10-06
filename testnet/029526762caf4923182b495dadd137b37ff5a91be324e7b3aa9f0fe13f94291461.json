@@ -6,5 +6,8 @@
   "website": "https://quantnode.tech/",
   "description": "Non-Custodial Staking Provider with an in-house Web3 development arm. Support over 20 mainnets, including Aptos, Avail, Axelar, dYdX, Graph Network, and Sui with assets under delegation exceeding $170M",
   "logo": "https://raw.githubusercontent.com/QuantNodeTech/identity/refs/heads/main/quantnode256.png",
-  "x": "https://x.com/quantnodetech"
+  "x": "https://x.com/quantnodetech",
+  "registration_date": "2025-12-18",
+  "decommissioned": false,
+  "vdp": true
 }

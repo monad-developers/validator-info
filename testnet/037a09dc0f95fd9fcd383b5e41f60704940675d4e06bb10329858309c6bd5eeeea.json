@@ -6,5 +6,8 @@
   "website": "https://fountainhead.network",
   "description": "Accelerating the future: Decentralized, low-latency and high-performance.",
   "logo": "https://pbs.twimg.com/profile_images/1901618986070011905/F6Ix-Mbc_400x400.jpg",
-  "x": "https://x.com/Fountainhead_zh"
+  "x": "https://x.com/Fountainhead_zh",
+  "registration_date": "2025-12-18",
+  "decommissioned": false,
+  "vdp": true
 }

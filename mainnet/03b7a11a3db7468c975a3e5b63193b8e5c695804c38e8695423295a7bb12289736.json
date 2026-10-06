@@ -6,5 +6,8 @@
   "website": "https://cosmosspaces.zone/",
   "description": "Bare Metal Validators, Relayers, and RPC providers. Top tier infrastructure providers rooted in the Cosmos community.",
   "logo": "https://blob.cosmosspaces.zone/logo.png",
-  "x": "https://x.com/cosmos_spaces"
+  "x": "https://x.com/cosmos_spaces",
+  "registration_date": "2025-11-07",
+  "decommissioned": false,
+  "vdp": true
 }

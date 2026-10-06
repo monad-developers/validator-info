@@ -6,5 +6,8 @@
   "website": "https://www.thepharus.com/",
   "description": "Pharus is community-driven crypto research & education platform",
   "logo": "https://www.thepharus.com/pharus-logo.png",
-  "x": "https://x.com/thepharus"
+  "x": "https://x.com/thepharus",
+  "registration_date": "2025-11-19",
+  "decommissioned": false,
+  "vdp": true
 }

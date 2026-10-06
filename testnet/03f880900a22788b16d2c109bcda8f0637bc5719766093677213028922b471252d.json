@@ -6,5 +6,8 @@
   "website": "https://zim.one",
   "description": "Engaged in blockchain space since 2015.",
   "logo": "https://s.getgems.io/nft/s/6762/67621bfc7c2e492fa0cd9697/nft/1245763.jpg",
-  "x": "https://x.com/zimone91"
+  "x": "https://x.com/zimone91",
+  "registration_date": "2025-11-11",
+  "decommissioned": false,
+  "vdp": true
 }

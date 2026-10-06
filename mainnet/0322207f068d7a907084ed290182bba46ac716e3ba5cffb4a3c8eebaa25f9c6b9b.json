@@ -6,5 +6,8 @@
   "website": "https://staker.space",
   "description": "Where your stake stays yours, we just keep it running",
   "logo": "https://raw.githubusercontent.com/StakerSpace/assets/main/logo.png",
-  "x": "https://x.com/stakerspace"
+  "x": "https://x.com/stakerspace",
+  "registration_date": "2025-11-11",
+  "decommissioned": false,
+  "vdp": true
 }

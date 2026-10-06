@@ -6,5 +6,8 @@
   "website": "https://pathrocknetwork.org/",
   "description": "Secure Non-Custodial Staking for PoS Blockchain Projects. We run reliable and secure validators and nodes for different blockchain protocols. Come stake with us!",
   "logo": "https://pathrocknetwork.org/images/logo/prn.png",
-  "x": "https://x.com/pathrock2"
+  "x": "https://x.com/pathrock2",
+  "registration_date": "2025-11-07",
+  "decommissioned": false,
+  "vdp": true
 }

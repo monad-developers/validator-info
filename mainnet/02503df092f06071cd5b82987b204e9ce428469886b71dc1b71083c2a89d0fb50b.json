@@ -5,6 +5,8 @@
   "bls": "92ef307ddb8771166e11e619e3b463da2444c24935cfabb553969104d0614c0adec69ec92b6439d7765311d5b8fb3e6e",
   "website": "https://starlightnode.com/",
   "description": "Blockchain infra-services provider, committed to support project from their early development stage to mainnet.",
-  "logo": "https://starlightnode.com/wp-content/uploads/2025/11/starlighticon.png",
-  "x": "https://x.com/Starlightnode"
+  "x": "https://x.com/Starlightnode",
+  "registration_date": "2025-11-06",
+  "decommissioned": false,
+  "vdp": true
 }

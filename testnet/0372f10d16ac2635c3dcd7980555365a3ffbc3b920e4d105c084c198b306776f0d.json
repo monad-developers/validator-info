@@ -6,5 +6,8 @@
   "website": "https://nodeshub.online",
   "description": "Empowering Decentralization, Ensuring Security",
   "logo": "https://files.nodeshub.online/brand/n-color.png",
-  "x": "https://x.com/Nodes_Hub"
+  "x": "https://x.com/Nodes_Hub",
+  "registration_date": "2025-11-06",
+  "decommissioned": false,
+  "vdp": true
 }

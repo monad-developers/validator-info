@@ -6,5 +6,8 @@
   "website": "http://cmsholdings.io/",
   "description": "CMS Holdings is a principal investment firm focusing on digital assets and blockchain technology",
   "logo": "https://raw.githubusercontent.com/DaveWK/general_repo/refs/heads/main/cms-logo-only.png",
-  "x": "https://x.com/cmsholdings"
+  "x": "https://x.com/cmsholdings",
+  "registration_date": "2025-11-06",
+  "decommissioned": false,
+  "vdp": true
 }

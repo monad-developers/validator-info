@@ -6,5 +6,8 @@
   "website": "https://nodes.guru",
   "description": "Guru of non-custodial staking. Professional node running, low fees, best uptime and 24/7 customer support.",
   "logo": "https://nodes.guru/kit/mascot-light.svg",
-  "x": "https://x.com/NodesGuru"
+  "x": "https://x.com/NodesGuru",
+  "registration_date": "2025-11-06",
+  "decommissioned": false,
+  "vdp": true
 }
