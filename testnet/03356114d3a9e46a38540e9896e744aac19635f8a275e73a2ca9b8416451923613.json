@@ -1,0 +1,13 @@
+{
+  "id": 280,
+  "name": "MEXC",
+  "secp": "03356114d3a9e46a38540e9896e744aac19635f8a275e73a2ca9b8416451923613",
+  "bls": "a53799d4cd2266859a81316b551cdd780391e67b049846ddde441c7bc1fdb1ed74e11c6525d478653789b7612dada4a6",
+  "website": "https://www.mexc.com",
+  "description": "MEXC Test",
+  "logo": "",
+  "x": "https://x.com/MEXC",
+  "registration_date": "2026-09-16",
+  "decommissioned": false,
+  "vdp": true
+}
