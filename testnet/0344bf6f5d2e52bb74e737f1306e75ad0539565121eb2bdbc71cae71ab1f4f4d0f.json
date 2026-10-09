@@ -9,5 +9,6 @@
   "x": "https://twitter.com/silk_nodes",
   "registration_date": "2025-11-11",
   "decommissioned": false,
+  "metrics_port": 9144,
   "vdp": true
 }

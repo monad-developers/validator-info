@@ -9,6 +9,6 @@
   "x": "https://x.com/BitGo",
   "registration_date": "2025-11-27",
   "decommissioned": false,
-  "vdp": true,
-  "metrics_port": 9144
+  "metrics_port": 9144,
+  "vdp": true
 }
