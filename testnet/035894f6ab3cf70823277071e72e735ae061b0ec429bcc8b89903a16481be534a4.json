@@ -1,12 +1,12 @@
 {
   "id": 123,
-  "name": "Firstset",
+  "name": "TheHUB X Firstset",
   "secp": "035894f6ab3cf70823277071e72e735ae061b0ec429bcc8b89903a16481be534a4",
   "bls": "90ac56f9c443b3b344ed03a280fbca451b827008509eaa37c51581727a192964a1c6455bf37ed07540a0644a9f5c610d",
-  "website": "https://firstset.xyz",
-  "description": "Independent validator supporting emerging chains from day one.",
-  "logo": "https://www.firstset.xyz/logo.png",
-  "x": "https://x.com/firstset_",
+  "website": "https://www.jointhehub.com/",
+  "description": "Community validator for Monad by TheHUB and Firstset",
+  "logo": "https://static.wixstatic.com/media/c4f649_4e12bbe8379147a5ab1dad0f0e8a2f70~mv2.png/v1/fill/w_53,h_53,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/COMPAS%20MEDIUM%20WHITE.png",
+  "x": "https://x.com/TheHUB",
   "registration_date": "2025-11-06",
   "decommissioned": false,
   "vdp": true
