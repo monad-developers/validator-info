@@ -17,6 +17,7 @@ This repository serves as a standard directory for validators to publish their i
 | `registration_date` | string | yes | Date of on-chain registration (`YYYY-MM-DD`) |
 | `decommissioned` | boolean | yes | `true` if the validator is no longer active |
 | `vdp` | boolean | yes | `true` if the validator participates in the Validator Delegation Program |
+| `metrics_address` | string | no | Host (IP or hostname) exposing the validator's metrics endpoint; defaults to the validator's discovered address if missing |
 | `metrics_port` | integer | no | Port exposing the validator's metrics endpoint; defaults to `9143` if missing |
 
 ## Registering a validator
