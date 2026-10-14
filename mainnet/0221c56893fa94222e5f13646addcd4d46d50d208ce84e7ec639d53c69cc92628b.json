@@ -1,0 +1,13 @@
+{
+  "id": 224,
+  "name": "MEXC",
+  "secp": "0221c56893fa94222e5f13646addcd4d46d50d208ce84e7ec639d53c69cc92628b",
+  "bls": "880a7d10c6cb1334adffac3777785e84f220ab33563c0d01dc62245636d03e210e67022e9092d8aab264661de0a46c06",
+  "website": "https://www.mexc.com",
+  "description": "MEXC Exchange validator",
+  "logo": "",
+  "x": "https://x.com/MEXC",
+  "registration_date": "2026-10-12",
+  "decommissioned": false,
+  "vdp": false
+}
