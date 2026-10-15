@@ -8,5 +8,6 @@
   "x": "https://x.com/stakeingermany",
   "registration_date": "2025-11-08",
   "decommissioned": false,
-  "vdp": true
+  "vdp": true,
+  "metrics_port": 9144
 }
