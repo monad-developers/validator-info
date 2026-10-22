@@ -8,5 +8,7 @@
   "x": "https://x.com/linkpoolio",
   "registration_date": "2026-02-10",
   "decommissioned": false,
+  "metrics_address": "89.107.20.42",
+  "metrics_port": 32304,
   "vdp": true
 }
