@@ -9,5 +9,6 @@
   "x": "https://x.com/UpholdInc",
   "registration_date": "2026-06-10",
   "decommissioned": false,
+  "metrics_port": 21212,
   "vdp": true
 }
