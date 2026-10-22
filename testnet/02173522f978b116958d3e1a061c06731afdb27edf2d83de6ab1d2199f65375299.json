@@ -9,5 +9,6 @@
   "x": "https://x.com/artifactstaking",
   "registration_date": "2025-07-15",
   "decommissioned": false,
-  "vdp": true
+  "vdp": true,
+  "metrics_port": 9145
 }
