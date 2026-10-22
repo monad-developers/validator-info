@@ -9,5 +9,6 @@
   "x": "https://twitter.com/Kiln_finance",
   "registration_date": "2025-12-18",
   "decommissioned": false,
+  "metrics_port": 21211,
   "vdp": true
 }
