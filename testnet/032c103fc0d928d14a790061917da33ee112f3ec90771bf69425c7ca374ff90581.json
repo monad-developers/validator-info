@@ -8,6 +8,6 @@
   "logo": "https://raw.githubusercontent.com/Cortex-XYZ/brand-assets/refs/heads/main/cortex-mark-orange-on-transparent.png",
   "x": "https://x.com/Cortex_Global_",
   "registration_date": "2026-06-04",
-  "decommissioned": false,
+  "decommissioned": true,
   "vdp": true
 }
