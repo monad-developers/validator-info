@@ -1,0 +1,13 @@
+{
+  "id": 227,
+  "name": "Dirol Labs",
+  "secp": "02da6c85522c3b43da88661e6d5cc9514044b279bd119c5f8f83d4f3f651ddc7c1",
+  "bls": "b290157c3dfefec8f5b1dea52853ea96b03c33d9c15e05db4e4b5edc27f1ea5249f3dfe37d23bfdb60a56f4249faac3b",
+  "website": "https://dirol.io/",
+  "description": "Dirol is a trading app on Monad: spot swaps through our own DEX aggregator, perpetuals, and social trading.",
+  "logo": "https://www.dirol.io/assets/logo.svg",
+  "x": "https://x.com/DirolLabsX",
+  "registration_date": "2026-10-29",
+  "decommissioned": false,
+  "vdp": true
+}
