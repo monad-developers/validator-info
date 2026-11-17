@@ -1,0 +1,13 @@
+{
+  "id": 283,
+  "name": "Vault Staking",
+  "secp": "038f0421b358c726e3ff378b2d2df140ffc1b3b19db8e3d926b217490033850c78",
+  "bls": "ac7dd2e02473e8c153479228d8e8c219d51cf8cbb6ca694e998a21a81535f0a26ffc48051d2a5ca5e890a7f21c81d051",
+  "website": "https://www.vaultstaking.com/",
+  "description": "Trust the Vault. Stake. Earn Rewards.",
+  "logo": "https://snapshots-eu.vaultstaking.com/assets/vaultstaking-logo.png",
+  "x": "https://x.com/vaultstaking",
+  "registration_date": "2026-11-17",
+  "decommissioned": false,
+  "vdp": false
+}
