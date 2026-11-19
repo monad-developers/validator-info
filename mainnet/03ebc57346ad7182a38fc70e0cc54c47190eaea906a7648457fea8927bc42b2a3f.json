@@ -5,6 +5,7 @@
   "bls": "b6c6490bcc3486e498c9d7b5c4e33a629da73a2c49c192be7a35b9e5fc8aaeb22986941fcaacb898c90f6089dc512dd6",
   "website": "https://www.infura.io",
   "description": "Infura, by Consensys, provides reliable blockchain infrastructure and APIs for Web3 developers.",
+  "logo": "https://www.infura.io/favicon/android-chrome-512x512.png",
   "x": "https://x.com/infura_io",
   "registration_date": "2026-11-19",
   "decommissioned": false,
