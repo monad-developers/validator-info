@@ -1,0 +1,13 @@
+{
+  "id": 285,
+  "name": "rustemar",
+  "secp": "02262f24cd345177c36afb76fcfc8f0764b4d3f96ae3c72d5e4b6db3c6d3e35490",
+  "bls": "8cc863783730452f460ce3924e83847391729acf5e762e28b34b3133e6e59e614d4b11a83dd34eed62c4b9a00b719f6e",
+  "website": "https://rustemar.dev/",
+  "description": "Independent Monad Testnet operator and maintainer of monad-ops, an open-source node monitoring and alerting tool.",
+  "logo": "https://rustemar.dev/img/favicon.svg",
+  "x": "https://x.com/hukutu4_eth",
+  "registration_date": "2026-11-25",
+  "decommissioned": false,
+  "vdp": false
+}
