@@ -1,0 +1,12 @@
+{
+  "id": 225,
+  "name": "winter-validator-1",
+  "secp": "03cc363330e4fb326837152272a03b812e989568188f7d2b2fd1896ea8b7776e02",
+  "bls": "93d0d313a9cddd26afc59853200ecd9428b3053cbcf9b538737e26f614e4d0dc69ef6b10582e44302794b5795bb2e53b",
+  "website": "https://validators.win",
+  "description": "Independent validator operator. Mina mainnet block producer, Celestia mainnet validator + mocha-5 testnet seed, Monad testnet node + mainnet validator. Bare-metal infrastructure, 24/7 monitoring.",
+  "x": "https://x.com/wintvalidator",
+  "registration_date": "2026-10-28",
+  "decommissioned": false,
+  "vdp": true
+}
