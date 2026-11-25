@@ -1,0 +1,13 @@
+{
+  "id": 231,
+  "name": "MonadVision",
+  "secp": "025dd16ab917e96ccefb9ccd63e7f6293f287f474c642117683f9ab0d918beb7cd",
+  "bls": "8c4b1f6e3f3fea286bc09c876ce21d85681ab486e8e999c2760c5d3885bb17dec0f761743fe61924024a609a5e4832c6",
+  "website": "https://blockvision.org",
+  "description": "BlockVision is a leading provider of Web3 data and node services, specializing in explorer solutions, RPC nodes, indexing APIs, and validator services.",
+  "logo": "https://blockvision.org/logo-purple.svg",
+  "x": "https://x.com/blockvisionhq",
+  "registration_date": "2026-11-25",
+  "decommissioned": false,
+  "vdp": true
+}
