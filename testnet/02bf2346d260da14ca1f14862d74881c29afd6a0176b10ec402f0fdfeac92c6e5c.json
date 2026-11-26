@@ -1,0 +1,13 @@
+{
+  "id": 287,
+  "name": "bitszn | valopers.com",
+  "secp": "02bf2346d260da14ca1f14862d74881c29afd6a0176b10ec402f0fdfeac92c6e5c",
+  "bls": "ace97c821c1d0dc72490425d352700ffbcce93aec0b6e40ce6a08cd5b29205fa8bbdedb33aa3567ab56e91670a95b1e8",
+  "website": "https://bitszn.com",
+  "logo": "https://bitszn.com/logo/bitszn_light.svg",
+  "description": "bitszn | Valopers is a professional blockchain validator and infrastructure provider operating validators, explorers and blockchain analytics across multiple networks.",
+  "x": "https://x.com/bitszn_com",
+  "registration_date": "2026-11-26",
+  "decommissioned": false,
+  "vdp": true
+}
