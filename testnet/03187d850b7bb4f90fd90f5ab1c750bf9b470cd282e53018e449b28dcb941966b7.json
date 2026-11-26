@@ -1,0 +1,13 @@
+{
+  "id": 286,
+  "name": "ProofLines",
+  "secp": "03187d850b7bb4f90fd90f5ab1c750bf9b470cd282e53018e449b28dcb941966b7",
+  "bls": "b51007eafed44b477326152733908660239acb04091e4ee3e49c6805c94d5c27482cd1aef39e59ec15e1b13c5145da10",
+  "website": "https://prooflines.org/monad/",
+  "description": "Independent Monad operator. We build open, off-node network tools: monad-sonar, the geo-latency map and the VDP tracker.",
+  "logo": "https://prooflines.org/assets/prooflines-logo-512-transparent.png",
+  "x": "",
+  "registration_date": "2026-11-25",
+  "decommissioned": false,
+  "vdp": false
+}
